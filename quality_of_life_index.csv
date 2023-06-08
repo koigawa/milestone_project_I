@@ -1,4 +1,4 @@
-Country,Stability (15%),Rights (20%),Health (15%),Safety (10%),Climate (15%),Costs (15%),Popularity (10%),Total (100%)
+country_name,stability_15,rights_20,health_15,safety_10,climate_15,costs_15,popularity_10,total_100
 San Marino,81,82,100,97,62,61,46,76
 Australia,86,95,87,94,90,24,41,75
 Hong Kong,81,82,100,99,49,60,52,75
