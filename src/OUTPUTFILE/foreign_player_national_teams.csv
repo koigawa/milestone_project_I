@@ -3,1101 +3,995 @@
 1,10000000.0,Gerónimo Rulli,ajax-amsterdam/startseite/verein/610,Argentina,Netherlands,N
 2,16000000.0,Facundo Medina,rc-lens/startseite/verein/826,Argentina,France,N
 3,5000000.0,Germán Pezzella,real-betis-sevilla/startseite/verein/150,Argentina,Spain,N
-4,12000000.0,Marcos Acuña,fc-sevilla/startseite/verein/368,Argentina,Spain,N
-5,24000000.0,Nahuel Molina,atletico-madrid/startseite/verein/13,Argentina,Spain,N
-6,85000000.0,Enzo Fernández,fc-chelsea/startseite/verein/631,Argentina,England,N
-7,12000000.0,Leandro Paredes,juventus-turin/startseite/verein/506,Argentina,Italy,N
-8,40000000.0,Rodrigo de Paul,atletico-madrid/startseite/verein/13,Argentina,Spain,N
-9,15000000.0,Exequiel Palacios,bayer-04-leverkusen/startseite/verein/15,Argentina,Germany,N
-10,9000000.0,Facundo Buonanotte,brighton-amp-hove-albion/startseite/verein/1237,Argentina,England,N
-11,25000000.0,Alejandro Garnacho,manchester-united/startseite/verein/985,Argentina,England,N
-12,45000000.0,Lionel Messi,fc-paris-saint-germain/startseite/verein/583,Argentina,France,N
-13,50000000.0,Julián Álvarez,manchester-city/startseite/verein/281,Argentina,England,N
+4,10000000.0,Marcos Acuña,fc-sevilla/startseite/verein/368,Argentina,Spain,N
+5,35000000.0,Nahuel Molina,atletico-madrid/startseite/verein/13,Argentina,Spain,N
+6,28000000.0,Guido Rodríguez,real-betis-sevilla/startseite/verein/150,Argentina,Spain,N
+7,42000000.0,Alexis Mac Allister,brighton-amp-hove-albion/startseite/verein/1237,Argentina,England,N
+8,15000000.0,Exequiel Palacios,bayer-04-leverkusen/startseite/verein/15,Argentina,Germany,N
+9,20000000.0,Thiago Almada,atlanta-united-fc/startseite/verein/51663,Argentina,United States,N
+10,30000000.0,Nicolás González,ac-florenz/startseite/verein/430,Argentina,Italy,N
+11,45000000.0,Lionel Messi,fc-paris-saint-germain/startseite/verein/583,Argentina,France,N
+12,8000000.0,Ángel Di María,juventus-turin/startseite/verein/506,Argentina,Italy,N
+13,15000000.0,Giovanni Simeone,ssc-neapel/startseite/verein/6195,Argentina,Italy,N
 14,12000000.0,Walter Benítez,psv-eindhoven/startseite/verein/383,Argentina,Netherlands,N
 15,60000000.0,Cristian Romero,tottenham-hotspur/startseite/verein/148,Argentina,England,N
 16,10000000.0,Leonardo Balerdi,olympique-marseille/startseite/verein/244,Argentina,France,N
-17,3000000.0,Nicolás Otamendi,benfica-lissabon/startseite/verein/294,Argentina,Portugal,N
+17,2000000.0,Nicolás Otamendi,benfica-lissabon/startseite/verein/294,Argentina,Portugal,N
 18,9000000.0,Nicolás Tagliafico,olympique-lyon/startseite/verein/1041,Argentina,France,N
-19,12000000.0,Gonzalo Montiel,fc-sevilla/startseite/verein/368,Argentina,Spain,N
-20,28000000.0,Guido Rodríguez,real-betis-sevilla/startseite/verein/150,Argentina,Spain,N
-21,42000000.0,Alexis Mac Allister,brighton-amp-hove-albion/startseite/verein/1237,Argentina,England,N
-22,18000000.0,Giovani Lo Celso,fc-villarreal/startseite/verein/1050,Argentina,Spain,N
-23,20000000.0,Thiago Almada,atlanta-united-fc/startseite/verein/51663,Argentina,United States,N
-24,28000000.0,Nicolás González,ac-florenz/startseite/verein/430,Argentina,Italy,N
+19,85000000.0,Enzo Fernández,fc-chelsea/startseite/verein/631,Argentina,England,N
+20,12000000.0,Leandro Paredes,juventus-turin/startseite/verein/506,Argentina,Italy,N
+21,40000000.0,Rodrigo de Paul,atletico-madrid/startseite/verein/13,Argentina,Spain,N
+22,14000000.0,Giovani Lo Celso,fc-villarreal/startseite/verein/1050,Argentina,Spain,N
+23,9000000.0,Facundo Buonanotte,brighton-amp-hove-albion/startseite/verein/1237,Argentina,England,N
+24,25000000.0,Alejandro Garnacho,manchester-united/startseite/verein/985,Argentina,England,N
 25,12000000.0,Lucas Ocampos,fc-sevilla/startseite/verein/368,Argentina,Spain,N
-26,10000000.0,Ángel Di María,juventus-turin/startseite/verein/506,Argentina,Italy,N
-27,17000000.0,Giovanni Simeone,ssc-neapel/startseite/verein/6195,Argentina,Italy,N
-28,4000000.0,Mathew Ryan,az-alkmaar/startseite/verein/1090,Australia,Netherlands,N
-29,450000.0,Joe Gauci,adelaide-united/startseite/verein/875,Australia,Australia,Y
-30,2000000.0,Milos Degenek,columbus-crew-sc/startseite/verein/813,Australia,United States,N
-31,700000.0,Bailey Wright,afc-sunderland/startseite/verein/289,Australia,England,N
-32,600000.0,Aziz Behich,dundee-united-fc/startseite/verein/1519,Australia,Scotland,N
-33,850000.0,Nathaniel Atkinson,heart-of-midlothian-fc/startseite/verein/43,Australia,Scotland,N
-34,750000.0,Aiden O'Neill,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
-35,650000.0,Keanu Baccus,st-mirren-fc/startseite/verein/465,Australia,Scotland,N
-36,50000.0,Alex Robertson,manchester-city-u23/startseite/verein/9265,Australia,England,N
-37,1500000.0,Awer Mabil,ac-sparta-prag/startseite/verein/197,Australia,Czech Republic,N
-38,1000000.0,Marco Tilio,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
-39,700000.0,Brandon Borrello,western-sydney-wanderers/startseite/verein/36100,Australia,Australia,Y
-40,800000.0,Mitchell Duke,machida-zelvia/startseite/verein/23568,Australia,Japan,N
-41,500000.0,Andrew Redmayne,sydney-fc/startseite/verein/8054,Australia,Australia,Y
-42,15000000.0,Harry Souttar,leicester-city/startseite/verein/1003,Australia,England,N
-43,1000000.0,Kye Rowles,heart-of-midlothian-fc/startseite/verein/43,Australia,Scotland,N
-44,600000.0,Thomas Deng,albirex-niigata/startseite/verein/8344,Australia,Japan,N
-45,450000.0,Jordan Bos,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
-46,600000.0,Ryan Strain,st-mirren-fc/startseite/verein/465,Australia,Scotland,N
-47,700000.0,Cammy Devlin,heart-of-midlothian-fc/startseite/verein/43,Australia,Scotland,N
-48,2000000.0,Jackson Irvine,fc-st-pauli/startseite/verein/35,Australia,Germany,N
-49,3500000.0,Riley McGree,fc-middlesbrough/startseite/verein/641,Australia,England,N
-50,1500000.0,Craig Goodwin,adelaide-united/startseite/verein/875,Australia,Australia,Y
-51,800000.0,Garang Kuol,newcastle-united/startseite/verein/762,Australia,England,N
-52,1200000.0,Jason Cummings,central-coast-mariners/startseite/verein/6954,Australia,Australia,Y
-53,8000000.0,Koen Casteels,vfl-wolfsburg/startseite/verein/82,Belgium,Germany,N
-54,2500000.0,Thomas Kaminski,blackburn-rovers/startseite/verein/164,Belgium,England,N
-55,20000000.0,Wout Faes,leicester-city/startseite/verein/1003,Belgium,England,N
-56,8500000.0,Sebastiaan Bornauw,vfl-wolfsburg/startseite/verein/82,Belgium,Germany,N
-57,28000000.0,Timothy Castagne,leicester-city/startseite/verein/1003,Belgium,England,N
-58,42000000.0,Amadou Onana,fc-everton/startseite/verein/29,Belgium,England,N
-59,12000000.0,Orel Mangala,nottingham-forest/startseite/verein/703,Belgium,England,N
-60,80000000.0,Kevin De Bruyne,manchester-city/startseite/verein/281,Belgium,England,N
-61,30000000.0,Leandro Trossard,fc-arsenal/startseite/verein/11,Belgium,England,N
-62,15000000.0,Alexis Saelemaekers,ac-mailand/startseite/verein/5,Belgium,Italy,N
-63,9000000.0,Johan Bakayoko,psv-eindhoven/startseite/verein/383,Belgium,Netherlands,N
-64,20000000.0,Loïs Openda,rc-lens/startseite/verein/826,Belgium,France,N
-65,8000000.0,Matz Sels,rc-strassburg-alsace/startseite/verein/667,Belgium,France,N
-66,20000000.0,Arthur Theate,fc-stade-rennes/startseite/verein/273,Belgium,France,N
-67,10000000.0,Zeno Debast,rsc-anderlecht/startseite/verein/58,Belgium,Belgium,Y
-68,1800000.0,Jan Vertonghen,rsc-anderlecht/startseite/verein/58,Belgium,Belgium,Y
-69,6500000.0,Thomas Meunier,borussia-dortmund/startseite/verein/16,Belgium,Germany,N
-70,25000000.0,Roméo Lavia,fc-southampton/startseite/verein/180,Belgium,England,N
-71,8000000.0,Dennis Praet,leicester-city/startseite/verein/1003,Belgium,England,N
-72,27000000.0,Charles De Ketelaere,ac-mailand/startseite/verein/5,Belgium,Italy,N
-73,25000000.0,Yannick Carrasco,atletico-madrid/startseite/verein/13,Belgium,Spain,N
-74,12000000.0,Dodi Lukébakio,hertha-bsc/startseite/verein/44,Belgium,Germany,N
-75,40000000.0,Romelu Lukaku,inter-mailand/startseite/verein/46,Belgium,Italy,N
-76,45000000.0,Alisson,fc-liverpool/startseite/verein/31,Brazil,England,N
-77,3000000.0,Weverton,se-palmeiras-sao-paulo/startseite/verein/1023,Brazil,Brazil,Y
-78,70000000.0,Éder Militão,real-madrid/startseite/verein/418,Brazil,Spain,N
-79,7000000.0,Nino,fluminense-rio-de-janeiro/startseite/verein/2462,Brazil,Brazil,Y
-80,7000000.0,Ayrton Lucas,flamengo-rio-de-janeiro/startseite/verein/614,Brazil,Brazil,Y
-81,12000000.0,Danilo,juventus-turin/startseite/verein/506,Brazil,Italy,N
-82,50000000.0,Casemiro,manchester-united/startseite/verein/985,Brazil,England,N
-83,45000000.0,Lucas Paquetá,west-ham-united/startseite/verein/379,Brazil,England,N
-84,14000000.0,Raphael Veiga,se-palmeiras-sao-paulo/startseite/verein/1023,Brazil,Brazil,Y
-85,80000000.0,Rodrygo,real-madrid/startseite/verein/418,Brazil,Spain,N
-86,55000000.0,Richarlison,tottenham-hotspur/startseite/verein/148,Brazil,England,N
-87,13000000.0,Rony,se-palmeiras-sao-paulo/startseite/verein/1023,Brazil,Brazil,Y
-88,45000000.0,Ederson,manchester-city/startseite/verein/281,Brazil,England,N
-89,70000000.0,Marquinhos,fc-paris-saint-germain/startseite/verein/583,Brazil,France,N
-90,30000000.0,Roger Ibañez,as-rom/startseite/verein/12,Brazil,Italy,N
-91,12000000.0,Alex Telles,fc-sevilla/startseite/verein/368,Brazil,Spain,N
-92,18000000.0,Vanderson,as-monaco/startseite/verein/162,Brazil,Monaco,N
-93,60000000.0,Bruno Guimarães,newcastle-united/startseite/verein/762,Brazil,England,N
-94,14000000.0,André,fluminense-rio-de-janeiro/startseite/verein/2462,Brazil,Brazil,Y
-95,38000000.0,Joelinton,newcastle-united/startseite/verein/762,Brazil,England,N
-96,120000000.0,Vinicius Junior,real-madrid/startseite/verein/418,Brazil,Spain,N
-97,27000000.0,Malcom,zenit-st-petersburg/startseite/verein/964,Brazil,Russia,N
-98,22000000.0,Pedro,flamengo-rio-de-janeiro/startseite/verein/614,Brazil,Brazil,Y
-99,700000.0,Devis Epassy,abha-club/startseite/verein/40039,Cameroon,Saudi Arabia,N
-100,0.0,Marcelin Mbahbi,gazelle-fa-de-garoua/startseite/verein/105802,Cameroon,Cameroon,Y
-101,4000000.0,Jean-Charles Castelletto,fc-nantes/startseite/verein/995,Cameroon,France,N
-102,1000000.0,Flavien Boyomo,albacete-balompie/startseite/verein/1532,Cameroon,Spain,N
-103,1000000.0,Darlin Yongwa,fc-lorient/startseite/verein/1158,Cameroon,France,N
-104,1000000.0,Collins Fai,al-taee/startseite/verein/40079,Cameroon,Saudi Arabia,N
-105,40000000.0,Frank Anguissa,ssc-neapel/startseite/verein/6195,Cameroon,Italy,N
-106,2000000.0,Pierre Kunde,vfl-bochum/startseite/verein/80,Cameroon,Germany,N
-107,0.0,Ben Elliott,fc-chelsea-u23/startseite/verein/9250,Cameroon,England,N
-108,4000000.0,Nicolas Moumi Ngamaleu,dinamo-moskau/startseite/verein/121,Cameroon,Russia,N
-109,28000000.0,Bryan Mbeumo,fc-brentford/startseite/verein/1148,Cameroon,England,N
-110,5000000.0,Vincent Aboubakar,besiktas-istanbul/startseite/verein/114,Cameroon,Turkey,N
-111,400000.0,Simon Omossola,fc-saint-eloi-lupopo/startseite/verein/22838,Cameroon,DR Congo,N
-112,6000000.0,Christopher Wooh,fc-stade-rennes/startseite/verein/273,Cameroon,France,N
-113,1000000.0,Nicolas N'Koulou,aris-thessaloniki/startseite/verein/605,Cameroon,Greece,N
-114,3000000.0,Nouhou,seattle-sounders-fc/startseite/verein/9636,Cameroon,United States,N
-115,1500000.0,Malcom Bokele,fc-girondins-bordeaux/startseite/verein/40,Cameroon,France,N
-116,3500000.0,Martin Hongla,real-valladolid/startseite/verein/366,Cameroon,Spain,N
-117,2800000.0,Olivier Ntcham,swansea-city/startseite/verein/2288,Cameroon,Wales,N
-118,1800000.0,Olivier Kemen,kayserispor/startseite/verein/3205,Cameroon,Turkey,N
-119,10000000.0,Karl Toko Ekambi,fc-stade-rennes/startseite/verein/273,Cameroon,France,N
-120,250000.0,Jerome Ngom Mbekeli,waasland-beveren/startseite/verein/28643,Cameroon,Belgium,N
-121,6000000.0,Eric Maxim Choupo-Moting,fc-bayern-munchen/startseite/verein/27,Cameroon,Germany,N
-122,4000000.0,Ignatius Ganago,fc-nantes/startseite/verein/995,Cameroon,France,N
-123,3000000.0,Maxime Crépeau,los-angeles-fc/startseite/verein/51828,Canada,United States,N
-124,1200000.0,Milan Borjan,roter-stern-belgrad/startseite/verein/159,Canada,Serbia,N
-125,200000.0,Tom McGill,brighton-amp-hove-albion/startseite/verein/1237,Canada,England,N
-126,4000000.0,Kamal Miller,inter-miami-cf/startseite/verein/69261,Canada,United States,N
-127,1500000.0,Lukas MacNaughton,nashville-sc/startseite/verein/63966,Canada,United States,N
-128,800000.0,Derek Cornelius,malmo-ff/startseite/verein/496,Canada,Sweden,N
-129,500000.0,Doneil Henry,minnesota-united-fc/startseite/verein/56089,Canada,United States,N
-130,50000.0,Moïse Bombito,colorado-rapids/startseite/verein/1247,Canada,United States,N
-131,2500000.0,Sam Adekugbe,galatasaray-istanbul/startseite/verein/141,Canada,Turkey,N
-132,1000000.0,Raheem Edwards,los-angeles-galaxy/startseite/verein/1061,Canada,United States,N
-133,2500000.0,Richie Laryea,toronto-fc/startseite/verein/11141,Canada,Canada,Y
-134,1000000.0,Zachary Brault-Guillard,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
-135,2500000.0,Samuel Piette,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
-136,200000.0,Atiba Hutchinson,besiktas-istanbul/startseite/verein/114,Canada,Turkey,N
-137,6000000.0,Ismaël Koné,fc-watford/startseite/verein/1010,Canada,England,N
-138,3000000.0,Mark-Anthony Kaye,toronto-fc/startseite/verein/11141,Canada,Canada,Y
-139,325000.0,Victor Loturi,ross-county-fc/startseite/verein/2759,Canada,Scotland,N
-140,1500000.0,Mathieu Choinière,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
-141,525000.0,David Wotherspoon,st-johnstone-fc/startseite/verein/2578,Canada,Scotland,N
-142,4000000.0,Jayden Nelson,rosenborg-bk/startseite/verein/195,Canada,Norway,N
-143,1800000.0,Liam Millar,fc-basel-1893/startseite/verein/26,Canada,Switzerland,N
-144,800000.0,Junior Hoilett,fc-reading/startseite/verein/1032,Canada,England,N
-145,2000000.0,Deandre Kerr,toronto-fc/startseite/verein/11141,Canada,Canada,Y
-146,325000.0,Charles-Andreas Brym,fc-eindhoven/startseite/verein/3892,Canada,Netherlands,N
-147,8000000.0,Cyle Larin,real-valladolid/startseite/verein/366,Canada,Spain,N
-148,3000000.0,Ayo Akinola,toronto-fc/startseite/verein/11141,Canada,Canada,Y
-149,1000000.0,Jacen Russell-Rowe,columbus-crew-sc/startseite/verein/813,Canada,United States,N
-150,1500000.0,Dayne St. Clair,minnesota-united-fc/startseite/verein/56089,Canada,United States,N
-151,500000.0,Thomas Hasal,vancouver-whitecaps-fc/startseite/verein/6321,Canada,Canada,Y
-152,200000.0,Jonathan Sirois,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
-153,2500000.0,Joel Waterman,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
-154,1500000.0,Kyle Hiebert,st-louis-city-sc/startseite/verein/82686,Canada,United States,N
-155,600000.0,Scott Kennedy,ssv-jahn-regensburg/startseite/verein/109,Canada,Germany,N
-156,100000.0,Steven Vitória,gd-chaves/startseite/verein/3325,Canada,Portugal,N
-157,70000000.0,Alphonso Davies,fc-bayern-munchen/startseite/verein/27,Canada,Germany,N
-158,1200000.0,Luca Petrasso,orlando-city-sc/startseite/verein/45604,Canada,United States,N
-159,6000000.0,Alistair Johnston,celtic-glasgow/startseite/verein/371,Canada,Scotland,N
-160,2500000.0,Jahkeele Marshall-Rutty,toronto-fc/startseite/verein/11141,Canada,Canada,Y
-161,300000.0,Dominick Zator,korona-kielce/startseite/verein/6110,Canada,Poland,N
-162,700000.0,Liam Fraser,kmsk-deinze/startseite/verein/2321,Canada,Belgium,N
-163,10000000.0,Stephen Eustaquio,fc-porto/startseite/verein/720,Canada,Portugal,N
-164,3500000.0,Jonathan Osorio,toronto-fc/startseite/verein/11141,Canada,Canada,Y
-165,1500000.0,Aidan Morris,columbus-crew-sc/startseite/verein/813,Canada,United States,N
-166,1500000.0,Ryan Raposo,vancouver-whitecaps-fc/startseite/verein/6321,Canada,Canada,Y
-167,250000.0,Ali Ahmed,vancouver-whitecaps-fc/startseite/verein/6321,Canada,Canada,Y
-168,350000.0,Sean Rea,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
-169,2500000.0,Jacob Shaffelburg,nashville-sc/startseite/verein/63966,Canada,United States,N
-170,1000000.0,Luca Koleosho,espanyol-barcelona-b/startseite/verein/10773,Canada,Spain,N
-171,12000000.0,Tajon Buchanan,fc-brugge/startseite/verein/2282,Canada,Belgium,N
-172,1500000.0,Theo Corbeanu,arminia-bielefeld/startseite/verein/10,Canada,Germany,N
-173,60000000.0,Jonathan David,losc-lille/startseite/verein/1082,Canada,France,N
-174,4000000.0,Iké Ugbo,es-troyes-ac/startseite/verein/1095,Canada,France,N
-175,2000000.0,Lucas Cavallini,club-tijuana/startseite/verein/13353,Canada,Mexico,N
-176,2400000.0,Álvaro Montero,millonarios-fc/startseite/verein/2350,Colombia,Colombia,Y
-177,350000.0,Devis Vásquez,ac-mailand/startseite/verein/5,Colombia,Italy,N
-178,9000000.0,Jhon Lucumí,fc-bologna/startseite/verein/1025,Colombia,Italy,N
-179,1500000.0,Alexis Pérez,giresunspor/startseite/verein/11688,Colombia,Turkey,N
-180,3000000.0,Deiver Machado,rc-lens/startseite/verein/826,Colombia,France,N
-181,2000000.0,Juan David Mosquera,portland-timbers/startseite/verein/4291,Colombia,United States,N
-182,800000.0,Yilmar Velásquez,deportivo-pereira/startseite/verein/9811,Colombia,Colombia,Y
-183,800000.0,Nelson Palacio,atletico-nacional/startseite/verein/8172,Colombia,Colombia,Y
-184,6000000.0,James Rodríguez,vereinslos/startseite/verein/515,Colombia,,Y
-185,8000000.0,Jhon Arias,fluminense-rio-de-janeiro/startseite/verein/2462,Colombia,Brazil,N
-186,5000000.0,Diego Valoyes,club-atletico-talleres/startseite/verein/3938,Colombia,Argentina,N
-187,12000000.0,Rafael Borré,eintracht-frankfurt/startseite/verein/24,Colombia,Germany,N
-188,2000000.0,Camilo Vargas,atlas-guadalajara/startseite/verein/8590,Colombia,Mexico,N
-189,20000000.0,Davinson Sánchez,tottenham-hotspur/startseite/verein/148,Colombia,England,N
-190,8000000.0,Carlos Cuesta,krc-genk/startseite/verein/1184,Colombia,Belgium,N
-191,5000000.0,Johan Mojica,fc-villarreal/startseite/verein/1050,Colombia,Spain,N
-192,9000000.0,Daniel Muñoz,krc-genk/startseite/verein/1184,Colombia,Belgium,N
-193,1000000.0,Kevin Castaño,rionegro-aguilas/startseite/verein/20590,Colombia,Colombia,Y
-194,10000000.0,Mateus Uribe,fc-porto/startseite/verein/720,Colombia,Portugal,N
-195,8000000.0,Jorge Carrascal,zska-moskau/startseite/verein/2410,Colombia,Russia,N
-196,3200000.0,Juan Fernando Quintero,junior-fc/startseite/verein/11854,Colombia,Colombia,Y
-197,3500000.0,Dylan Borrero,new-england-revolution/startseite/verein/626,Colombia,United States,N
-198,12000000.0,Jhon Durán,aston-villa/startseite/verein/405,Colombia,England,N
-199,2000000.0,Radamel Falcao,rayo-vallecano/startseite/verein/367,Colombia,Spain,N
-200,225000.0,Kevin Chamorro,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
-201,125000.0,Alexandre Lezcano,santos-de-guapiles-fc/startseite/verein/20541,Costa Rica,Costa Rica,Y
-202,1500000.0,Francisco Calvo,konyaspor/startseite/verein/2293,Costa Rica,Turkey,N
-203,175000.0,Kendall Waston,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
-204,200000.0,Suhander Zúñiga,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
-205,250000.0,Keysher Fuller,cs-herediano/startseite/verein/2677,Costa Rica,Costa Rica,Y
-206,250000.0,Youstin Salas,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
-207,200000.0,Fabrizio Ramírez,guadalupe-fc/startseite/verein/18574,Costa Rica,Costa Rica,Y
-208,275000.0,Aarón Suárez,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
-209,2000000.0,Joel Campbell,club-leon-fc/startseite/verein/4941,Costa Rica,Mexico,N
-210,375000.0,Anthony Contreras,cs-herediano/startseite/verein/2677,Costa Rica,Costa Rica,Y
-211,200000.0,Patrick Sequeira,cd-lugo/startseite/verein/11000,Costa Rica,Spain,N
-212,1700000.0,Juan Pablo Vargas,millonarios-fc/startseite/verein/2350,Costa Rica,Colombia,N
-213,300000.0,Daniel Chacón,colorado-rapids-2/startseite/verein/95335,Costa Rica,United States,N
-214,225000.0,Ian Lawrence,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
-215,275000.0,Carlos Martínez,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
-216,275000.0,Yeltsin Tejeda,cs-herediano/startseite/verein/2677,Costa Rica,Costa Rica,Y
-217,250000.0,Roan Wilson,gil-vicente-fc/startseite/verein/2424,Costa Rica,Portugal,N
-218,275000.0,Brandon Aguilera,gd-estoril-praia/startseite/verein/1465,Costa Rica,Portugal,N
-219,125000.0,Josimar Alcócer,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
-220,600000.0,Alonso Martínez,lommel-sk/startseite/verein/5026,Costa Rica,Belgium,N
-221,125000.0,José Pablo Córdoba,ad-guanacasteca/startseite/verein/25769,Costa Rica,Costa Rica,Y
-222,14000000.0,Dominik Livakovic,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
-223,2000000.0,Nediljko Labrovic,hnk-rijeka/startseite/verein/144,Croatia,Croatia,Y
-224,18000000.0,Josip Sutalo,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
-225,1800000.0,Domagoj Vida,aek-athen/startseite/verein/2441,Croatia,Greece,N
-226,6500000.0,Borna Barisic,glasgow-rangers/startseite/verein/124,Croatia,Scotland,N
-227,9000000.0,Josip Juranovic,1-fc-union-berlin/startseite/verein/89,Croatia,Germany,N
-228,40000000.0,Mateo Kovacic,fc-chelsea/startseite/verein/631,Croatia,England,N
-229,10000000.0,Ivan Perisic,tottenham-hotspur/startseite/verein/148,Croatia,England,N
-230,20000000.0,Lovro Majer,fc-stade-rennes/startseite/verein/273,Croatia,France,N
-231,10000000.0,Luka Ivanusec,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
-232,9000000.0,Andrej Kramaric,tsg-1899-hoffenheim/startseite/verein/533,Croatia,Germany,N
-233,6000000.0,Bruno Petkovic,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
-234,3500000.0,Ivo Grbic,atletico-madrid/startseite/verein/13,Croatia,Spain,N
-235,75000000.0,Josko Gvardiol,rasenballsport-leipzig/startseite/verein/23826,Croatia,Germany,N
-236,5500000.0,Martin Erlic,us-sassuolo/startseite/verein/6574,Croatia,Italy,N
-237,15000000.0,Borna Sosa,vfb-stuttgart/startseite/verein/79,Croatia,Germany,N
-238,12000000.0,Josip Stanisic,fc-bayern-munchen/startseite/verein/27,Croatia,Germany,N
-239,28000000.0,Marcelo Brozovic,inter-mailand/startseite/verein/46,Croatia,Italy,N
-240,10000000.0,Luka Modric,real-madrid/startseite/verein/418,Croatia,Spain,N
-241,25000000.0,Mario Pasalic,atalanta-bergamo/startseite/verein/800,Croatia,Italy,N
-242,20000000.0,Nikola Vlasic,fc-turin/startseite/verein/416,Croatia,Italy,N
-243,7000000.0,Mislav Orsic,fc-southampton/startseite/verein/180,Croatia,England,N
-244,8000000.0,Marko Livaja,hnk-hajduk-split/startseite/verein/447,Croatia,Croatia,Y
-245,5000000.0,Petar Musa,benfica-lissabon/startseite/verein/294,Croatia,Portugal,N
-246,3500000.0,Frederik Rönnow,1-fc-union-berlin/startseite/verein/89,Denmark,Germany,N
-247,2000000.0,Mads Hermansen,brondby-if/startseite/verein/206,Denmark,Denmark,Y
-248,5000000.0,Simon Kjaer,ac-mailand/startseite/verein/5,Denmark,Italy,N
-249,14000000.0,Joakim Maehle,atalanta-bergamo/startseite/verein/800,Denmark,Italy,N
-250,8000000.0,Alexander Bah,benfica-lissabon/startseite/verein/294,Denmark,Portugal,N
-251,1000000.0,Elias Jelert,fc-kopenhagen/startseite/verein/190,Denmark,Denmark,Y
-252,12000000.0,Morten Hjulmand,us-lecce/startseite/verein/1005,Denmark,Italy,N
-253,18000000.0,Philip Billing,afc-bournemouth/startseite/verein/989,Denmark,England,N
-254,15000000.0,Mikkel Damsgaard,fc-brentford/startseite/verein/1148,Denmark,England,N
-255,9000000.0,Anders Dreyer,rsc-anderlecht/startseite/verein/58,Denmark,Belgium,N
-256,14000000.0,Jonas Wind,vfl-wolfsburg/startseite/verein/82,Denmark,Germany,N
-257,4500000.0,Marcus Ingvartsen,1-fsv-mainz-05/startseite/verein/39,Denmark,Germany,N
-258,2500000.0,Kasper Schmeichel,ogc-nizza/startseite/verein/417,Denmark,France,N
-259,16500000.0,Victor Nelsson,galatasaray-istanbul/startseite/verein/141,Denmark,Turkey,N
-260,1500000.0,Zanka,fc-brentford/startseite/verein/1148,Denmark,England,N
-261,15000000.0,Rasmus Kristensen,leeds-united/startseite/verein/399,Denmark,England,N
-262,1800000.0,Jens Stryger Larsen,trabzonspor/startseite/verein/449,Denmark,Turkey,N
-263,14000000.0,Christian Nörgaard,fc-brentford/startseite/verein/1148,Denmark,England,N
-264,45000000.0,Pierre-Emile Höjbjerg,tottenham-hotspur/startseite/verein/148,Denmark,England,N
-265,14000000.0,Mathias Jensen,fc-brentford/startseite/verein/1148,Denmark,England,N
-266,6000000.0,Mohamed Daramy,fc-kopenhagen/startseite/verein/190,Denmark,Denmark,Y
-267,35000000.0,Rasmus Højlund,atalanta-bergamo/startseite/verein/800,Denmark,Italy,N
-268,6000000.0,Martin Braithwaite,espanyol-barcelona/startseite/verein/714,Denmark,Spain,N
-269,1000000.0,Moisés Ramírez,independiente-del-valle/startseite/verein/19309,Ecuador,Ecuador,Y
-270,600000.0,Alexander Domínguez,ldu-quito/startseite/verein/9855,Ecuador,Ecuador,Y
-271,9000000.0,Willian Pacho,royal-antwerpen-fc/startseite/verein/1096,Ecuador,Belgium,N
-272,2000000.0,Xavier Arreaga,seattle-sounders-fc/startseite/verein/9636,Ecuador,United States,N
-273,20000000.0,Pervis Estupiñán,brighton-amp-hove-albion/startseite/verein/1237,Ecuador,England,N
-274,4000000.0,Angelo Preciado,krc-genk/startseite/verein/1184,Ecuador,Belgium,N
-275,2800000.0,Marco Angulo,fc-cincinnati/startseite/verein/51772,Ecuador,United States,N
-276,12000000.0,José Cifuentes,los-angeles-fc/startseite/verein/51828,Ecuador,United States,N
-277,5000000.0,Jeremy Sarmiento,brighton-amp-hove-albion/startseite/verein/1237,Ecuador,England,N
-278,1800000.0,Alexander Alvarado,ldu-quito/startseite/verein/9855,Ecuador,Ecuador,Y
-279,2000000.0,Michael Estrada,cd-cruz-azul/startseite/verein/3711,Ecuador,Mexico,N
-280,600000.0,Hernán Galíndez,sd-aucas/startseite/verein/6362,Ecuador,Ecuador,Y
-281,25000000.0,Piero Hincapié,bayer-04-leverkusen/startseite/verein/15,Ecuador,Germany,N
-282,6000000.0,Félix Torres,santos-laguna/startseite/verein/1403,Ecuador,Mexico,N
-283,1500000.0,Joel Ordóñez,fc-brugge/startseite/verein/2282,Ecuador,Belgium,N
-284,4000000.0,Diego Palacios,los-angeles-fc/startseite/verein/51828,Ecuador,United States,N
-285,55000000.0,Moisés Caicedo,brighton-amp-hove-albion/startseite/verein/1237,Ecuador,England,N
-286,2500000.0,Jhegson Méndez,fc-sao-paulo/startseite/verein/585,Ecuador,Brazil,N
-287,3000000.0,Alan Franco,club-atletico-talleres/startseite/verein/3938,Ecuador,Argentina,N
-288,2000000.0,Júnior Sornoza,independiente-del-valle/startseite/verein/19309,Ecuador,Ecuador,Y
-289,1200000.0,Ángel Mena,club-leon-fc/startseite/verein/4941,Ecuador,Mexico,N
-290,500000.0,Kevin Rodríguez,independiente-del-valle/startseite/verein/19309,Ecuador,Ecuador,Y
-291,2500000.0,Mohamed El Shenawy,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-292,600000.0,Mohamed Sobhi,zamalek-sc/startseite/verein/664,Egypt,Egypt,Y
-293,2000000.0,Mohamed Abdelmonem,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-294,800000.0,Osama Galal,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
-295,1000000.0,Mohamed Hamdi,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
-296,200000.0,Hesham Salah,ittihad-alexandria/startseite/verein/3963,Egypt,Egypt,Y
-297,600000.0,Tarek Hamed,al-ittihad-dschidda/startseite/verein/8023,Egypt,Saudi Arabia,N
-298,400000.0,Marwan Ateya,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-299,800000.0,Ahmed Abdelkader,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-300,4500000.0,Zizo,zamalek-sc/startseite/verein/664,Egypt,Egypt,Y
-301,6000000.0,Mostafa Mohamed,fc-nantes/startseite/verein/995,Egypt,France,N
-302,3000000.0,Ahmed Hassan,alanyaspor/startseite/verein/11282,Egypt,Turkey,N
-303,800000.0,Ahmed El Shenawy,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
-304,2500000.0,Ahmed Hegazy,al-ittihad-dschidda/startseite/verein/8023,Egypt,Saudi Arabia,N
-305,800000.0,Ali Gabr,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
-306,1500000.0,Ahmed Fatouh,zamalek-sc/startseite/verein/664,Egypt,Egypt,Y
-307,800000.0,Mohamed Hany,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-308,1500000.0,Hamdi Fathi,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-309,800000.0,Mahmoud Hamada,pharco-fc/startseite/verein/47058,Egypt,Egypt,Y
-310,2500000.0,Emam Ashour,fc-midtjylland/startseite/verein/865,Egypt,Denmark,N
-311,70000000.0,Mohamed Salah,fc-liverpool/startseite/verein/31,Egypt,England,N
-312,1800000.0,Mostafa Fathi,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
-313,6000000.0,Omar Marmoush,vfl-wolfsburg/startseite/verein/82,Egypt,Germany,N
-314,600000.0,Kahraba,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
-315,38000000.0,Aaron Ramsdale,fc-arsenal/startseite/verein/11,England,England,Y
-316,4000000.0,Sam Johnstone,crystal-palace/startseite/verein/873,England,England,Y
-317,30000000.0,John Stones,manchester-city/startseite/verein/281,England,England,Y
-318,25000000.0,Harry Maguire,manchester-united/startseite/verein/985,England,England,Y
-319,35000000.0,Luke Shaw,manchester-united/startseite/verein/985,England,England,Y
-320,15000000.0,Kyle Walker,manchester-city/startseite/verein/281,England,England,Y
-321,80000000.0,Declan Rice,west-ham-united/startseite/verein/379,England,England,Y
-322,120000000.0,Jude Bellingham,borussia-dortmund/startseite/verein/16,England,Germany,N
-323,10000000.0,Jordan Henderson,fc-liverpool/startseite/verein/31,England,England,Y
-324,30000000.0,Eberechi Eze,crystal-palace/startseite/verein/873,England,England,Y
-325,80000000.0,Marcus Rashford,manchester-united/startseite/verein/985,England,England,Y
-326,110000000.0,Bukayo Saka,fc-arsenal/startseite/verein/11,England,England,Y
-327,18000000.0,Callum Wilson,newcastle-united/startseite/verein/762,England,England,Y
-328,25000000.0,Jordan Pickford,fc-everton/startseite/verein/29,England,England,Y
-329,35000000.0,Marc Guéhi,crystal-palace/startseite/verein/873,England,England,Y
-330,25000000.0,Tyrone Mings,aston-villa/startseite/verein/405,England,England,Y
-331,18000000.0,Lewis Dunk,brighton-amp-hove-albion/startseite/verein/1237,England,England,Y
-332,65000000.0,Trent Alexander-Arnold,fc-liverpool/startseite/verein/31,England,England,Y
-333,13000000.0,Kieran Trippier,newcastle-united/startseite/verein/762,England,England,Y
-334,35000000.0,Kalvin Phillips,manchester-city/startseite/verein/281,England,England,Y
-335,32000000.0,Conor Gallagher,fc-chelsea/startseite/verein/631,England,England,Y
-336,55000000.0,James Maddison,leicester-city/startseite/verein/1003,England,England,Y
-337,110000000.0,Phil Foden,manchester-city/startseite/verein/281,England,England,Y
-338,70000000.0,Jack Grealish,manchester-city/startseite/verein/281,England,England,Y
-339,90000000.0,Harry Kane,tottenham-hotspur/startseite/verein/148,England,England,Y
-340,35000000.0,Mike Maignan,ac-mailand/startseite/verein/5,France,Italy,N
-341,8000000.0,Alphonse Areola,west-ham-united/startseite/verein/379,France,England,N
-342,60000000.0,Dayot Upamecano,fc-bayern-munchen/startseite/verein/27,France,Germany,N
-343,35000000.0,Ibrahima Konaté,fc-liverpool/startseite/verein/31,France,England,N
-344,60000000.0,Theo Hernández,ac-mailand/startseite/verein/5,France,Italy,N
-345,35000000.0,Benjamin Pavard,fc-bayern-munchen/startseite/verein/27,France,Germany,N
-346,60000000.0,Eduardo Camavinga,real-madrid/startseite/verein/418,France,Spain,N
-347,25000000.0,Youssouf Fofana,as-monaco/startseite/verein/162,France,Monaco,N
-348,60000000.0,Ousmane Dembélé,fc-barcelona/startseite/verein/131,France,Spain,N
-349,25000000.0,Antoine Griezmann,atletico-madrid/startseite/verein/13,France,Spain,N
-350,65000000.0,Randal Kolo Muani,eintracht-frankfurt/startseite/verein/24,France,Germany,N
-351,4000000.0,Olivier Giroud,ac-mailand/startseite/verein/5,France,Italy,N
-352,10000000.0,Brice Samba,rc-lens/startseite/verein/826,France,France,Y
-353,65000000.0,Wesley Fofana,fc-chelsea/startseite/verein/631,France,England,N
-354,60000000.0,Jules Koundé,fc-barcelona/startseite/verein/131,France,Spain,N
-355,25000000.0,Axel Disasi,as-monaco/startseite/verein/162,France,Monaco,N
-356,35000000.0,Ferland Mendy,real-madrid/startseite/verein/418,France,Spain,N
-357,90000000.0,Aurélien Tchouaméni,real-madrid/startseite/verein/418,France,Spain,N
-358,30000000.0,Adrien Rabiot,juventus-turin/startseite/verein/506,France,Italy,N
-359,65000000.0,Kingsley Coman,fc-bayern-munchen/startseite/verein/27,France,Germany,N
-360,80000000.0,Christopher Nkunku,rasenballsport-leipzig/startseite/verein/23826,France,Germany,N
-361,180000000.0,Kylian Mbappé,fc-paris-saint-germain/startseite/verein/583,France,France,Y
-362,32000000.0,Marcus Thuram,borussia-monchengladbach/startseite/verein/18,France,Germany,N
-363,40000000.0,Marc-André ter Stegen,fc-barcelona/startseite/verein/131,Germany,Spain,N
-364,8500000.0,Kevin Trapp,eintracht-frankfurt/startseite/verein/24,Germany,Germany,Y
-365,18000000.0,Thilo Kehrer,west-ham-united/startseite/verein/379,Germany,England,N
-366,20000000.0,David Raum,rasenballsport-leipzig/startseite/verein/23826,Germany,Germany,Y
-367,9000000.0,Marius Wolf,borussia-dortmund/startseite/verein/16,Germany,Germany,Y
-368,80000000.0,Joshua Kimmich,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
-369,65000000.0,Leon Goretzka,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
-370,13000000.0,Mario Götze,eintracht-frankfurt/startseite/verein/24,Germany,Germany,Y
-371,55000000.0,Serge Gnabry,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
-372,25000000.0,Timo Werner,rasenballsport-leipzig/startseite/verein/23826,Germany,Germany,Y
-373,12000000.0,Mergim Berisha,fc-augsburg/startseite/verein/167,Germany,Germany,Y
-374,10000000.0,Bernd Leno,fc-fulham/startseite/verein/931,Germany,England,N
-375,20000000.0,Matthias Ginter,sc-freiburg/startseite/verein/60,Germany,Germany,Y
-376,15000000.0,Malick Thiaw,ac-mailand/startseite/verein/5,Germany,Italy,N
-377,10000000.0,Christian Günter,sc-freiburg/startseite/verein/60,Germany,Germany,Y
-378,5000000.0,Josha Vagnoman,vfb-stuttgart/startseite/verein/79,Germany,Germany,Y
-379,14000000.0,Emre Can,borussia-dortmund/startseite/verein/16,Germany,Germany,Y
-380,85000000.0,Florian Wirtz,bayer-04-leverkusen/startseite/verein/15,Germany,Germany,Y
-381,8000000.0,Felix Nmecha,vfl-wolfsburg/startseite/verein/82,Germany,Germany,Y
-382,20000000.0,Kevin Schade,fc-brentford/startseite/verein/1148,Germany,England,N
-383,13000000.0,Niclas Füllkrug,sv-werder-bremen/startseite/verein/86,Germany,Germany,Y
-384,3000000.0,Lawrence Ati Zigi,fc-st-gallen-1879/startseite/verein/257,Ghana,Switzerland,N
-385,300000.0,Joe Wollacott,charlton-athletic/startseite/verein/358,Ghana,England,N
-386,15000000.0,Daniel Amartey,leicester-city/startseite/verein/1003,Ghana,England,N
-387,8000000.0,Alexander Djiku,rc-strassburg-alsace/startseite/verein/667,Ghana,France,N
-388,400000.0,Patrick Kpozo,fc-sheriff-tiraspol/startseite/verein/2481,Ghana,Moldova,N
-389,600000.0,Denis Odoi,fc-brugge/startseite/verein/2282,Ghana,Belgium,N
-390,13000000.0,Salis Abdul Samed,rc-lens/startseite/verein/826,Ghana,France,N
-391,2800000.0,Majeed Ashimeru,rsc-anderlecht/startseite/verein/58,Ghana,Belgium,N
-392,30000000.0,Mohammed Kudus,ajax-amsterdam/startseite/verein/610,Ghana,Netherlands,N
-393,2200000.0,André Ayew,nottingham-forest/startseite/verein/703,Ghana,England,N
-394,5000000.0,Osman Bukari,roter-stern-belgrad/startseite/verein/159,Ghana,Serbia,N
-395,2500000.0,Ransford-Yeboah Königsdörffer,hamburger-sv/startseite/verein/41,Ghana,Germany,N
-396,9000000.0,Antoine Semenyo,afc-bournemouth/startseite/verein/989,Ghana,England,N
-397,400000.0,Abdul Nurudeen,kas-eupen/startseite/verein/1245,Ghana,Belgium,N
-398,18000000.0,Mohammed Salisu,fc-southampton/startseite/verein/180,Ghana,England,N
-399,8000000.0,Joseph Aidoo,celta-vigo/startseite/verein/940,Ghana,Spain,N
-400,2000000.0,Gideon Mensah,aj-auxerre/startseite/verein/290,Ghana,France,N
-401,15000000.0,Tariq Lamptey,brighton-amp-hove-albion/startseite/verein/1237,Ghana,England,N
-402,38000000.0,Thomas Partey,fc-arsenal/startseite/verein/11,Ghana,England,N
-403,1000000.0,Edmund Addo,fk-spartak-subotica/startseite/verein/15276,Ghana,Serbia,N
-404,1000000.0,Kingsley Schindler,1-fc-koln/startseite/verein/3,Ghana,Germany,N
-405,22000000.0,Kamaldeen Sulemana,fc-southampton/startseite/verein/180,Ghana,England,N
-406,9000000.0,Joseph Paintsil,krc-genk/startseite/verein/1184,Ghana,Belgium,N
-407,4000000.0,Kamal Sowah,fc-brugge/startseite/verein/2282,Ghana,Belgium,N
-408,25000000.0,Iñaki Williams,athletic-bilbao/startseite/verein/621,Ghana,Spain,N
-409,6000000.0,Jordan Ayew,crystal-palace/startseite/verein/873,Ghana,England,N
-410,1300000.0,Rúnar Alex Rúnarsson,alanyaspor/startseite/verein/11282,Iceland,Turkey,N
-411,600000.0,Hákon Rafn Valdimarsson,if-elfsborg-boras/startseite/verein/1101,Iceland,Sweden,N
-412,450000.0,Daníel Leó Grétarsson,slask-wroclaw/startseite/verein/759,Iceland,Poland,N
-413,400000.0,Gudmundur Thórarinsson,ofi-kreta/startseite/verein/653,Iceland,Greece,N
-414,400000.0,Victor Pálsson,d-c-united/startseite/verein/2440,Iceland,United States,N
-415,1200000.0,Arnór Ingvi Traustason,ifk-norrkoping/startseite/verein/2844,Iceland,Sweden,N
-416,900000.0,Thórir Jóhann Helgason,us-lecce/startseite/verein/1005,Iceland,Italy,N
-417,450000.0,Aron Elís Thrándarson,odense-boldklub/startseite/verein/173,Iceland,Denmark,N
-418,2000000.0,Hákon Arnar Haraldsson,fc-kopenhagen/startseite/verein/190,Iceland,Denmark,N
-419,1000000.0,Mikael Anderson,aarhus-gf/startseite/verein/678,Iceland,Denmark,N
-420,1200000.0,Jóhann Berg Gudmundsson,fc-burnley/startseite/verein/1132,Iceland,England,N
-421,400000.0,Alfred Finnbogason,lyngby-bk/startseite/verein/369,Iceland,Denmark,N
-422,700000.0,Patrik Gunnarsson,viking-stavanger/startseite/verein/239,Iceland,Norway,N
-423,2000000.0,Hördur Magnússon,panathinaikos-athen/startseite/verein/265,Iceland,Greece,N
-424,600000.0,Davíd Kristján Ólafsson,kalmar-ff/startseite/verein/3654,Iceland,Sweden,N
-425,1500000.0,Alfons Sampsted,fc-twente-enschede/startseite/verein/317,Iceland,Netherlands,N
-426,400000.0,Aron Gunnarsson,al-arabi-sc/startseite/verein/1230,Iceland,Qatar,N
-427,1000000.0,Mikael Egill Ellertsson,venezia-fc/startseite/verein/607,Iceland,Italy,N
-428,500000.0,Stefán Teitur Thórdarson,silkeborg-if/startseite/verein/1177,Iceland,Denmark,N
-429,3500000.0,Arnór Sigurdsson,ifk-norrkoping/startseite/verein/2844,Iceland,Sweden,N
-430,2500000.0,Jón Dagur Thorsteinsson,oud-heverlee-leuven/startseite/verein/2727,Iceland,Belgium,N
-431,3500000.0,Ísak Bergmann Jóhannesson,fc-kopenhagen/startseite/verein/190,Iceland,Denmark,N
-432,750000.0,Andri Gudjohnsen,ifk-norrkoping/startseite/verein/2844,Iceland,Sweden,N
-433,350000.0,Saevar Atli Magnússon,lyngby-bk/startseite/verein/369,Iceland,Denmark,N
-434,1200000.0,Alireza Beiranvand,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
-435,750000.0,Payam Niazmand,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
-436,2000000.0,Hossein Kanaani,al-ahli-sc/startseite/verein/3612,Iran,Qatar,N
-437,600000.0,Aref Aghasi,foolad-fc/startseite/verein/6076,Iran,Iran,Y
-438,225000.0,Shoja Khalilzadeh,al-ahli-sc/startseite/verein/3612,Iran,Qatar,N
-439,800000.0,Ehsan Hajsafi,aek-athen/startseite/verein/2441,Iran,Greece,N
-440,2000000.0,Sadegh Moharrami,gnk-dinamo-zagreb/startseite/verein/419,Iran,Croatia,N
-441,1200000.0,Reza Asadi,tractor-fc/startseite/verein/12935,Iran,Iran,Y
-442,600000.0,Roozbeh Cheshmi,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
-443,2500000.0,Ahmad Nourollahi,fc-shabab-al-ahli-dubai/startseite/verein/60529,Iran,United Arab Emirates,N
-444,550000.0,Seyed Mehdi Hosseini,mes-rafsanjan/startseite/verein/28344,Iran,Iran,Y
-445,450000.0,Mohammadhossein Eslami,zob-ahan-isfahan/startseite/verein/6081,Iran,Iran,Y
-446,700000.0,Reza Shekari,gol-gohar-sirjan-fc/startseite/verein/34744,Iran,Iran,Y
-447,3000000.0,Alireza Jahanbakhsh,feyenoord-rotterdam/startseite/verein/234,Iran,Netherlands,N
-448,1200000.0,Mohammad Mohebi,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
-449,1000000.0,Shahriar Moghanlou,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
-450,800000.0,Hossein Pour Hamidi,aluminium-arak-fc/startseite/verein/42894,Iran,Iran,Y
-451,550000.0,Hossein Hosseini,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
-452,700000.0,Armin Sohrabian,gol-gohar-sirjan-fc/startseite/verein/34744,Iran,Iran,Y
-453,550000.0,Mohammad Amin Hazbavi,foolad-fc/startseite/verein/6076,Iran,Iran,Y
-454,1200000.0,Omid Noorafkan,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
-455,750000.0,Milad Zakipour,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
-456,450000.0,Ramin Rezaeian,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
-457,1000000.0,Milad Sarlak,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
-458,400000.0,Saeid Ezatolahi,vejle-boldklub/startseite/verein/443,Iran,Denmark,N
-459,700000.0,Seyed Mohammad Karimi,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
-460,800000.0,Amirhossein Hosseinzadeh,rsc-charleroi/startseite/verein/172,Iran,Belgium,N
-461,1300000.0,Mehdi Torabi,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
-462,250000.0,Vahid Amiri,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
-463,2000000.0,Ali Gholizadeh,kasimpasa/startseite/verein/10484,Iran,Turkey,N
-464,20000000.0,Mehdi Taremi,fc-porto/startseite/verein/720,Iran,Portugal,N
-465,1500000.0,Daniel Schmidt,vv-st-truiden/startseite/verein/475,Japan,Belgium,N
-466,600000.0,Kosuke Nakamura,portimonense-sc/startseite/verein/7378,Japan,Portugal,N
-467,7500000.0,Hiroki Ito,vfb-stuttgart/startseite/verein/79,Japan,Germany,N
-468,1500000.0,Ayumu Seko,grasshopper-club-zurich/startseite/verein/504,Japan,Switzerland,N
-469,10000000.0,Hidemasa Morita,sporting-lissabon/startseite/verein/336,Japan,Portugal,N
-470,900000.0,Sota Kawasaki,kyoto-sanga/startseite/verein/593,Japan,Japan,Y
-471,2000000.0,Hayao Kawabe,grasshopper-club-zurich/startseite/verein/504,Japan,Switzerland,N
-472,30000000.0,Daichi Kamada,eintracht-frankfurt/startseite/verein/24,Japan,Germany,N
-473,22000000.0,Kaoru Mitoma,brighton-amp-hove-albion/startseite/verein/1237,Japan,England,N
-474,5000000.0,Keito Nakamura,lask/startseite/verein/413,Japan,Austria,N
-475,15000000.0,Ritsu Doan,sc-freiburg/startseite/verein/60,Japan,Germany,N
-476,10000000.0,Junya Ito,stade-reims/startseite/verein/1421,Japan,France,N
-477,9000000.0,Kyogo Furuhashi,celtic-glasgow/startseite/verein/371,Japan,Scotland,N
-478,1000000.0,Keisuke Osako,sanfrecce-hiroshima/startseite/verein/2697,Japan,Japan,Y
-479,12000000.0,Ko Itakura,borussia-monchengladbach/startseite/verein/18,Japan,Germany,N
-480,1500000.0,Shogo Taniguchi,al-rayyan-sc/startseite/verein/3229,Japan,Qatar,N
-481,6000000.0,Yukinari Sugawara,az-alkmaar/startseite/verein/1090,Japan,Netherlands,N
-482,6500000.0,Wataru Endo,vfb-stuttgart/startseite/verein/79,Japan,Germany,N
-483,6500000.0,Reo Hatate,celtic-glasgow/startseite/verein/371,Japan,Scotland,N
-484,700000.0,Ryoya Morishita,nagoya-grampus/startseite/verein/1066,Japan,Japan,Y
-485,600000.0,Takumu Kawamura,sanfrecce-hiroshima/startseite/verein/2697,Japan,Japan,Y
-486,6000000.0,Daizen Maeda,celtic-glasgow/startseite/verein/371,Japan,Scotland,N
-487,1200000.0,Yuki Soma,casa-pia-ac/startseite/verein/3268,Japan,Portugal,N
-488,15000000.0,Takefusa Kubo,real-sociedad-san-sebastian/startseite/verein/681,Japan,Spain,N
-489,4000000.0,Takuma Asano,vfl-bochum/startseite/verein/80,Japan,Germany,N
-490,3500000.0,Ayase Ueda,cercle-brugge/startseite/verein/520,Japan,Belgium,N
-491,5000000.0,Carlos Acevedo,santos-laguna/startseite/verein/1403,Mexico,Mexico,Y
-492,1500000.0,Antonio Rodríguez,club-tijuana/startseite/verein/13353,Mexico,Mexico,Y
-493,1200000.0,Miguel Jiménez,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
-494,5000000.0,Víctor Guzmán,cf-monterrey/startseite/verein/2407,Mexico,Mexico,Y
-495,4000000.0,Jesús Orozco Chiquete,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
-496,3000000.0,Gilberto Sepúlveda,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
-497,7000000.0,Jesús Angulo,tigres-uanl/startseite/verein/7055,Mexico,Mexico,Y
-498,5000000.0,Omar Campos,santos-laguna/startseite/verein/1403,Mexico,Mexico,Y
-499,7000000.0,Kevin Álvarez,cf-pachuca/startseite/verein/4035,Mexico,Mexico,Y
-500,4000000.0,Julián Araujo,fc-barcelona-b/startseite/verein/2464,Mexico,Spain,N
-501,8000000.0,Luis Chávez,cf-pachuca/startseite/verein/4035,Mexico,Mexico,Y
-502,5000000.0,Alan Cervantes,santos-laguna/startseite/verein/1403,Mexico,Mexico,Y
-503,8000000.0,Érick Sánchez,cf-pachuca/startseite/verein/4035,Mexico,Mexico,Y
-504,7000000.0,Érick Gutiérrez,psv-eindhoven/startseite/verein/383,Mexico,Netherlands,N
-505,5000000.0,Orbelín Pineda,aek-athen/startseite/verein/2441,Mexico,Greece,N
-506,8000000.0,Alexis Vega,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
-507,5000000.0,Roberto Alvarado,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
-508,2500000.0,Diego Lainez,tigres-uanl/startseite/verein/7055,Mexico,Mexico,Y
-509,9000000.0,Raúl Jiménez,wolverhampton-wanderers/startseite/verein/543,Mexico,England,N
-510,6000000.0,Henry Martín,cf-america/startseite/verein/3631,Mexico,Mexico,Y
-511,3500000.0,Luis Malagón,cf-america/startseite/verein/3631,Mexico,Mexico,Y
-512,1200000.0,Guillermo Ochoa,us-salernitana-1919/startseite/verein/380,Mexico,Italy,N
-513,8000000.0,César Montes,espanyol-barcelona/startseite/verein/714,Mexico,Spain,N
-514,4500000.0,Israel Reyes,cf-america/startseite/verein/3631,Mexico,Mexico,Y
-515,3600000.0,Johan Vásquez,us-cremonese/startseite/verein/2239,Mexico,Italy,N
-516,2500000.0,Néstor Araújo,cf-america/startseite/verein/3631,Mexico,Mexico,Y
-517,7000000.0,Gerardo Arteaga,krc-genk/startseite/verein/1184,Mexico,Belgium,N
-518,4000000.0,Jesús Gallardo,cf-monterrey/startseite/verein/2407,Mexico,Mexico,Y
-519,6000000.0,Jorge Sánchez,ajax-amsterdam/startseite/verein/610,Mexico,Netherlands,N
-520,35000000.0,Edson Álvarez,ajax-amsterdam/startseite/verein/610,Mexico,Netherlands,N
-521,6500000.0,Luis Romo,cf-monterrey/startseite/verein/2407,Mexico,Mexico,Y
-522,3500000.0,Aldo Rocha,atlas-guadalajara/startseite/verein/8590,Mexico,Mexico,Y
-523,8000000.0,Carlos Rodríguez,cd-cruz-azul/startseite/verein/3711,Mexico,Mexico,Y
-524,5500000.0,Fernando Beltrán,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
-525,4500000.0,Sebastián Córdova,tigres-uanl/startseite/verein/7055,Mexico,Mexico,Y
-526,10000000.0,Tecatito,fc-sevilla/startseite/verein/368,Mexico,Spain,N
-527,4000000.0,Uriel Antuna,cd-cruz-azul/startseite/verein/3711,Mexico,Mexico,Y
-528,2000000.0,Ozziel Herrera,atlas-guadalajara/startseite/verein/8590,Mexico,Mexico,Y
-529,9000000.0,Santiago Gimenez,feyenoord-rotterdam/startseite/verein/234,Mexico,Netherlands,N
-530,1500000.0,Roberto de la Rosa,cf-pachuca/startseite/verein/4035,Mexico,Mexico,Y
-531,12000000.0,Bono,fc-sevilla/startseite/verein/368,Morocco,Spain,N
-532,900000.0,El Mehdi Benabid,fus-rabat/startseite/verein/6371,Morocco,Morocco,Y
-533,32000000.0,Nayef Aguerd,west-ham-united/startseite/verein/379,Morocco,England,N
-534,2500000.0,Achraf Dari,stade-brest-29/startseite/verein/3911,Morocco,France,N
-535,1700000.0,Ismaël Kandouss,royale-union-saint-gilloise/startseite/verein/3948,Morocco,Belgium,N
-536,2500000.0,Adam Masina,udinese-calcio/startseite/verein/410,Morocco,Italy,N
-537,28000000.0,Noussair Mazraoui,fc-bayern-munchen/startseite/verein/27,Morocco,Germany,N
-538,25000000.0,Sofyan Amrabat,ac-florenz/startseite/verein/430,Morocco,Italy,N
-539,4500000.0,Youssef Maleh,us-lecce/startseite/verein/1005,Morocco,Italy,N
-540,3000000.0,Abdelhamid Sabiri,sampdoria-genua/startseite/verein/1038,Morocco,Italy,N
-541,7000000.0,Anass Zaroury,fc-burnley/startseite/verein/1132,Morocco,England,N
-542,18000000.0,Hakim Ziyech,fc-chelsea/startseite/verein/631,Morocco,England,N
-543,15000000.0,Youssef En-Nesyri,fc-sevilla/startseite/verein/368,Morocco,Spain,N
-544,6500000.0,Tarik Tissoudali,kaa-gent/startseite/verein/157,Morocco,Belgium,N
-545,1200000.0,Munir,al-wahda-mekka/startseite/verein/17209,Morocco,Saudi Arabia,N
-546,375000.0,Youssef El Motie,wydad-casablanca/startseite/verein/6603,Morocco,Morocco,Y
-547,6000000.0,Romain Saïss,besiktas-istanbul/startseite/verein/114,Morocco,Turkey,N
-548,2000000.0,Jawad El Yamiq,real-valladolid/startseite/verein/366,Morocco,Spain,N
-549,1200000.0,Abdel Abqar,deportivo-alaves/startseite/verein/1108,Morocco,Spain,N
-550,70000000.0,Achraf Hakimi,fc-paris-saint-germain/startseite/verein/583,Morocco,France,N
-551,1500000.0,Fahd Moufi,portimonense-sc/startseite/verein/7378,Morocco,Portugal,N
-552,9000000.0,Imrân Louza,fc-watford/startseite/verein/1010,Morocco,England,N
-553,10000000.0,Ilias Chair,queens-park-rangers/startseite/verein/1039,Morocco,England,N
-554,8000000.0,Sofiane Boufal,al-rayyan-sc/startseite/verein/3229,Morocco,Qatar,N
-555,4000000.0,Oussama Idrissi,feyenoord-rotterdam/startseite/verein/234,Morocco,Netherlands,N
-556,7000000.0,Zakaria Aboukhlal,fc-toulouse/startseite/verein/415,Morocco,France,N
-557,8000000.0,Walid Cheddira,ssc-bari/startseite/verein/332,Morocco,Italy,N
-558,3000000.0,Abderrazak Hamdallah,al-ittihad-dschidda/startseite/verein/8023,Morocco,Saudi Arabia,N
-559,13000000.0,Justin Bijlow,feyenoord-rotterdam/startseite/verein/234,Netherlands,Netherlands,Y
-560,5000000.0,Andries Noppert,sc-heerenveen/startseite/verein/306,Netherlands,Netherlands,Y
-561,45000000.0,Sven Botman,newcastle-united/startseite/verein/762,Netherlands,England,N
-562,42000000.0,Jurrien Timber,ajax-amsterdam/startseite/verein/610,Netherlands,Netherlands,Y
-563,22000000.0,Tyrell Malacia,manchester-united/startseite/verein/985,Netherlands,England,N
-564,18000000.0,Lutsharel Geertruida,feyenoord-rotterdam/startseite/verein/234,Netherlands,Netherlands,Y
-565,12000000.0,Marten de Roon,atalanta-bergamo/startseite/verein/800,Netherlands,Italy,N
-566,60000000.0,Frenkie de Jong,fc-barcelona/startseite/verein/131,Netherlands,Spain,N
-567,12000000.0,Georginio Wijnaldum,as-rom/startseite/verein/12,Netherlands,Italy,N
-568,28000000.0,Denzel Dumfries,inter-mailand/startseite/verein/46,Netherlands,Italy,N
-569,60000000.0,Cody Gakpo,fc-liverpool/startseite/verein/31,Netherlands,England,N
-570,15000000.0,Noa Lang,fc-brugge/startseite/verein/2282,Netherlands,Belgium,N
-571,16000000.0,Memphis Depay,atletico-madrid/startseite/verein/13,Netherlands,Spain,N
-572,7000000.0,Mark Flekken,sc-freiburg/startseite/verein/60,Netherlands,Germany,N
-573,75000000.0,Matthijs de Ligt,fc-bayern-munchen/startseite/verein/27,Netherlands,Germany,N
-574,45000000.0,Virgil van Dijk,fc-liverpool/startseite/verein/31,Netherlands,England,N
-575,35000000.0,Nathan Aké,manchester-city/startseite/verein/281,Netherlands,England,N
-576,6000000.0,Daley Blind,fc-bayern-munchen/startseite/verein/27,Netherlands,Germany,N
-577,30000000.0,Teun Koopmeiners,atalanta-bergamo/startseite/verein/800,Netherlands,Italy,N
-578,7000000.0,Mats Wieffer,feyenoord-rotterdam/startseite/verein/234,Netherlands,Netherlands,Y
-579,14000000.0,Joey Veerman,psv-eindhoven/startseite/verein/383,Netherlands,Netherlands,Y
-580,8000000.0,Tijjani Reijnders,az-alkmaar/startseite/verein/1090,Netherlands,Netherlands,Y
-581,30000000.0,Xavi Simons,psv-eindhoven/startseite/verein/383,Netherlands,Netherlands,Y
-582,24000000.0,Steven Bergwijn,ajax-amsterdam/startseite/verein/610,Netherlands,Netherlands,Y
-583,16000000.0,Donyell Malen,borussia-dortmund/startseite/verein/16,Netherlands,Germany,N
-584,14000000.0,Wout Weghorst,manchester-united/startseite/verein/985,Netherlands,England,N
-585,2500000.0,Maduka Okoye,fc-watford/startseite/verein/1010,Nigeria,England,N
-586,400000.0,Adebayo Adeleye,hapoel-jerusalem/startseite/verein/43119,Nigeria,Israel,N
-587,5000000.0,Chidozie Awaziem,hnk-hajduk-split/startseite/verein/447,Nigeria,Croatia,N
-588,3000000.0,William Troost-Ekong,us-salernitana-1919/startseite/verein/380,Nigeria,Italy,N
-589,0.0,Ebube Gideon Duru,rivers-united-fc/startseite/verein/53321,Nigeria,Nigeria,Y
-590,2000000.0,Tyronne Ebuehi,fc-empoli/startseite/verein/749,Nigeria,Italy,N
-591,9000000.0,Frank Onyeka,fc-brentford/startseite/verein/1148,Nigeria,England,N
-592,25000000.0,Alex Iwobi,fc-everton/startseite/verein/29,Nigeria,England,N
-593,9000000.0,Moses Simon,fc-nantes/startseite/verein/995,Nigeria,France,N
-594,30000000.0,Ademola Lookman,atalanta-bergamo/startseite/verein/800,Nigeria,Italy,N
-595,20000000.0,Terem Moffi,ogc-nizza/startseite/verein/417,Nigeria,France,N
-596,10000000.0,Emmanuel Dennis,nottingham-forest/startseite/verein/703,Nigeria,England,N
-597,500000.0,Francis Uzoho,omonia-nikosia/startseite/verein/829,Nigeria,Cyprus,N
-598,18000000.0,Calvin Bassey,ajax-amsterdam/startseite/verein/610,Nigeria,Netherlands,N
-599,4000000.0,Kevin Akpoguma,tsg-1899-hoffenheim/startseite/verein/533,Nigeria,Germany,N
-600,1000000.0,Bruno Onyemaechi,boavista-porto-fc/startseite/verein/2503,Nigeria,Portugal,N
-601,7500000.0,Bright Osayi-Samuel,fenerbahce-istanbul/startseite/verein/36,Nigeria,Turkey,N
-602,32000000.0,Wilfred Ndidi,leicester-city/startseite/verein/1003,Nigeria,England,N
-603,1500000.0,Peter Etebo,aris-thessaloniki/startseite/verein/605,Nigeria,Greece,N
-604,15000000.0,Joe Aribo,fc-southampton/startseite/verein/180,Nigeria,England,N
-605,20000000.0,Samuel Chukwueze,fc-villarreal/startseite/verein/1050,Nigeria,Spain,N
-606,100000000.0,Victor Osimhen,ssc-neapel/startseite/verein/6195,Nigeria,Italy,N
-607,17000000.0,Paul Onuachu,fc-southampton/startseite/verein/180,Nigeria,England,N
-608,6000000.0,Cyriel Dessers,us-cremonese/startseite/verein/2239,Nigeria,Italy,N
-609,500000.0,Orlando Mosquera,monagas-sc/startseite/verein/14596,Panama,Venezuela,N
-610,150000.0,César Samudio,cd-marathon/startseite/verein/4523,Panama,Honduras,N
-611,50000.0,Marcos Allen,cd-real-sociedad/startseite/verein/37755,Panama,Honduras,N
-612,2000000.0,José Córdoba,levski-sofia/startseite/verein/156,Panama,Bulgaria,N
-613,300000.0,Jiovany Ramos,deportivo-tachira/startseite/verein/13297,Panama,Venezuela,N
-614,225000.0,Hárold Cummings,monagas-sc/startseite/verein/14596,Panama,Venezuela,N
-615,200000.0,Roderick Miller,turan-tovuz/startseite/verein/9526,Panama,Azerbaijan,N
-616,175000.0,Eduardo Anderson,ad-san-carlos/startseite/verein/18659,Panama,Costa Rica,N
-617,500000.0,Eric Davis,dac-dunajska-streda/startseite/verein/4529,Panama,Slovakia,N
-618,150000.0,Samir Ramírez,cd-plaza-amador/startseite/verein/20960,Panama,Panama,Y
-619,75000.0,Kevin Galván,sporting-san-miguelito/startseite/verein/1708,Panama,Panama,Y
-620,450000.0,César Blackman,dac-dunajska-streda/startseite/verein/4529,Panama,Slovakia,N
-621,125000.0,Michael Casazola,sporting-san-miguelito/startseite/verein/1708,Panama,Panama,Y
-622,250000.0,Christian Martínez,najran-sc/startseite/verein/26586,Panama,Saudi Arabia,N
-623,300000.0,Aníbal Godoy,nashville-sc/startseite/verein/63966,Panama,United States,N
-624,150000.0,Irving Gudiño,tauro-fc/startseite/verein/12371,Panama,Panama,Y
-625,2500000.0,Adalberto Carrasquilla,houston-dynamo-fc/startseite/verein/9168,Panama,United States,N
-626,150000.0,Víctor Medina,tauro-fc/startseite/verein/12371,Panama,Panama,Y
-627,175000.0,José Murillo,cd-plaza-amador/startseite/verein/20960,Panama,Panama,Y
-628,1200000.0,Ismael Díaz,cd-universidad-catolica/startseite/verein/17584,Panama,Ecuador,N
-629,300000.0,Ricardo Phillips,costa-del-este-fc/startseite/verein/49970,Panama,Panama,Y
-630,175000.0,Ángel Orelien,vereinslos/startseite/verein/515,Panama,,Y
-631,425000.0,Alberto Quintero,club-cienciano/startseite/verein/2729,Panama,Peru,N
-632,150000.0,César Yanis,costa-del-este-fc/startseite/verein/49970,Panama,Panama,Y
-633,125000.0,Tomás Rodríguez,sporting-san-miguelito/startseite/verein/1708,Panama,Panama,Y
-634,750000.0,José Fajardo,cusco-fc/startseite/verein/28999,Panama,Peru,N
-635,350000.0,Abdiel Arroyo,monagas-sc/startseite/verein/14596,Panama,Venezuela,N
-636,250000.0,Rolando Blackburn,cd-fas/startseite/verein/14082,Panama,El Salvador,N
-637,150000.0,Azarias Londoño,comunicaciones-fc/startseite/verein/9709,Panama,Guatemala,N
-638,0.0,Everardo Rose,ad-nueve-de-octubre/startseite/verein/19101,Panama,Ecuador,N
-639,400000.0,Luis Mejía,union-espanola/startseite/verein/4321,Panama,Chile,N
-640,125000.0,Emerson Dimas,cd-plaza-amador/startseite/verein/20960,Panama,Panama,Y
-641,25000.0,Jaime De Gracia,cd-plaza-amador/startseite/verein/20960,Panama,Panama,Y
-642,1000000.0,Andrés Andrade,arminia-bielefeld/startseite/verein/10,Panama,Germany,N
-643,250000.0,Azmahar Ariano,portuguesa-fc/startseite/verein/22918,Panama,Venezuela,N
-644,225000.0,Fidel Escobar,deportivo-saprissa/startseite/verein/4720,Panama,Costa Rica,N
-645,200000.0,Richard Peralta,deportivo-la-guaira/startseite/verein/26468,Panama,Venezuela,N
-646,150000.0,Edgardo Fariña,cd-universitario/startseite/verein/18952,Panama,Panama,Y
-647,150000.0,José Matos,san-francisco-fc/startseite/verein/11698,Panama,Panama,Y
-648,100000.0,Omar Valencia,new-york-red-bulls-ii/startseite/verein/39815,Panama,United States,N
-649,3000000.0,Michael Murillo,rsc-anderlecht/startseite/verein/58,Panama,Belgium,N
-650,350000.0,Iván Anderson,monagas-sc/startseite/verein/14596,Panama,Venezuela,N
-651,100000.0,Reyniel Perdomo,alianza-fc-panama/startseite/verein/18820,Panama,Panama,Y
-652,300000.0,Jovani Welch,academico-viseu-fc/startseite/verein/7788,Panama,Portugal,N
-653,175000.0,Carlos Harvey,phoenix-rising-fc/startseite/verein/33414,Panama,United States,N
-654,150000.0,Ricardo Ávila,cd-universitario/startseite/verein/18952,Panama,Panama,Y
-655,600000.0,Abdiel Ayarza,cusco-fc/startseite/verein/28999,Panama,Peru,N
-656,75000.0,Omar Browne,tauro-fc/startseite/verein/12371,Panama,Panama,Y
-657,150000.0,Miguel Camargo,tauro-fc/startseite/verein/12371,Panama,Panama,Y
-658,350000.0,Freddy Góndola,ld-alajuelense/startseite/verein/6478,Panama,Costa Rica,N
-659,250000.0,Romeesh Ivey,spartak-varna/startseite/verein/9599,Panama,Bulgaria,N
-660,1000000.0,Yoel Bárcenas,mazatlan-fc/startseite/verein/82696,Panama,Mexico,N
-661,175000.0,Cristian Quintero,la-luz-tacuru-futbol-club/startseite/verein/20762,Panama,Uruguay,N
-662,150000.0,Jorge Serrano,ca-independiente-de-la-chorrera/startseite/verein/28218,Panama,Panama,Y
-663,800000.0,Cecilio Waterman,cd-cobresal/startseite/verein/17482,Panama,Chile,N
-664,350000.0,Alfredo Stephens,academia-puerto-cabello/startseite/verein/45193,Panama,Venezuela,N
-665,300000.0,Eduardo Guerrero,zorya-lugansk/startseite/verein/10690,Panama,Ukraine,N
-666,250000.0,Jorlian Sánchez,comunicaciones-fc/startseite/verein/9709,Panama,Guatemala,N
-667,125000.0,Ronaldo Córdoba,herrera-fc/startseite/verein/55384,Panama,Panama,Y
-668,2000000.0,Pedro Gallese,orlando-city-sc/startseite/verein/45604,Peru,United States,N
-669,250000.0,José Carvallo,universitario-de-deportes/startseite/verein/6593,Peru,Peru,Y
-670,2000000.0,Anderson Santamaría,atlas-guadalajara/startseite/verein/8590,Peru,Mexico,N
-671,400000.0,Carlos Zambrano,club-alianza-lima/startseite/verein/184,Peru,Peru,Y
-672,1800000.0,Miguel Trauco,san-jose-earthquakes/startseite/verein/218,Peru,United States,N
-673,7500000.0,Renato Tapia,celta-vigo/startseite/verein/940,Peru,Spain,N
-674,2000000.0,Wilder Cartagena,orlando-city-sc/startseite/verein/45604,Peru,United States,N
-675,2000000.0,Sergio Peña,malmo-ff/startseite/verein/496,Peru,Sweden,N
-676,700000.0,Christofer Gonzales,al-adalah-fc/startseite/verein/55544,Peru,Saudi Arabia,N
-677,600000.0,Ray Sandoval,club-atletico-grau/startseite/verein/27861,Peru,Peru,Y
-678,750000.0,Andy Polo,universitario-de-deportes/startseite/verein/6593,Peru,Peru,Y
-679,2200000.0,Gianluca Lapadula,cagliari-calcio/startseite/verein/1390,Peru,Italy,N
-680,450000.0,Percy Liza,cs-maritimo/startseite/verein/1301,Peru,Portugal,N
-681,525000.0,Carlos Cáceda,fbc-melgar/startseite/verein/2734,Peru,Peru,Y
-682,4000000.0,Luis Abram,atlanta-united-fc/startseite/verein/51663,Peru,United States,N
-683,750000.0,Miguel Araujo,fc-emmen/startseite/verein/1283,Peru,Netherlands,N
-684,2500000.0,Marcos López,feyenoord-rotterdam/startseite/verein/234,Peru,Netherlands,N
-685,1200000.0,Luis Advíncula,club-atletico-boca-juniors/startseite/verein/189,Peru,Argentina,N
-686,3500000.0,Pedro Aquino,cf-america/startseite/verein/3631,Peru,Mexico,N
-687,750000.0,Jesús Castillo,club-sporting-cristal/startseite/verein/1450,Peru,Peru,Y
-688,1700000.0,Yoshimar Yotún,club-sporting-cristal/startseite/verein/1450,Peru,Peru,Y
-689,1800000.0,Edison Flores,atlas-guadalajara/startseite/verein/8590,Peru,Mexico,N
-690,2500000.0,André Carrillo,al-hilal-riad/startseite/verein/1114,Peru,Saudi Arabia,N
-691,4000000.0,Raúl Ruidíaz,seattle-sounders-fc/startseite/verein/9636,Peru,United States,N
-692,700000.0,Álex Valera,universitario-de-deportes/startseite/verein/6593,Peru,Peru,Y
-693,13000000.0,Wojciech Szczesny,juventus-turin/startseite/verein/506,Poland,Italy,N
-694,3000000.0,Lukasz Skorupski,fc-bologna/startseite/verein/1025,Poland,Italy,N
-695,14000000.0,Jan Bednarek,fc-southampton/startseite/verein/180,Poland,England,N
-696,3000000.0,Przemyslaw Wisniewski,spezia-calcio/startseite/verein/3522,Poland,Italy,N
-697,3000000.0,Tomasz Kedziora,paok-thessaloniki/startseite/verein/1091,Poland,Greece,N
-698,3000000.0,Krystian Bielik,derby-county/startseite/verein/22,Poland,England,N
-699,1500000.0,Ben Lederman,rakow-czestochowa/startseite/verein/9644,Poland,Poland,Y
-700,40000000.0,Piotr Zielinski,ssc-neapel/startseite/verein/6195,Poland,Italy,N
-701,1500000.0,Mateusz Legowski,pogon-stettin/startseite/verein/324,Poland,Poland,Y
-702,15000000.0,Nicola Zalewski,as-rom/startseite/verein/12,Poland,Italy,N
-703,10000000.0,Jakub Kaminski,vfl-wolfsburg/startseite/verein/82,Poland,Germany,N
-704,40000000.0,Robert Lewandowski,fc-barcelona/startseite/verein/131,Poland,Spain,N
-705,5000000.0,Karol Swiderski,charlotte-fc/startseite/verein/78435,Poland,United States,N
-706,4500000.0,Bartlomiej Dragowski,spezia-calcio/startseite/verein/3522,Poland,Italy,N
-707,20000000.0,Jakub Kiwior,fc-arsenal/startseite/verein/11,Poland,England,N
-708,3000000.0,Mateusz Wieteska,clermont-foot-63/startseite/verein/3524,Poland,France,N
-709,3000000.0,Arkadiusz Reca,spezia-calcio/startseite/verein/3522,Poland,Italy,N
-710,2000000.0,Bartosz Bereszynski,ssc-neapel/startseite/verein/6195,Poland,Italy,N
-711,2500000.0,Damian Szymanski,aek-athen/startseite/verein/2441,Poland,Greece,N
-712,1500000.0,Bartosz Slisz,legia-warschau/startseite/verein/255,Poland,Poland,Y
-713,3500000.0,Karol Linetty,fc-turin/startseite/verein/416,Poland,Italy,N
-714,7000000.0,Przemyslaw Frankowski,rc-lens/startseite/verein/826,Poland,France,N
-715,14000000.0,Sebastian Szymanski,feyenoord-rotterdam/startseite/verein/234,Poland,Netherlands,N
-716,6000000.0,Michal Skoras,lech-posen/startseite/verein/238,Poland,Poland,Y
-717,10000000.0,Arkadiusz Milik,juventus-turin/startseite/verein/506,Poland,Italy,N
-718,45000000.0,Diogo Costa,fc-porto/startseite/verein/720,Portugal,Portugal,Y
-719,5000000.0,Rui Patrício,as-rom/startseite/verein/12,Portugal,Italy,N
-720,25000000.0,António Silva,benfica-lissabon/startseite/verein/294,Portugal,Portugal,Y
-721,2500000.0,Toti,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
-722,20000000.0,Raphaël Guerreiro,borussia-dortmund/startseite/verein/16,Portugal,Germany,N
-723,35000000.0,Diogo Dalot,manchester-united/startseite/verein/985,Portugal,England,N
-724,40000000.0,Rúben Neves,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
-725,12000000.0,Danilo Pereira,fc-paris-saint-germain/startseite/verein/583,Portugal,France,N
-726,20000000.0,Renato Sanches,fc-paris-saint-germain/startseite/verein/583,Portugal,France,N
-727,75000000.0,Bruno Fernandes,manchester-united/startseite/verein/985,Portugal,England,N
-728,80000000.0,Rafael Leão,ac-mailand/startseite/verein/5,Portugal,Italy,N
-729,20000000.0,Ricardo Horta,sc-braga/startseite/verein/1075,Portugal,Portugal,Y
-730,40000000.0,Gonçalo Ramos,benfica-lissabon/startseite/verein/294,Portugal,Portugal,Y
-731,18000000.0,José Sá,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
-732,75000000.0,Rúben Dias,manchester-city/startseite/verein/281,Portugal,England,N
-733,25000000.0,Gonçalo Inácio,sporting-lissabon/startseite/verein/336,Portugal,Portugal,Y
-734,1000000.0,Pepe,fc-porto/startseite/verein/720,Portugal,Portugal,Y
-735,60000000.0,João Cancelo,fc-bayern-munchen/startseite/verein/27,Portugal,Germany,N
-736,15000000.0,Nélson Semedo,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
-737,35000000.0,João Palhinha,fc-fulham/startseite/verein/931,Portugal,England,N
-738,42000000.0,Vitinha,fc-paris-saint-germain/startseite/verein/583,Portugal,France,N
-739,80000000.0,Bernardo Silva,manchester-city/startseite/verein/281,Portugal,England,N
-740,30000000.0,Otávio,fc-porto/startseite/verein/720,Portugal,Portugal,Y
-741,55000000.0,Diogo Jota,fc-liverpool/startseite/verein/31,Portugal,England,N
-742,50000000.0,João Félix,fc-chelsea/startseite/verein/631,Portugal,England,N
-743,20000000.0,Cristiano Ronaldo,al-nasr-riad/startseite/verein/18544,Portugal,Saudi Arabia,N
-744,400000.0,Mahmoud Abunada,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
-745,200000.0,Shehab Ellethy,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
-746,250000.0,Jassem Gaber Abdulsallam,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
-747,500000.0,Homam Ahmed,al-gharafa-sc/startseite/verein/6297,Qatar,Qatar,Y
-748,150000.0,Diyab Taha,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
-749,200000.0,Assim Madibo,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
-750,225000.0,Mustafa Mashaal,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
-751,250000.0,Ali Asad,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
-752,300000.0,Yusuf Abdurisag,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
-753,325000.0,Hashim Ali,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
-754,200000.0,Tameem Mansour Al-Abdullah,al-rayyan-sc/startseite/verein/3229,Qatar,Qatar,Y
-755,600000.0,Ahmed Alaaeldin,al-gharafa-sc/startseite/verein/6297,Qatar,Qatar,Y
-756,350000.0,Meshaal Barsham,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
-757,400000.0,Tarek Salman,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
-758,200000.0,Mohamed Emad Aiash,al-rayyan-sc/startseite/verein/3229,Qatar,Qatar,Y
-759,400000.0,Hazem Ahmed,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
-760,200000.0,Salem Al-Hajri,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
-761,300000.0,Mohammed Waad,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
-762,125000.0,Ahmed Fadel,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
-763,225000.0,Naif Al-Hadhrami,al-rayyan-sc/startseite/verein/3229,Qatar,Qatar,Y
-764,300000.0,Khalid Muneer Mazeed,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
-765,275000.0,Amro Surag,al-gharafa-sc/startseite/verein/6297,Qatar,Qatar,Y
-766,200000.0,Ismaeel Mohammed,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
-767,15000000.0,Matvey Safonov,fk-krasnodar/startseite/verein/16704,Russia,Russia,Y
-768,1800000.0,Ilya Pomazun,ural-ekaterinburg/startseite/verein/11127,Russia,Russia,Y
-769,4500000.0,Maksim Osipenko,fk-rostov/startseite/verein/1083,Russia,Russia,Y
-770,6000000.0,Vyacheslav Karavaev,zenit-st-petersburg/startseite/verein/964,Russia,Russia,Y
-771,3500000.0,Daniil Denisov,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-772,8000000.0,Daniil Fomin,dinamo-moskau/startseite/verein/121,Russia,Russia,Y
-773,4000000.0,Ruslan Litvinov,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-774,3500000.0,Danil Prutsev,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-775,15000000.0,Arsen Zakharyan,dinamo-moskau/startseite/verein/121,Russia,Russia,Y
-776,5000000.0,Anton Miranchuk,lokomotiv-moskau/startseite/verein/932,Russia,Russia,Y
-777,7000000.0,Sergey Pinyaev,lokomotiv-moskau/startseite/verein/932,Russia,Russia,Y
-778,9000000.0,Aleksandr Sobolev,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-779,5000000.0,Nikolay Komlichenko,fk-rostov/startseite/verein/1083,Russia,Russia,Y
-780,2800000.0,Aleksandr Selikhov,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-781,800000.0,Sergey Pesjakov,fk-rostov/startseite/verein/1083,Russia,Russia,Y
-782,2500000.0,Aleksandr Soldatenkov,krylya-sovetov-samara/startseite/verein/2696,Russia,Russia,Y
-783,4000000.0,Aleksandr Silyanov,fk-rostov/startseite/verein/1083,Russia,Russia,Y
-784,8000000.0,Dmitriy Barinov,lokomotiv-moskau/startseite/verein/932,Russia,Russia,Y
-785,7500000.0,Danil Glebov,fk-rostov/startseite/verein/1083,Russia,Russia,Y
-786,10000000.0,Daler Kuzyaev,zenit-st-petersburg/startseite/verein/964,Russia,Russia,Y
-787,5000000.0,Daniil Khlusevich,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-788,7500000.0,Ivan Oblyakov,zska-moskau/startseite/verein/2410,Russia,Russia,Y
-789,3000000.0,Ilzat Akhmetov,fk-krasnodar/startseite/verein/16704,Russia,Russia,Y
-790,3500000.0,Anton Zinkovskiy,spartak-moskau/startseite/verein/232,Russia,Russia,Y
-791,7000000.0,Konstantin Tyukavin,dinamo-moskau/startseite/verein/121,Russia,Russia,Y
-792,700000.0,Mohammed Al-Owais,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-793,25000.0,Osama Al-Mermesh,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
-794,500000.0,Ahmed Sharahili,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
-795,25000.0,Moteb Al-Harbi,al-shabab-riad/startseite/verein/9840,Saudi Arabia,Saudi Arabia,Y
-796,1200000.0,Mohamed Kanno,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-797,150000.0,Hussain Al-Monassar,al-shabab-riad/startseite/verein/9840,Saudi Arabia,Saudi Arabia,Y
-798,1800000.0,Salem Al-Dawsari,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-799,400000.0,Haitham Asiri,al-ahli-dschidda/startseite/verein/18487,Saudi Arabia,Saudi Arabia,Y
-800,1800000.0,Firas Al-Buraikan,al-fateh/startseite/verein/27221,Saudi Arabia,Saudi Arabia,Y
-801,200000.0,Haroune Camara,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
-802,600000.0,Mohammed Al-Rubaie,al-ahli-dschidda/startseite/verein/18487,Saudi Arabia,Saudi Arabia,Y
-803,1200000.0,Abdulelah Al-Amri,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
-804,400000.0,Ali Al-Boleahi,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-805,150000.0,Abdullah Al-Khaibari,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
-806,700000.0,Nasser Al-Dawsari,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-807,2000000.0,Abdulrahman Ghareeb,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
-808,1800000.0,Abdulaziz Al-Bishi,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
-809,25000.0,Fahad Al-Rashidi,al-taawoun-fc/startseite/verein/28844,Saudi Arabia,Saudi Arabia,Y
-810,700000.0,Saleh Al-Shehri,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-811,175000.0,Abdullah Al-Hamdan,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
-812,3000000.0,Alfred Gomis,como-1907/startseite/verein/1047,Senegal,Italy,N
-813,1500000.0,Mory Diaw,clermont-foot-63/startseite/verein/3524,Senegal,France,N
-814,18000000.0,Moussa Niakhaté,nottingham-forest/startseite/verein/703,Senegal,England,N
-815,1500000.0,Abdoulaye Seck,maccabi-haifa/startseite/verein/1064,Senegal,Israel,N
-816,5000000.0,Youssouf Sabaly,real-betis-sevilla/startseite/verein/150,Senegal,Spain,N
-817,3500000.0,Nampalys Mendy,leicester-city/startseite/verein/1003,Senegal,England,N
-818,15000000.0,Pape Matar Sarr,tottenham-hotspur/startseite/verein/148,Senegal,England,N
-819,4000000.0,Pathé Ciss,rayo-vallecano/startseite/verein/367,Senegal,Spain,N
-820,0.0,Pape Ousmane Sakho,simba-sc/startseite/verein/14191,Senegal,Tanzania,N
-821,15000000.0,Iliman Ndiaye,sheffield-united/startseite/verein/350,Senegal,England,N
-822,14000000.0,Boulaye Dia,us-salernitana-1919/startseite/verein/380,Senegal,Italy,N
-823,1500000.0,Seny Dieng,queens-park-rangers/startseite/verein/1039,Senegal,England,N
-824,25000000.0,Kalidou Koulibaly,fc-chelsea/startseite/verein/631,Senegal,England,N
-825,2500000.0,Formose Mendy,amiens-sc/startseite/verein/1416,Senegal,France,N
-826,1000000.0,Abdallah Ndour,fc-sochaux-montbeliard/startseite/verein/750,Senegal,France,N
-827,1000000.0,Noah Fadiga,stade-brest-29/startseite/verein/3911,Senegal,France,N
-828,3000000.0,Dion Lopy,stade-reims/startseite/verein/1421,Senegal,France,N
-829,8000000.0,Idrissa Gueye,fc-everton/startseite/verein/29,Senegal,England,N
-830,45000000.0,Sadio Mané,fc-bayern-munchen/startseite/verein/27,Senegal,Germany,N
-831,15000000.0,Krépin Diatta,as-monaco/startseite/verein/162,Senegal,Monaco,N
-832,14000000.0,Habib Diallo,rc-strassburg-alsace/startseite/verein/667,Senegal,France,N
-833,8000000.0,Bamba Dieng,fc-lorient/startseite/verein/1158,Senegal,France,N
-834,10000000.0,Predrag Rajkovic,rcd-mallorca/startseite/verein/237,Serbia,Spain,N
-835,500000.0,Dragan Rosic,fk-radnicki-nis/startseite/verein/7567,Serbia,Serbia,Y
-836,20000000.0,Nikola Milenkovic,ac-florenz/startseite/verein/430,Serbia,Italy,N
-837,5000000.0,Erhan Masovic,vfl-bochum/startseite/verein/80,Serbia,Germany,N
-838,9000000.0,Marko Grujic,fc-porto/startseite/verein/720,Serbia,Portugal,N
-839,4000000.0,Nemanja Gudelj,fc-sevilla/startseite/verein/368,Serbia,Spain,N
-840,15000000.0,Ivan Ilic,fc-turin/startseite/verein/416,Serbia,Italy,N
-841,24000000.0,Filip Kostic,juventus-turin/startseite/verein/506,Serbia,Italy,N
-842,7500000.0,Lazar Samardzic,udinese-calcio/startseite/verein/410,Serbia,Italy,N
-843,7000000.0,Dusan Tadic,ajax-amsterdam/startseite/verein/610,Serbia,Netherlands,N
-844,5000000.0,Andrija Zivkovic,paok-thessaloniki/startseite/verein/1091,Serbia,Greece,N
-845,28000000.0,Aleksandar Mitrović,fc-fulham/startseite/verein/931,Serbia,England,N
-846,4000000.0,Dejan Joveljic,los-angeles-galaxy/startseite/verein/1061,Serbia,United States,N
-847,3500000.0,Vanja Milinković-Savić,fc-turin/startseite/verein/416,Serbia,Italy,N
-848,20000000.0,Strahinja Pavlovic,red-bull-salzburg/startseite/verein/409,Serbia,Austria,N
-849,7000000.0,Strahinja Erakovic,roter-stern-belgrad/startseite/verein/159,Serbia,Serbia,Y
-850,1200000.0,Nemanja Stojic,fk-tsc-backa-topola/startseite/verein/3137,Serbia,Serbia,Y
-851,6500000.0,Uros Racic,sc-braga/startseite/verein/1075,Serbia,Portugal,N
-852,60000000.0,Sergej Milinkovic-Savic,lazio-rom/startseite/verein/398,Serbia,Italy,N
-853,13000000.0,Sasa Lukic,fc-fulham/startseite/verein/931,Serbia,England,N
-854,1200000.0,Filip Mladenovic,legia-warschau/startseite/verein/255,Serbia,Poland,N
-855,2500000.0,Filip Djuricic,sampdoria-genua/startseite/verein/1038,Serbia,Italy,N
-856,4000000.0,Nemanja Radonjic,fc-turin/startseite/verein/416,Serbia,Italy,N
-857,75000000.0,Dusan Vlahovic,juventus-turin/startseite/verein/506,Serbia,Italy,N
-858,10000000.0,Luka Jovic,ac-florenz/startseite/verein/430,Serbia,Italy,N
-859,1300000.0,Hyeon-woo Jo,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
-860,900000.0,Seung-gyu Kim,al-shabab-riad/startseite/verein/9840,South Korea,Saudi Arabia,N
-861,800000.0,Kyung-won Kwon,gamba-osaka/startseite/verein/596,South Korea,Japan,N
-862,600000.0,Young-gwon Kim,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
-863,1000000.0,Young-woo Seol,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
-864,900000.0,Tae-hwan Kim,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
-865,500000.0,Woo-young Jung,al-sadd-sc/startseite/verein/656,South Korea,Qatar,N
-866,1000000.0,Seung-ho Paik,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
-867,4000000.0,Jae-sung Lee,1-fsv-mainz-05/startseite/verein/39,South Korea,Germany,N
-868,1200000.0,Min-kyu Song,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
-869,900000.0,Chang-hoon Kwon,gimcheon-sangmu/startseite/verein/6505,South Korea,South Korea,Y
-870,12000000.0,Hee-chan Hwang,wolverhampton-wanderers/startseite/verein/543,South Korea,England,N
-871,2500000.0,Gue-sung Cho,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
-872,1100000.0,Bum-keun Song,shonan-bellmare/startseite/verein/8457,South Korea,Japan,N
-873,50000000.0,Min-jae Kim,ssc-neapel/startseite/verein/6195,South Korea,Italy,N
-874,725000.0,Yu-min Cho,daejeon-hana-citizen/startseite/verein/6499,South Korea,South Korea,Y
-875,650000.0,Ki-je Lee,suwon-samsung-bluewings/startseite/verein/3301,South Korea,South Korea,Y
-876,950000.0,Moon-hwan Kim,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
-877,3500000.0,Jun-ho Son,shandong-taishan/startseite/verein/3182,South Korea,China,N
-878,4500000.0,In-beom Hwang,olympiakos-piraus/startseite/verein/683,South Korea,Greece,N
-879,15000000.0,Kang-in Lee,rcd-mallorca/startseite/verein/237,South Korea,Spain,N
-880,60000000.0,Heung-min Son,tottenham-hotspur/startseite/verein/148,South Korea,England,N
-881,900000.0,Sang-ho Na,fc-seoul/startseite/verein/6500,South Korea,South Korea,Y
-882,4000000.0,Woo-yeong Jeong,sc-freiburg/startseite/verein/60,South Korea,Germany,N
-883,5000000.0,Ui-jo Hwang,fc-seoul/startseite/verein/6500,South Korea,South Korea,Y
-884,1800000.0,Hyeon-gyu Oh,celtic-glasgow/startseite/verein/371,South Korea,Scotland,N
-885,32000000.0,Robert Sánchez,brighton-amp-hove-albion/startseite/verein/1237,Spain,England,N
-886,15000000.0,Kepa Arrizabalaga,fc-chelsea/startseite/verein/631,Spain,England,N
-887,20000000.0,David García,ca-osasuna/startseite/verein/331,Spain,Spain,Y
-888,6000000.0,Nacho Fernández,real-madrid/startseite/verein/418,Spain,Spain,Y
-889,30000000.0,Alejandro Balde,fc-barcelona/startseite/verein/131,Spain,Spain,Y
-890,15000000.0,Daniel Carvajal,real-madrid/startseite/verein/418,Spain,Spain,Y
-891,40000000.0,Martín Zubimendi,real-sociedad-san-sebastian/startseite/verein/681,Spain,Spain,Y
-892,50000000.0,Mikel Merino,real-sociedad-san-sebastian/startseite/verein/681,Spain,Spain,Y
-893,12000000.0,Dani Ceballos,real-madrid/startseite/verein/418,Spain,Spain,Y
-894,50000000.0,Mikel Oyarzabal,real-sociedad-san-sebastian/startseite/verein/681,Spain,Spain,Y
-895,25000000.0,Nico Williams,athletic-bilbao/startseite/verein/621,Spain,Spain,Y
-896,25000000.0,Borja Iglesias,real-betis-sevilla/startseite/verein/150,Spain,Spain,Y
-897,6000000.0,Joselu,espanyol-barcelona/startseite/verein/714,Spain,Spain,Y
-898,25000000.0,David Raya,fc-brentford/startseite/verein/1148,Spain,England,N
-899,30000000.0,Aymeric Laporte,manchester-city/startseite/verein/281,Spain,England,N
-900,18000000.0,Iñigo Martínez,athletic-bilbao/startseite/verein/621,Spain,Spain,Y
-901,35000000.0,José Gayà,fc-valencia/startseite/verein/1049,Spain,Spain,Y
-902,35000000.0,Pedro Porro,tottenham-hotspur/startseite/verein/148,Spain,England,N
-903,80000000.0,Rodri,manchester-city/startseite/verein/281,Spain,England,N
-904,90000000.0,Gavi,fc-barcelona/startseite/verein/131,Spain,Spain,Y
-905,38000000.0,Fabián Ruiz,fc-paris-saint-germain/startseite/verein/583,Spain,France,N
-906,40000000.0,Dani Olmo,rasenballsport-leipzig/startseite/verein/23826,Spain,Germany,N
-907,38000000.0,Yéremy Pino,fc-villarreal/startseite/verein/1050,Spain,Spain,Y
-908,25000000.0,Álvaro Morata,atletico-madrid/startseite/verein/13,Spain,Spain,Y
-909,7000000.0,Iago Aspas,celta-vigo/startseite/verein/940,Spain,Spain,Y
-910,2000000.0,Robin Olsen,aston-villa/startseite/verein/405,Sweden,England,N
-911,600000.0,Kristoffer Nordfeldt,aik-solna/startseite/verein/272,Sweden,Sweden,Y
-912,6000000.0,Isak Hien,hellas-verona/startseite/verein/276,Sweden,Italy,N
-913,4000000.0,Hjalmar Ekdal,fc-burnley/startseite/verein/1132,Sweden,England,N
-914,5000000.0,Gabriel Gudmundsson,losc-lille/startseite/verein/1082,Sweden,France,N
-915,5000000.0,Emil Holm,spezia-calcio/startseite/verein/3522,Sweden,Italy,N
-916,1200000.0,Linus Wahlqvist,pogon-stettin/startseite/verein/324,Sweden,Poland,N
-917,1800000.0,Samuel Gustafson,bk-hacken/startseite/verein/1109,Sweden,Sweden,Y
-918,15000000.0,Mattias Svanberg,vfl-wolfsburg/startseite/verein/82,Sweden,Germany,N
-919,2500000.0,Ken Sema,fc-watford/startseite/verein/1010,Sweden,England,N
-920,25000000.0,Anthony Elanga,manchester-united/startseite/verein/985,Sweden,England,N
-921,7000000.0,Viktor Claesson,fc-kopenhagen/startseite/verein/190,Sweden,Denmark,N
-922,50000000.0,Alexander Isak,newcastle-united/startseite/verein/762,Sweden,England,N
-923,5000000.0,Robin Quaison,al-ettifaq/startseite/verein/7732,Sweden,Saudi Arabia,N
-924,2000000.0,Viktor Johansson,rotherham-united/startseite/verein/1194,Sweden,England,N
-925,15000000.0,Victor Lindelöf,manchester-united/startseite/verein/985,Sweden,England,N
-926,6000000.0,Carl Starfelt,celtic-glasgow/startseite/verein/371,Sweden,Scotland,N
-927,2000000.0,Edvin Kurtulus,hammarby-if/startseite/verein/1059,Sweden,Sweden,Y
-928,3000000.0,Ludwig Augustinsson,rcd-mallorca/startseite/verein/237,Sweden,Spain,N
-929,2000000.0,Joel Andersson,fc-midtjylland/startseite/verein/865,Sweden,Denmark,N
-930,2500000.0,Jesper Karlström,lech-posen/startseite/verein/238,Sweden,Poland,N
-931,800000.0,Albin Ekdal,spezia-calcio/startseite/verein/3522,Sweden,Italy,N
-932,2500000.0,Kristoffer Olsson,fc-midtjylland/startseite/verein/865,Sweden,Denmark,N
-933,9000000.0,Emil Forsberg,rasenballsport-leipzig/startseite/verein/23826,Sweden,Germany,N
-934,16000000.0,Jesper Karlsson,az-alkmaar/startseite/verein/1090,Sweden,Netherlands,N
-935,55000000.0,Dejan Kulusevski,tottenham-hotspur/startseite/verein/148,Sweden,England,N
-936,8000000.0,Viktor Gyökeres,coventry-city/startseite/verein/990,Sweden,England,N
-937,2000000.0,Zlatan Ibrahimović,ac-mailand/startseite/verein/5,Sweden,Italy,N
-938,35000000.0,Gregor Kobel,borussia-dortmund/startseite/verein/16,Switzerland,Germany,N
-939,3500000.0,Yvon Mvogo,fc-lorient/startseite/verein/1158,Switzerland,France,N
-940,20000000.0,Nico Elvedi,borussia-monchengladbach/startseite/verein/18,Switzerland,Germany,N
-941,4000000.0,Eray Cömert,fc-valencia/startseite/verein/1049,Switzerland,Spain,N
-942,3500000.0,Ricardo Rodríguez,fc-turin/startseite/verein/416,Switzerland,Italy,N
-943,6000000.0,Jordan Lotomba,ogc-nizza/startseite/verein/417,Switzerland,France,N
-944,28000000.0,Granit Xhaka,fc-arsenal/startseite/verein/11,Switzerland,England,N
-945,10000000.0,Remo Freuler,nottingham-forest/startseite/verein/703,Switzerland,England,N
-946,3000000.0,Edimilson Fernandes,1-fsv-mainz-05/startseite/verein/39,Switzerland,Germany,N
-947,6000000.0,Rubén Vargas,fc-augsburg/startseite/verein/167,Switzerland,Germany,N
-948,1000000.0,Renato Steffen,fc-lugano/startseite/verein/2790,Switzerland,Switzerland,Y
-949,5000000.0,Zeki Amdouni,fc-basel-1893/startseite/verein/26,Switzerland,Switzerland,Y
-950,5000000.0,Yann Sommer,fc-bayern-munchen/startseite/verein/27,Switzerland,Germany,N
-951,30000000.0,Manuel Akanji,manchester-city/startseite/verein/281,Switzerland,England,N
-952,10000000.0,Fabian Schär,newcastle-united/startseite/verein/762,Switzerland,England,N
-953,4000000.0,Cédric Zesiger,bsc-young-boys/startseite/verein/452,Switzerland,Switzerland,Y
-954,2000000.0,Ulisses Garcia,bsc-young-boys/startseite/verein/452,Switzerland,Switzerland,Y
-955,20000000.0,Denis Zakaria,fc-chelsea/startseite/verein/631,Switzerland,England,N
-956,22000000.0,Djibril Sow,eintracht-frankfurt/startseite/verein/24,Switzerland,Germany,N
-957,3500000.0,Michel Aebischer,fc-bologna/startseite/verein/1025,Switzerland,Italy,N
-958,4000000.0,Xherdan Shaqiri,chicago-fire-fc/startseite/verein/432,Switzerland,United States,N
-959,2500000.0,Steven Zuber,aek-athen/startseite/verein/2441,Switzerland,Greece,N
-960,22000000.0,Breel Embolo,as-monaco/startseite/verein/162,Switzerland,Monaco,N
-961,2700000.0,Andi Zeqiri,fc-basel-1893/startseite/verein/26,Switzerland,Switzerland,Y
-962,1000000.0,Aymen Dahmen,club-sportif-sfaxien/startseite/verein/581,Tunisia,Tunisia,Y
-963,600000.0,Moez Ben Cherifia,esperance-tunis/startseite/verein/3342,Tunisia,Tunisia,Y
-964,900000.0,Nader Ghandri,club-africain-tunis/startseite/verein/819,Tunisia,Tunisia,Y
-965,1500000.0,Ali Abdi,sm-caen/startseite/verein/1162,Tunisia,France,N
-966,2500000.0,Yan Valery,sco-angers/startseite/verein/1420,Tunisia,France,N
-967,800000.0,Wajdi Kechrida,atromitos-athen/startseite/verein/3060,Tunisia,Greece,N
-968,4000000.0,Aïssa Laïdouni,1-fc-union-berlin/startseite/verein/89,Tunisia,Germany,N
-969,2700000.0,Mohamed Ali Ben Romdhane,esperance-tunis/startseite/verein/3342,Tunisia,Tunisia,Y
-970,500000.0,Chaïm El Djebali,olympique-lyon-b/startseite/verein/12764,Tunisia,France,N
-971,4500000.0,Firas Ben Larbi,ajman-club/startseite/verein/24724,Tunisia,United Arab Emirates,N
-972,350000.0,Elias Achouri,viborg-ff/startseite/verein/1063,Tunisia,Denmark,N
-973,550000.0,Haythem Jouini,stade-tunisien/startseite/verein/4812,Tunisia,Tunisia,Y
-974,900000.0,Bechir Ben Said,us-monastir/startseite/verein/9890,Tunisia,Tunisia,Y
-975,2000000.0,Yassine Meriah,esperance-tunis/startseite/verein/3342,Tunisia,Tunisia,Y
-976,700000.0,Alaa Ghram,club-sportif-sfaxien/startseite/verein/581,Tunisia,Tunisia,Y
-977,1300000.0,Ali Maâloul,el-ahly-kairo/startseite/verein/7,Tunisia,Egypt,N
-978,1300000.0,Mohamed Dräger,fc-luzern/startseite/verein/434,Tunisia,Switzerland,N
-979,13000000.0,Ellyes Skhiri,1-fc-koln/startseite/verein/3,Tunisia,Germany,N
-980,3500000.0,Anis Slimane,brondby-if/startseite/verein/206,Tunisia,Denmark,N
-981,1200000.0,Ghaylen Chaaleli,esperance-tunis/startseite/verein/3342,Tunisia,Tunisia,Y
-982,8000000.0,Hannibal,manchester-united/startseite/verein/985,Tunisia,England,N
-983,500000.0,Amor Layouni,western-sydney-wanderers/startseite/verein/36100,Tunisia,Australia,N
-984,1200000.0,Seifeddine Jaziri,zamalek-sc/startseite/verein/664,Tunisia,Egypt,N
-985,350000.0,Hamdi Labidi,club-africain-tunis/startseite/verein/819,Tunisia,Tunisia,Y
-986,5000000.0,Matt Turner,fc-arsenal/startseite/verein/11,United States,England,N
-987,1500000.0,Sean Johnson,toronto-fc/startseite/verein/11141,United States,Canada,N
-988,800000.0,Drake Callender,inter-miami-cf/startseite/verein/69261,United States,United States,Y
-989,9000000.0,Auston Trusty,fc-arsenal/startseite/verein/11,United States,England,N
-990,5000000.0,Miles Robinson,atlanta-united-fc/startseite/verein/51663,United States,United States,Y
-991,3000000.0,John Anthony Brooks,tsg-1899-hoffenheim/startseite/verein/533,United States,Germany,N
-992,3000000.0,Aaron Long,los-angeles-fc/startseite/verein/51828,United States,United States,Y
-993,2000000.0,Matt Miazga,fc-cincinnati/startseite/verein/51772,United States,United States,Y
-994,12000000.0,Antonee Robinson,fc-fulham/startseite/verein/931,United States,England,N
-995,2500000.0,John Tolkin,new-york-red-bulls/startseite/verein/623,United States,United States,Y
-996,12000000.0,Sergiño Dest,ac-mailand/startseite/verein/5,United States,Italy,N
-997,2500000.0,Bryan Reynolds,kvc-westerlo/startseite/verein/968,United States,Belgium,N
-998,2000000.0,DeAndre Yedlin,inter-miami-cf/startseite/verein/69261,United States,United States,Y
-999,20000000.0,Tyler Adams,leeds-united/startseite/verein/399,United States,England,N
-1000,3000000.0,Kellyn Acosta,los-angeles-fc/startseite/verein/51828,United States,United States,Y
-1001,21000000.0,Weston McKennie,leeds-united/startseite/verein/399,United States,England,N
-1002,6000000.0,Taylor Booth,fc-utrecht/startseite/verein/200,United States,Netherlands,N
-1003,4000000.0,Jackson Yueill,san-jose-earthquakes/startseite/verein/218,United States,United States,Y
-1004,2800000.0,Alan Soñora,fc-juarez/startseite/verein/49283,United States,Mexico,N
-1005,1500000.0,Aidan Morris,columbus-crew-sc/startseite/verein/813,United States,United States,Y
-1006,2500000.0,Julian Gressel,vancouver-whitecaps-fc/startseite/verein/6321,United States,Canada,N
-1007,28000000.0,Giovanni Reyna,borussia-dortmund/startseite/verein/16,United States,Germany,N
-1008,4000000.0,Paxton Pomykal,fc-dallas/startseite/verein/8816,United States,United States,Y
-1009,5500000.0,Jordan Morris,seattle-sounders-fc/startseite/verein/9636,United States,United States,Y
-1010,32000000.0,Christian Pulisic,fc-chelsea/startseite/verein/631,United States,England,N
-1011,5000000.0,Álex Zendejas,cf-america/startseite/verein/3631,United States,Mexico,N
-1012,25000000.0,Folarin Balogun,stade-reims/startseite/verein/1421,United States,France,N
-1013,9000000.0,Jordan,1-fc-union-berlin/startseite/verein/89,United States,Germany,N
-1014,8000000.0,Jesús Ferreira,fc-dallas/startseite/verein/8816,United States,United States,Y
-1015,6000000.0,Haji Wright,antalyaspor/startseite/verein/589,United States,Turkey,N
-1016,4500000.0,Zack Steffen,manchester-city/startseite/verein/281,United States,England,N
-1017,1000000.0,Ethan Horvath,luton-town/startseite/verein/1031,United States,England,N
-1018,10000000.0,Chris Richards,crystal-palace/startseite/verein/873,United States,England,N
-1019,7000000.0,Mark McKenzie,krc-genk/startseite/verein/1184,United States,Belgium,N
-1020,3500000.0,Walker Zimmerman,nashville-sc/startseite/verein/63966,United States,United States,Y
-1021,3000000.0,Erik Palmer-Brown,es-troyes-ac/startseite/verein/1095,United States,France,N
-1022,2500000.0,James Sands,new-york-city-fc/startseite/verein/40058,United States,United States,Y
-1023,175000.0,Jalen Neal,los-angeles-galaxy/startseite/verein/1061,United States,United States,Y
-1024,3500000.0,DeJuan Jones,new-england-revolution/startseite/verein/626,United States,United States,Y
-1025,12000000.0,Joe Scally,borussia-monchengladbach/startseite/verein/18,United States,Germany,N
-1026,4000000.0,Reggie Cannon,boavista-porto-fc/startseite/verein/2503,United States,Portugal,N
-1027,2000000.0,Marlon Fossey,standard-luttich/startseite/verein/3057,United States,Belgium,N
-1028,1500000.0,Shaq Moore,nashville-sc/startseite/verein/63966,United States,United States,Y
-1029,3500000.0,Johnny,sc-internacional-porto-alegre/startseite/verein/6600,United States,Brazil,N
-1030,22000000.0,Yunus Musah,fc-valencia/startseite/verein/1049,United States,Spain,N
-1031,6000000.0,Cristian Roldán,seattle-sounders-fc/startseite/verein/9636,United States,United States,Y
-1032,5000000.0,Gianluca Busio,venezia-fc/startseite/verein/607,United States,Italy,N
-1033,3000000.0,Luca de la Torre,celta-vigo/startseite/verein/940,United States,Spain,N
-1034,2000000.0,Tanner Tessmann,venezia-fc/startseite/verein/607,United States,Italy,N
-1035,1200000.0,Timothy Tillman,los-angeles-fc/startseite/verein/51828,United States,United States,Y
-1036,30000000.0,Brenden Aaronson,leeds-united/startseite/verein/399,United States,England,N
-1037,6000000.0,Djordje Mihailovic,az-alkmaar/startseite/verein/1090,United States,Netherlands,N
-1038,850000.0,Richard Ledezma,new-york-city-fc/startseite/verein/40058,United States,United States,Y
-1039,425000.0,Tyler Boyd,los-angeles-galaxy/startseite/verein/1061,United States,United States,Y
-1040,12000000.0,Timothy Weah,losc-lille/startseite/verein/1082,United States,France,N
-1041,4000000.0,Paul Arriola,fc-dallas/startseite/verein/8816,United States,United States,Y
-1042,12000000.0,Josh Sargent,norwich-city/startseite/verein/1123,United States,England,N
-1043,9000000.0,Ricardo Pepi,fc-groningen/startseite/verein/202,United States,Netherlands,N
-1044,7000000.0,Brandon Vazquez,fc-cincinnati/startseite/verein/51772,United States,United States,Y
-1045,1500000.0,Matthew Hoppe,fc-middlesbrough/startseite/verein/641,United States,England,N
-1046,3500000.0,Sergio Rochet,club-nacional/startseite/verein/866,Uruguay,Uruguay,Y
-1047,1000000.0,Gastón Olveira,olimpia-asuncion/startseite/verein/629,Uruguay,Paraguay,N
-1048,8000000.0,Santiago Bueno,fc-girona/startseite/verein/12321,Uruguay,Spain,N
-1049,4000000.0,Sebastián Cáceres,cf-america/startseite/verein/3631,Uruguay,Mexico,N
-1050,800000.0,Federico Pereira,liverpool-fc-montevideo/startseite/verein/10663,Uruguay,Uruguay,Y
-1051,8000000.0,Joaquín Piquerez,se-palmeiras-sao-paulo/startseite/verein/1023,Uruguay,Brazil,N
-1052,3000000.0,José Luis Rodríguez,vasco-da-gama-rio-de-janeiro/startseite/verein/978,Uruguay,Brazil,N
-1053,2000000.0,Guillermo Varela,flamengo-rio-de-janeiro/startseite/verein/614,Uruguay,Brazil,N
-1054,15000000.0,Lucas Torreira,galatasaray-istanbul/startseite/verein/141,Uruguay,Turkey,N
-1055,11000000.0,Nicolás de la Cruz,club-atletico-river-plate/startseite/verein/209,Uruguay,Argentina,N
-1056,3000000.0,Felipe Carballo,gremio-porto-alegre/startseite/verein/210,Uruguay,Brazil,N
-1057,4000000.0,Brian Rodríguez,cf-america/startseite/verein/3631,Uruguay,Mexico,N
-1058,10000000.0,Facundo Torres,orlando-city-sc/startseite/verein/45604,Uruguay,United States,N
-1059,3000000.0,Facundo Pellistri,manchester-united/startseite/verein/985,Uruguay,England,N
-1060,7000000.0,Matías Arezo,ca-penarol/startseite/verein/861,Uruguay,Uruguay,Y
-1061,4000000.0,Thiago Borbas,red-bull-bragantino/startseite/verein/8793,Uruguay,Brazil,N
-1062,1200000.0,Santiago Mele,club-atletico-union/startseite/verein/7097,Uruguay,Argentina,N
-1063,600000.0,Guillermo de Amores,sporting-gijon/startseite/verein/2448,Uruguay,Spain,N
-1064,6000000.0,Sebastián Coates,sporting-lissabon/startseite/verein/336,Uruguay,Portugal,N
-1065,3000000.0,Agustín Rogel,hertha-bsc/startseite/verein/44,Uruguay,Germany,N
-1066,18000000.0,Mathías Olivera,ssc-neapel/startseite/verein/6195,Uruguay,Italy,N
-1067,6000000.0,Matías Viña,afc-bournemouth/startseite/verein/989,Uruguay,England,N
-1068,2000000.0,Giovanni González,rcd-mallorca/startseite/verein/237,Uruguay,Spain,N
-1069,25000000.0,Manuel Ugarte,sporting-lissabon/startseite/verein/336,Uruguay,Portugal,N
-1070,100000000.0,Federico Valverde,real-madrid/startseite/verein/418,Uruguay,Spain,N
-1071,4500000.0,Matías Vecino,lazio-rom/startseite/verein/398,Uruguay,Italy,N
-1072,12000000.0,Diego Rossi,fenerbahce-istanbul/startseite/verein/36,Uruguay,Turkey,N
-1073,2000000.0,Diego Hernández,botafogo-rio-de-janeiro/startseite/verein/537,Uruguay,Brazil,N
-1074,4000000.0,Agustín Canobbio,club-athletico-paranaense/startseite/verein/679,Uruguay,Brazil,N
-1075,8000000.0,Maxi Gómez,trabzonspor/startseite/verein/449,Uruguay,Turkey,N
-1076,6000000.0,Jonathan Rodríguez,cf-america/startseite/verein/3631,Uruguay,Mexico,N
-1077,8000000.0,Danny Ward,leicester-city/startseite/verein/1003,Wales,England,N
-1078,500000.0,Adam Davies,sheffield-united/startseite/verein/350,Wales,England,N
-1079,9000000.0,Ethan Ampadu,spezia-calcio/startseite/verein/3522,Wales,Italy,N
-1080,6000000.0,Chris Mepham,afc-bournemouth/startseite/verein/989,Wales,England,N
-1081,20000000.0,Ben Davies,tottenham-hotspur/startseite/verein/148,Wales,England,N
-1082,18000000.0,Neco Williams,nottingham-forest/startseite/verein/703,Wales,England,N
-1083,3000000.0,Aaron Ramsey,ogc-nizza/startseite/verein/417,Wales,France,N
-1084,400000.0,Joe Morrell,fc-portsmouth/startseite/verein/1020,Wales,England,N
-1085,2200000.0,Oliver Cooper,swansea-city/startseite/verein/2288,Wales,Wales,Y
-1086,13000000.0,Harry Wilson,fc-fulham/startseite/verein/931,Wales,England,N
-1087,12000000.0,David Brooks,afc-bournemouth/startseite/verein/989,Wales,England,N
-1088,1000000.0,Liam Cullen,swansea-city/startseite/verein/2288,Wales,Wales,Y
-1089,700000.0,Nathan Broadhead,ipswich-town/startseite/verein/677,Wales,England,N
-1090,500000.0,Wayne Hennessey,nottingham-forest/startseite/verein/703,Wales,England,N
-1091,10000000.0,Ben Cabango,swansea-city/startseite/verein/2288,Wales,Wales,Y
-1092,8000000.0,Joe Rodon,fc-stade-rennes/startseite/verein/273,Wales,France,N
-1093,125000.0,Joe Low,bristol-city-u23/startseite/verein/39304,Wales,England,N
-1094,700000.0,Morgan Fox,stoke-city/startseite/verein/512,Wales,England,N
-1095,6000000.0,Connor Roberts,fc-burnley/startseite/verein/1132,Wales,England,N
-1096,2000000.0,Jordan James,birmingham-city/startseite/verein/337,Wales,England,N
-1097,30000000.0,Brennan Johnson,nottingham-forest/startseite/verein/703,Wales,England,N
-1098,500000.0,Luke Harris,fc-fulham-u23/startseite/verein/9262,Wales,England,N
-1099,13000000.0,Daniel James,leeds-united/startseite/verein/399,Wales,England,N
-1100,4000000.0,Kieffer Moore,afc-bournemouth/startseite/verein/989,Wales,England,N
-1101,900000.0,Tom Bradshaw,fc-millwall/startseite/verein/1028,Wales,England,N
+26,50000000.0,Julián Álvarez,manchester-city/startseite/verein/281,Argentina,England,N
+27,4000000.0,Mathew Ryan,az-alkmaar/startseite/verein/1090,Australia,Netherlands,N
+28,450000.0,Joe Gauci,adelaide-united/startseite/verein/875,Australia,Australia,Y
+29,1000000.0,Kye Rowles,heart-of-midlothian-fc/startseite/verein/43,Australia,Scotland,N
+30,800000.0,Gianni Stensness,viking-stavanger/startseite/verein/239,Australia,Norway,N
+31,450000.0,Jordan Bos,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
+32,600000.0,Ryan Strain,st-mirren-fc/startseite/verein/465,Australia,Scotland,N
+33,750000.0,Aiden O'Neill,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
+34,650000.0,Keanu Baccus,st-mirren-fc/startseite/verein/465,Australia,Scotland,N
+35,4000000.0,Riley McGree,fc-middlesbrough/startseite/verein/641,Australia,England,N
+36,1200000.0,Denis Genreau,fc-toulouse/startseite/verein/415,Australia,France,N
+37,700000.0,Brandon Borrello,western-sydney-wanderers/startseite/verein/36100,Australia,Australia,Y
+38,800000.0,Mitchell Duke,machida-zelvia/startseite/verein/23568,Australia,Japan,N
+39,750000.0,Tom Glover,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
+40,15000000.0,Harry Souttar,leicester-city/startseite/verein/1003,Australia,England,N
+41,900000.0,Alessandro Circati,parma-calcio-1913/startseite/verein/130,Australia,Italy,N
+42,500000.0,Joel King,sydney-fc/startseite/verein/8054,Australia,Australia,Y
+43,850000.0,Nathaniel Atkinson,heart-of-midlothian-fc/startseite/verein/43,Australia,Scotland,N
+44,900000.0,Connor Metcalfe,fc-st-pauli/startseite/verein/35,Australia,Germany,N
+45,700000.0,Cammy Devlin,heart-of-midlothian-fc/startseite/verein/43,Australia,Scotland,N
+46,50000.0,Alex Robertson,manchester-city-u23/startseite/verein/9265,Australia,England,N
+47,1500000.0,Ajdin Hrustic,hellas-verona/startseite/verein/276,Australia,Italy,N
+48,700000.0,Mathew Leckie,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
+49,2000000.0,Jamie Maclaren,melbourne-city-fc/startseite/verein/25580,Australia,Australia,Y
+50,45000000.0,Thibaut Courtois,real-madrid/startseite/verein/418,Belgium,Spain,N
+51,4000000.0,Arnaud Bodart,standard-luttich/startseite/verein/3057,Belgium,Belgium,Y
+52,20000000.0,Arthur Theate,fc-stade-rennes/startseite/verein/273,Belgium,France,N
+53,8500000.0,Sebastiaan Bornauw,vfl-wolfsburg/startseite/verein/82,Belgium,Germany,N
+54,1500000.0,Jan Vertonghen,rsc-anderlecht/startseite/verein/58,Belgium,Belgium,Y
+55,17000000.0,Leander Dendoncker,aston-villa/startseite/verein/405,Belgium,England,N
+56,12000000.0,Orel Mangala,nottingham-forest/startseite/verein/703,Belgium,England,N
+57,3000000.0,Olivier Deman,cercle-brugge/startseite/verein/520,Belgium,Belgium,Y
+58,10000000.0,Hans Vanaken,fc-brugge/startseite/verein/2282,Belgium,Belgium,Y
+59,18000000.0,Jérémy Doku,fc-stade-rennes/startseite/verein/273,Belgium,France,N
+60,12000000.0,Dodi Lukébakio,hertha-bsc/startseite/verein/44,Belgium,Germany,N
+61,40000000.0,Romelu Lukaku,inter-mailand/startseite/verein/46,Belgium,Italy,N
+62,8000000.0,Matz Sels,rc-strassburg-alsace/startseite/verein/667,Belgium,France,N
+63,2200000.0,Thomas Kaminski,blackburn-rovers/startseite/verein/164,Belgium,England,N
+64,20000000.0,Wout Faes,leicester-city/startseite/verein/1003,Belgium,England,N
+65,6000000.0,Ameen Al-Dakhil,fc-burnley/startseite/verein/1132,Belgium,England,N
+66,28000000.0,Timothy Castagne,leicester-city/startseite/verein/1003,Belgium,England,N
+67,30000000.0,Youri Tielemans,leicester-city/startseite/verein/1003,Belgium,England,N
+68,8500000.0,Aster Vranckx,ac-mailand/startseite/verein/5,Belgium,Italy,N
+69,15000000.0,Mike Trésor,krc-genk/startseite/verein/1184,Belgium,Belgium,Y
+70,25000000.0,Yannick Carrasco,atletico-madrid/startseite/verein/13,Belgium,Spain,N
+71,15000000.0,Alexis Saelemaekers,ac-mailand/startseite/verein/5,Belgium,Italy,N
+72,9000000.0,Johan Bakayoko,psv-eindhoven/startseite/verein/383,Belgium,Netherlands,N
+73,10000000.0,Michy Batshuayi,fenerbahce-istanbul/startseite/verein/36,Belgium,Turkey,N
+74,45000000.0,Alisson,fc-liverpool/startseite/verein/31,Brazil,England,N
+75,3000000.0,Weverton,se-palmeiras-sao-paulo/startseite/verein/1023,Brazil,Brazil,Y
+76,70000000.0,Marquinhos,fc-paris-saint-germain/startseite/verein/583,Brazil,France,N
+77,15000000.0,Danilo,juventus-turin/startseite/verein/506,Brazil,Italy,N
+78,7500000.0,Alex Telles,fc-sevilla/startseite/verein/368,Brazil,Spain,N
+79,18000000.0,Vanderson,as-monaco/startseite/verein/162,Brazil,Monaco,N
+80,50000000.0,Casemiro,manchester-united/startseite/verein/985,Brazil,England,N
+81,45000000.0,Lucas Paquetá,west-ham-united/startseite/verein/379,Brazil,England,N
+82,14000000.0,Raphael Veiga,se-palmeiras-sao-paulo/startseite/verein/1023,Brazil,Brazil,Y
+83,100000000.0,Rodrygo,real-madrid/startseite/verein/418,Brazil,Spain,N
+84,55000000.0,Richarlison,tottenham-hotspur/startseite/verein/148,Brazil,England,N
+85,13000000.0,Rony,se-palmeiras-sao-paulo/startseite/verein/1023,Brazil,Brazil,Y
+86,45000000.0,Ederson,manchester-city/startseite/verein/281,Brazil,England,N
+87,70000000.0,Éder Militão,real-madrid/startseite/verein/418,Brazil,Spain,N
+88,30000000.0,Roger Ibañez,as-rom/startseite/verein/12,Brazil,Italy,N
+89,9000000.0,Robert Renan,zenit-st-petersburg/startseite/verein/964,Brazil,Russia,N
+90,7000000.0,Ayrton Lucas,flamengo-rio-de-janeiro/startseite/verein/614,Brazil,Brazil,Y
+91,60000000.0,Bruno Guimarães,newcastle-united/startseite/verein/762,Brazil,England,N
+92,14000000.0,André,fluminense-rio-de-janeiro/startseite/verein/2462,Brazil,Brazil,Y
+93,38000000.0,Joelinton,newcastle-united/startseite/verein/762,Brazil,England,N
+94,150000000.0,Vinicius Junior,real-madrid/startseite/verein/418,Brazil,Spain,N
+95,30000000.0,Malcom,zenit-st-petersburg/startseite/verein/964,Brazil,Russia,N
+96,22000000.0,Pedro,flamengo-rio-de-janeiro/startseite/verein/614,Brazil,Brazil,Y
+97,800000.0,Devis Epassy,abha-club/startseite/verein/40039,Cameroon,Saudi Arabia,N
+98,0.0,Marcelin Mbahbi,gazelle-fa-de-garoua/startseite/verein/105802,Cameroon,Cameroon,Y
+99,1000000.0,Nicolas N'Koulou,aris-thessaloniki/startseite/verein/605,Cameroon,Greece,N
+100,3000000.0,Enzo Tchato,montpellier-hsc/startseite/verein/969,Cameroon,France,N
+101,1500000.0,Olivier Mbaizo,philadelphia-union/startseite/verein/25467,Cameroon,United States,N
+102,4000000.0,Jean Onana,rc-lens/startseite/verein/826,Cameroon,France,N
+103,0.0,Andre Zanga,as-aigle-royal-menoua/startseite/verein/39270,Cameroon,Cameroon,Y
+104,2000000.0,Olivier Kemen,kayserispor/startseite/verein/3205,Cameroon,Turkey,N
+105,0.0,Ben Elliott,fc-chelsea-u23/startseite/verein/9250,Cameroon,England,N
+106,3000000.0,Nicolas Moumi Ngamaleu,dinamo-moskau/startseite/verein/121,Cameroon,Russia,N
+107,28000000.0,Bryan Mbeumo,fc-brentford/startseite/verein/1148,Cameroon,England,N
+108,2000000.0,Stéphane Bahoken,kasimpasa/startseite/verein/10484,Cameroon,Turkey,N
+109,400000.0,Fabrice Ondoa,auda-kekava/startseite/verein/8606,Cameroon,Latvia,N
+110,2500000.0,Oumar Gonzalez,ac-ajaccio/startseite/verein/1147,Cameroon,France,N
+111,3000000.0,Nouhou,seattle-sounders-fc/startseite/verein/9636,Cameroon,United States,N
+112,2000000.0,Malcom Bokele,fc-girondins-bordeaux/startseite/verein/40,Cameroon,France,N
+113,1000000.0,Collins Fai,al-taee/startseite/verein/40079,Cameroon,Saudi Arabia,N
+114,3000000.0,Martin Hongla,real-valladolid/startseite/verein/366,Cameroon,Spain,N
+115,3000000.0,Olivier Ntcham,swansea-city/startseite/verein/2288,Cameroon,Wales,N
+116,2000000.0,Pierre Kunde,vfl-bochum/startseite/verein/80,Cameroon,Germany,N
+117,10000000.0,Karl Toko Ekambi,fc-stade-rennes/startseite/verein/273,Cameroon,France,N
+118,250000.0,Jerome Ngom Mbekeli,waasland-beveren/startseite/verein/28643,Cameroon,Belgium,N
+119,4000000.0,Ignatius Ganago,fc-nantes/startseite/verein/995,Cameroon,France,N
+120,1500000.0,Dayne St. Clair,minnesota-united-fc/startseite/verein/56089,Canada,United States,N
+121,200000.0,Tom McGill,brighton-amp-hove-albion/startseite/verein/1237,Canada,England,N
+122,600000.0,Scott Kennedy,ssv-jahn-regensburg/startseite/verein/109,Canada,Germany,N
+123,100000.0,Steven Vitória,gd-chaves/startseite/verein/3325,Canada,Portugal,N
+124,2500000.0,Sam Adekugbe,galatasaray-istanbul/startseite/verein/141,Canada,Turkey,N
+125,1000000.0,Zachary Brault-Guillard,club-de-foot-montreal/startseite/verein/4078,Canada,Canada,Y
+126,12000000.0,Stephen Eustaquio,fc-porto/startseite/verein/720,Canada,Portugal,N
+127,325000.0,Victor Loturi,ross-county-fc/startseite/verein/2759,Canada,Scotland,N
+128,525000.0,David Wotherspoon,st-johnstone-fc/startseite/verein/2578,Canada,Scotland,N
+129,1700000.0,Liam Millar,fc-basel-1893/startseite/verein/26,Canada,Switzerland,N
+130,325000.0,Charles-Andreas Brym,fc-eindhoven/startseite/verein/3892,Canada,Netherlands,N
+131,1000000.0,Jacen Russell-Rowe,columbus-crew-sc/startseite/verein/813,Canada,United States,N
+132,1200000.0,Milan Borjan,roter-stern-belgrad/startseite/verein/159,Canada,Serbia,N
+133,4000000.0,Kamal Miller,inter-miami-cf/startseite/verein/69261,Canada,United States,N
+134,500000.0,Zac McGraw,portland-timbers/startseite/verein/4291,Canada,United States,N
+135,50000.0,Moïse Bombito,colorado-rapids/startseite/verein/1247,Canada,United States,N
+136,2500000.0,Richie Laryea,toronto-fc/startseite/verein/11141,Canada,Canada,Y
+137,400000.0,Dominick Zator,korona-kielce/startseite/verein/6110,Canada,Poland,N
+138,3500000.0,Jonathan Osorio,toronto-fc/startseite/verein/11141,Canada,Canada,Y
+139,250000.0,Ali Ahmed,vancouver-whitecaps-fc/startseite/verein/6321,Canada,Canada,Y
+140,2500000.0,Jacob Shaffelburg,nashville-sc/startseite/verein/63966,Canada,United States,N
+141,400000.0,Junior Hoilett,fc-reading/startseite/verein/1032,Canada,England,N
+142,2000000.0,Lucas Cavallini,club-tijuana/startseite/verein/13353,Canada,Mexico,N
+143,2500000.0,Kevin Mier,atletico-nacional/startseite/verein/8172,Colombia,Colombia,Y
+144,2000000.0,Camilo Vargas,atlas-guadalajara/startseite/verein/8590,Colombia,Mexico,N
+145,12000000.0,Jhon Lucumí,fc-bologna/startseite/verein/1025,Colombia,Italy,N
+146,3000000.0,Yerson Mosquera,fc-cincinnati/startseite/verein/51772,Colombia,United States,N
+147,300000.0,Andrés Salazar,atletico-nacional/startseite/verein/8172,Colombia,Colombia,Y
+148,2000000.0,Juan David Mosquera,portland-timbers/startseite/verein/4291,Colombia,United States,N
+149,15000000.0,Jefferson Lerma,afc-bournemouth/startseite/verein/989,Colombia,England,N
+150,6000000.0,Mateus Uribe,fc-porto/startseite/verein/720,Colombia,Portugal,N
+151,7000000.0,Jorge Carrascal,zska-moskau/startseite/verein/2410,Colombia,Russia,N
+152,75000000.0,Luis Díaz,fc-liverpool/startseite/verein/31,Colombia,England,N
+153,5000000.0,Diego Valoyes,club-atletico-talleres/startseite/verein/3938,Colombia,Argentina,N
+154,12000000.0,Rafael Borré,eintracht-frankfurt/startseite/verein/24,Colombia,Germany,N
+155,2400000.0,Álvaro Montero,millonarios-fc/startseite/verein/2350,Colombia,Colombia,Y
+156,20000000.0,Davinson Sánchez,tottenham-hotspur/startseite/verein/148,Colombia,England,N
+157,12000000.0,Yerry Mina,fc-everton/startseite/verein/29,Colombia,England,N
+158,3000000.0,Deiver Machado,rc-lens/startseite/verein/826,Colombia,France,N
+159,9000000.0,Daniel Muñoz,krc-genk/startseite/verein/1184,Colombia,Belgium,N
+160,18000000.0,Wilmar Barrios,zenit-st-petersburg/startseite/verein/964,Colombia,Russia,N
+161,1000000.0,Kevin Castaño,rionegro-aguilas/startseite/verein/20590,Colombia,Colombia,Y
+162,4000000.0,Juan Cuadrado,juventus-turin/startseite/verein/506,Colombia,Italy,N
+163,4500000.0,Yáser Asprilla,fc-watford/startseite/verein/1010,Colombia,England,N
+164,8000000.0,Jhon Arias,fluminense-rio-de-janeiro/startseite/verein/2462,Colombia,Brazil,N
+165,1500000.0,Óscar Cortés,millonarios-fc/startseite/verein/2350,Colombia,Colombia,Y
+166,3500000.0,Mateo Cassierra,zenit-st-petersburg/startseite/verein/964,Colombia,Russia,N
+167,300000.0,Kevin Chamorro,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
+168,200000.0,Alexandre Lezcano,santos-de-guapiles-fc/startseite/verein/20541,Costa Rica,Costa Rica,Y
+169,1700000.0,Francisco Calvo,konyaspor/startseite/verein/2293,Costa Rica,Turkey,N
+170,150000.0,Kendall Waston,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
+171,250000.0,Keysher Fuller,cs-herediano/startseite/verein/2677,Costa Rica,Costa Rica,Y
+172,0.0,Ricardo Peña,real-betis-sevilla-u19/startseite/verein/40422,Costa Rica,Spain,N
+173,225000.0,Wilmer Azofeifa,ad-san-carlos/startseite/verein/18659,Costa Rica,Costa Rica,Y
+174,225000.0,Jefry Valverde,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
+175,450000.0,Cristopher Núñez,pas-lamia-1964/startseite/verein/3999,Costa Rica,Greece,N
+176,225000.0,Josimar Alcócer,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
+177,300000.0,Carlos Mora,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
+178,250000.0,Warren Madrigal,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
+179,225000.0,Jussef Delgado,municipal-perez-zeledon/startseite/verein/8601,Costa Rica,Costa Rica,Y
+180,1700000.0,Juan Pablo Vargas,millonarios-fc/startseite/verein/2350,Costa Rica,Colombia,N
+181,300000.0,Pablo Arboine,deportivo-saprissa/startseite/verein/4720,Costa Rica,Costa Rica,Y
+182,225000.0,Suhander Zúñiga,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
+183,250000.0,Carlos Martínez,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
+184,300000.0,Roan Wilson,gil-vicente-fc/startseite/verein/2424,Costa Rica,Portugal,N
+185,175000.0,Celso Borges,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
+186,600000.0,Diego Campos,degerfors-if/startseite/verein/3641,Costa Rica,Sweden,N
+187,325000.0,Aarón Suárez,ld-alajuelense/startseite/verein/6478,Costa Rica,Costa Rica,Y
+188,2000000.0,Joel Campbell,club-leon-fc/startseite/verein/4941,Costa Rica,Mexico,N
+189,375000.0,Anthony Contreras,cs-herediano/startseite/verein/2677,Costa Rica,Costa Rica,Y
+190,12000000.0,Dominik Livakovic,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
+191,2800000.0,Nediljko Labrovic,hnk-rijeka/startseite/verein/144,Croatia,Croatia,Y
+192,5000000.0,Martin Erlic,us-sassuolo/startseite/verein/6574,Croatia,Italy,N
+193,15000000.0,Borna Sosa,vfb-stuttgart/startseite/verein/79,Croatia,Germany,N
+194,12000000.0,Josip Stanisic,fc-bayern-munchen/startseite/verein/27,Croatia,Germany,N
+195,25000000.0,Marcelo Brozovic,inter-mailand/startseite/verein/46,Croatia,Italy,N
+196,20000000.0,Lovro Majer,fc-stade-rennes/startseite/verein/273,Croatia,France,N
+197,10000000.0,Ivan Perisic,tottenham-hotspur/startseite/verein/148,Croatia,England,N
+198,17000000.0,Nikola Vlasic,fc-turin/startseite/verein/416,Croatia,Italy,N
+199,9000000.0,Andrej Kramaric,tsg-1899-hoffenheim/startseite/verein/533,Croatia,Germany,N
+200,6500000.0,Dion Beljo,fc-augsburg/startseite/verein/167,Croatia,Germany,N
+201,3000000.0,Ivica Ivusic,pafos-fc/startseite/verein/45457,Croatia,Cyprus,N
+202,18000000.0,Josip Sutalo,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
+203,1800000.0,Domagoj Vida,aek-athen/startseite/verein/2441,Croatia,Greece,N
+204,6500000.0,Borna Barisic,glasgow-rangers/startseite/verein/124,Croatia,Scotland,N
+205,9000000.0,Josip Juranovic,1-fc-union-berlin/startseite/verein/89,Croatia,Germany,N
+206,40000000.0,Mateo Kovacic,fc-chelsea/startseite/verein/631,Croatia,England,N
+207,10000000.0,Luka Modric,real-madrid/startseite/verein/418,Croatia,Spain,N
+208,20000000.0,Mario Pasalic,atalanta-bergamo/startseite/verein/800,Croatia,Italy,N
+209,12000000.0,Luka Ivanusec,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
+210,7000000.0,Petar Musa,benfica-lissabon/startseite/verein/294,Croatia,Portugal,N
+211,5000000.0,Bruno Petkovic,gnk-dinamo-zagreb/startseite/verein/419,Croatia,Croatia,Y
+212,3500000.0,Frederik Rönnow,1-fc-union-berlin/startseite/verein/89,Denmark,Germany,N
+213,2000000.0,Mads Hermansen,brondby-if/startseite/verein/206,Denmark,Denmark,Y
+214,32000000.0,Joachim Andersen,crystal-palace/startseite/verein/873,Denmark,England,N
+215,3500000.0,Simon Kjaer,ac-mailand/startseite/verein/5,Denmark,Italy,N
+216,15000000.0,Rasmus Kristensen,leeds-united/startseite/verein/399,Denmark,England,N
+217,1700000.0,Jens Stryger Larsen,trabzonspor/startseite/verein/449,Denmark,Turkey,N
+218,15000000.0,Morten Hjulmand,us-lecce/startseite/verein/1005,Denmark,Italy,N
+219,25000000.0,Christian Eriksen,manchester-united/startseite/verein/985,Denmark,England,N
+220,14000000.0,Mathias Jensen,fc-brentford/startseite/verein/1148,Denmark,England,N
+221,15000000.0,Mikkel Damsgaard,fc-brentford/startseite/verein/1148,Denmark,England,N
+222,14000000.0,Andreas Skov Olsen,fc-brugge/startseite/verein/2282,Denmark,Belgium,N
+223,14000000.0,Jonas Wind,vfl-wolfsburg/startseite/verein/82,Denmark,Germany,N
+224,5000000.0,Martin Braithwaite,espanyol-barcelona/startseite/verein/714,Denmark,Spain,N
+225,2500000.0,Kasper Schmeichel,ogc-nizza/startseite/verein/417,Denmark,France,N
+226,40000000.0,Andreas Christensen,fc-barcelona/startseite/verein/131,Denmark,Spain,N
+227,18000000.0,Victor Nelsson,galatasaray-istanbul/startseite/verein/141,Denmark,Turkey,N
+228,1500000.0,Zanka,fc-brentford/startseite/verein/1148,Denmark,England,N
+229,14000000.0,Alexander Bah,benfica-lissabon/startseite/verein/294,Denmark,Portugal,N
+230,1000000.0,Elias Jelert,fc-kopenhagen/startseite/verein/190,Denmark,Denmark,Y
+231,45000000.0,Pierre-Emile Höjbjerg,tottenham-hotspur/startseite/verein/148,Denmark,England,N
+232,18000000.0,Philip Billing,afc-bournemouth/startseite/verein/989,Denmark,England,N
+233,28000000.0,Jesper Lindström,eintracht-frankfurt/startseite/verein/24,Denmark,Germany,N
+234,6000000.0,Mohamed Daramy,fc-kopenhagen/startseite/verein/190,Denmark,Denmark,Y
+235,45000000.0,Rasmus Højlund,atalanta-bergamo/startseite/verein/800,Denmark,Italy,N
+236,10000000.0,Yussuf Poulsen,rasenballsport-leipzig/startseite/verein/23826,Denmark,Germany,N
+237,1000000.0,Moisés Ramírez,independiente-del-valle/startseite/verein/19309,Ecuador,Ecuador,Y
+238,600000.0,Alexander Domínguez,ldu-quito/startseite/verein/9855,Ecuador,Ecuador,Y
+239,11000000.0,Willian Pacho,royal-antwerpen-fc/startseite/verein/1096,Ecuador,Belgium,N
+240,2000000.0,Xavier Arreaga,seattle-sounders-fc/startseite/verein/9636,Ecuador,United States,N
+241,1000000.0,Leonardo Realpe,red-bull-bragantino/startseite/verein/8793,Ecuador,Brazil,N
+242,3300000.0,Angelo Preciado,krc-genk/startseite/verein/1184,Ecuador,Belgium,N
+243,55000000.0,Moisés Caicedo,brighton-amp-hove-albion/startseite/verein/1237,Ecuador,England,N
+244,2500000.0,Jordy Alcívar,independiente-del-valle/startseite/verein/19309,Ecuador,Ecuador,Y
+245,12000000.0,José Cifuentes,los-angeles-fc/startseite/verein/51828,Ecuador,United States,N
+246,3000000.0,Pedro Vite,vancouver-whitecaps-fc/startseite/verein/6321,Ecuador,Canada,N
+247,1200000.0,Anderson Julio,real-salt-lake-city/startseite/verein/6643,Ecuador,United States,N
+248,3800000.0,Enner Valencia,fenerbahce-istanbul/startseite/verein/36,Ecuador,Turkey,N
+249,600000.0,Hernán Galíndez,sd-aucas/startseite/verein/6362,Ecuador,Ecuador,Y
+250,25000000.0,Piero Hincapié,bayer-04-leverkusen/startseite/verein/15,Ecuador,Germany,N
+251,6000000.0,Félix Torres,santos-laguna/startseite/verein/1403,Ecuador,Mexico,N
+252,1800000.0,Robert Arboleda,fc-sao-paulo/startseite/verein/585,Ecuador,Brazil,N
+253,20000000.0,Pervis Estupiñán,brighton-amp-hove-albion/startseite/verein/1237,Ecuador,England,N
+254,1500000.0,José Hurtado,red-bull-bragantino/startseite/verein/8793,Ecuador,Brazil,N
+255,3000000.0,Carlos Gruezo,san-jose-earthquakes/startseite/verein/218,Ecuador,United States,N
+256,800000.0,Joao Ortiz,independiente-del-valle/startseite/verein/19309,Ecuador,Ecuador,Y
+257,3000000.0,Alan Franco,club-atletico-talleres/startseite/verein/3938,Ecuador,Argentina,N
+258,5000000.0,Gonzalo Plata,real-valladolid/startseite/verein/366,Ecuador,Spain,N
+259,1200000.0,Ángel Mena,club-leon-fc/startseite/verein/4941,Ecuador,Mexico,N
+260,3000000.0,Leonardo Campana,inter-miami-cf/startseite/verein/69261,Ecuador,United States,N
+261,2500000.0,Mohamed El Shenawy,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+262,600000.0,Mohamed Sobhi,zamalek-sc/startseite/verein/664,Egypt,Egypt,Y
+263,800000.0,Ali Gabr,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
+264,500000.0,Yasser Ibrahim,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+265,1500000.0,Ahmed Fatouh,zamalek-sc/startseite/verein/664,Egypt,Egypt,Y
+266,800000.0,Mohamed Hany,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+267,1500000.0,Hamdi Fathi,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+268,400000.0,Marwan Ateya,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+269,800000.0,Mahmoud Hamada,pharco-fc/startseite/verein/47058,Egypt,Egypt,Y
+270,11000000.0,Mahmoud Trezeguet,trabzonspor/startseite/verein/449,Egypt,Turkey,N
+271,70000000.0,Mohamed Salah,fc-liverpool/startseite/verein/31,Egypt,England,N
+272,1800000.0,Mostafa Fathi,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
+273,6000000.0,Mostafa Mohamed,fc-nantes/startseite/verein/995,Egypt,France,N
+274,1200000.0,Ahmed Yasser Rayan,cleopatra-fc/startseite/verein/57439,Egypt,Egypt,Y
+275,1000000.0,Gabaski,bank-el-ahly/startseite/verein/62448,Egypt,Egypt,Y
+276,2000000.0,Mohamed Abdelmonem,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+277,600000.0,Mahmoud Marei,coca-cola-fc/startseite/verein/68770,Egypt,Egypt,Y
+278,400000.0,Ahmed Ramadan,cleopatra-fc/startseite/verein/57439,Egypt,Egypt,Y
+279,1000000.0,Mohamed Hamdi,pyramids-fc/startseite/verein/44664,Egypt,Egypt,Y
+280,200000.0,Hesham Salah,ittihad-alexandria/startseite/verein/3963,Egypt,Egypt,Y
+281,800000.0,Mohanad Lasheen,coca-cola-fc/startseite/verein/68770,Egypt,Egypt,Y
+282,400000.0,Ghanam Mohamed,coca-cola-fc/startseite/verein/68770,Egypt,Egypt,Y
+283,800000.0,Mohamed Reda,coca-cola-fc/startseite/verein/68770,Egypt,Egypt,Y
+284,800000.0,Ahmed Abdelkader,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+285,4500000.0,Zizo,zamalek-sc/startseite/verein/664,Egypt,Egypt,Y
+286,700000.0,Hussein El Shahat,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+287,6000000.0,Omar Marmoush,vfl-wolfsburg/startseite/verein/82,Egypt,Germany,N
+288,600000.0,Kahraba,el-ahly-kairo/startseite/verein/7,Egypt,Egypt,Y
+289,38000000.0,Aaron Ramsdale,fc-arsenal/startseite/verein/11,England,England,Y
+290,4000000.0,Sam Johnstone,crystal-palace/startseite/verein/873,England,England,Y
+291,30000000.0,John Stones,manchester-city/startseite/verein/281,England,England,Y
+292,25000000.0,Tyrone Mings,aston-villa/startseite/verein/405,England,England,Y
+293,16000000.0,Levi Colwill,fc-chelsea-u23/startseite/verein/9250,England,England,Y
+294,65000000.0,Trent Alexander-Arnold,fc-liverpool/startseite/verein/31,England,England,Y
+295,13000000.0,Kieran Trippier,newcastle-united/startseite/verein/762,England,England,Y
+296,35000000.0,Kalvin Phillips,manchester-city/startseite/verein/281,England,England,Y
+297,32000000.0,Conor Gallagher,fc-chelsea/startseite/verein/631,England,England,Y
+298,55000000.0,James Maddison,leicester-city/startseite/verein/1003,England,England,Y
+299,110000000.0,Phil Foden,manchester-city/startseite/verein/281,England,England,Y
+300,70000000.0,Jack Grealish,manchester-city/startseite/verein/281,England,England,Y
+301,90000000.0,Harry Kane,tottenham-hotspur/startseite/verein/148,England,England,Y
+302,25000000.0,Jordan Pickford,fc-everton/startseite/verein/29,England,England,Y
+303,35000000.0,Marc Guéhi,crystal-palace/startseite/verein/873,England,England,Y
+304,25000000.0,Harry Maguire,manchester-united/startseite/verein/985,England,England,Y
+305,18000000.0,Lewis Dunk,brighton-amp-hove-albion/startseite/verein/1237,England,England,Y
+306,35000000.0,Luke Shaw,manchester-united/startseite/verein/985,England,England,Y
+307,15000000.0,Kyle Walker,manchester-city/startseite/verein/281,England,England,Y
+308,80000000.0,Declan Rice,west-ham-united/startseite/verein/379,England,England,Y
+309,120000000.0,Jude Bellingham,borussia-dortmund/startseite/verein/16,England,Germany,N
+310,10000000.0,Jordan Henderson,fc-liverpool/startseite/verein/31,England,England,Y
+311,30000000.0,Eberechi Eze,crystal-palace/startseite/verein/873,England,England,Y
+312,80000000.0,Marcus Rashford,manchester-united/startseite/verein/985,England,England,Y
+313,110000000.0,Bukayo Saka,fc-arsenal/startseite/verein/11,England,England,Y
+314,18000000.0,Callum Wilson,newcastle-united/startseite/verein/762,England,England,Y
+315,45000000.0,Mike Maignan,ac-mailand/startseite/verein/5,France,Italy,N
+316,8000000.0,Alphonse Areola,west-ham-united/startseite/verein/379,France,England,N
+317,60000000.0,Dayot Upamecano,fc-bayern-munchen/startseite/verein/27,France,Germany,N
+318,35000000.0,Ibrahima Konaté,fc-liverpool/startseite/verein/31,France,England,N
+319,60000000.0,Theo Hernández,ac-mailand/startseite/verein/5,France,Italy,N
+320,85000000.0,Aurélien Tchouaméni,real-madrid/startseite/verein/418,France,Spain,N
+321,14000000.0,Jordan Veretout,olympique-marseille/startseite/verein/244,France,France,Y
+322,25000000.0,Youssouf Fofana,as-monaco/startseite/verein/162,France,Monaco,N
+323,60000000.0,Ousmane Dembélé,fc-barcelona/startseite/verein/131,France,Spain,N
+324,25000000.0,Antoine Griezmann,atletico-madrid/startseite/verein/13,France,Spain,N
+325,65000000.0,Randal Kolo Muani,eintracht-frankfurt/startseite/verein/24,France,Germany,N
+326,4000000.0,Olivier Giroud,ac-mailand/startseite/verein/5,France,Italy,N
+327,10000000.0,Brice Samba,rc-lens/startseite/verein/826,France,France,Y
+328,65000000.0,Wesley Fofana,fc-chelsea/startseite/verein/631,France,England,N
+329,60000000.0,Jules Koundé,fc-barcelona/startseite/verein/131,France,Spain,N
+330,25000000.0,Axel Disasi,as-monaco/startseite/verein/162,France,Monaco,N
+331,35000000.0,Benjamin Pavard,fc-bayern-munchen/startseite/verein/27,France,Germany,N
+332,25000000.0,Boubacar Kamara,aston-villa/startseite/verein/405,France,England,N
+333,85000000.0,Eduardo Camavinga,real-madrid/startseite/verein/418,France,Spain,N
+334,65000000.0,Kingsley Coman,fc-bayern-munchen/startseite/verein/27,France,Germany,N
+335,80000000.0,Christopher Nkunku,rasenballsport-leipzig/startseite/verein/23826,France,Germany,N
+336,180000000.0,Kylian Mbappé,fc-paris-saint-germain/startseite/verein/583,France,France,Y
+337,32000000.0,Marcus Thuram,borussia-monchengladbach/startseite/verein/18,France,Germany,N
+338,35000000.0,Marc-André ter Stegen,fc-barcelona/startseite/verein/131,Germany,Spain,N
+339,8500000.0,Kevin Trapp,eintracht-frankfurt/startseite/verein/24,Germany,Germany,Y
+340,32000000.0,Antonio Rüdiger,real-madrid/startseite/verein/418,Germany,Spain,N
+341,20000000.0,Malick Thiaw,ac-mailand/startseite/verein/5,Germany,Italy,N
+342,20000000.0,David Raum,rasenballsport-leipzig/startseite/verein/23826,Germany,Germany,Y
+343,9000000.0,Marius Wolf,borussia-dortmund/startseite/verein/16,Germany,Germany,Y
+344,14000000.0,Emre Can,borussia-dortmund/startseite/verein/16,Germany,Germany,Y
+345,25000000.0,Ilkay Gündogan,manchester-city/startseite/verein/281,Germany,England,N
+346,110000000.0,Jamal Musiala,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
+347,40000000.0,Julian Brandt,borussia-dortmund/startseite/verein/16,Germany,Germany,Y
+348,13000000.0,Jonas Hofmann,borussia-monchengladbach/startseite/verein/18,Germany,Germany,Y
+349,13000000.0,Niclas Füllkrug,sv-werder-bremen/startseite/verein/86,Germany,Germany,Y
+350,10000000.0,Bernd Leno,fc-fulham/startseite/verein/931,Germany,England,N
+351,40000000.0,Nico Schlotterbeck,borussia-dortmund/startseite/verein/16,Germany,Germany,Y
+352,20000000.0,Matthias Ginter,sc-freiburg/startseite/verein/60,Germany,Germany,Y
+353,18000000.0,Thilo Kehrer,west-ham-united/startseite/verein/379,Germany,England,N
+354,15000000.0,Benjamin Henrichs,rasenballsport-leipzig/startseite/verein/23826,Germany,Germany,Y
+355,80000000.0,Joshua Kimmich,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
+356,65000000.0,Leon Goretzka,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
+357,15000000.0,Robin Gosens,inter-mailand/startseite/verein/46,Germany,Italy,N
+358,85000000.0,Florian Wirtz,bayer-04-leverkusen/startseite/verein/15,Germany,Germany,Y
+359,70000000.0,Leroy Sané,fc-bayern-munchen/startseite/verein/27,Germany,Germany,Y
+360,60000000.0,Kai Havertz,fc-chelsea/startseite/verein/631,Germany,England,N
+361,2500000.0,Lawrence Ati Zigi,fc-st-gallen-1879/startseite/verein/257,Ghana,Switzerland,N
+362,300000.0,Abdul Nurudeen,kas-eupen/startseite/verein/1245,Ghana,Belgium,N
+363,8000000.0,Joseph Aidoo,celta-vigo/startseite/verein/940,Ghana,Spain,N
+364,1200000.0,Nicholas Opoku,amiens-sc/startseite/verein/1416,Ghana,France,N
+365,2000000.0,Gideon Mensah,aj-auxerre/startseite/verein/290,Ghana,France,N
+366,400000.0,Denis Odoi,fc-brugge/startseite/verein/2282,Ghana,Belgium,N
+367,13000000.0,Salis Abdul Samed,rc-lens/startseite/verein/826,Ghana,France,N
+368,2500000.0,Majeed Ashimeru,rsc-anderlecht/startseite/verein/58,Ghana,Belgium,N
+369,22000000.0,Kamaldeen Sulemana,fc-southampton/startseite/verein/180,Ghana,England,N
+370,1500000.0,Ernest Nuamah,fc-nordsjaelland/startseite/verein/2778,Ghana,Denmark,N
+371,5000000.0,Osman Bukari,roter-stern-belgrad/startseite/verein/159,Ghana,Serbia,N
+372,6000000.0,Jordan Ayew,crystal-palace/startseite/verein/873,Ghana,England,N
+373,125000.0,Hafiz Konkoni,bechem-united-fc/startseite/verein/25065,Ghana,Ghana,Y
+374,300000.0,Joe Wollacott,charlton-athletic/startseite/verein/358,Ghana,England,N
+375,15000000.0,Daniel Amartey,leicester-city/startseite/verein/1003,Ghana,England,N
+376,5000000.0,Alidu Seidu,clermont-foot-63/startseite/verein/3524,Ghana,France,N
+377,700000.0,Kasim Adams,fc-basel-1893/startseite/verein/26,Ghana,Switzerland,N
+378,450000.0,Patrick Kpozo,fc-sheriff-tiraspol/startseite/verein/2481,Ghana,Moldova,N
+379,38000000.0,Thomas Partey,fc-arsenal/startseite/verein/11,Ghana,England,N
+380,1000000.0,Edmund Addo,fk-spartak-subotica/startseite/verein/15276,Ghana,Serbia,N
+381,30000000.0,Mohammed Kudus,ajax-amsterdam/startseite/verein/610,Ghana,Netherlands,N
+382,2200000.0,André Ayew,nottingham-forest/startseite/verein/703,Ghana,England,N
+383,12000000.0,Joseph Paintsil,krc-genk/startseite/verein/1184,Ghana,Belgium,N
+384,2500000.0,Ransford-Yeboah Königsdörffer,hamburger-sv/startseite/verein/41,Ghana,Germany,N
+385,750000.0,Kwasi Wriedt,holstein-kiel/startseite/verein/269,Ghana,Germany,N
+386,1500000.0,Rúnar Alex Rúnarsson,alanyaspor/startseite/verein/11282,Iceland,Turkey,N
+387,600000.0,Hákon Rafn Valdimarsson,if-elfsborg-boras/startseite/verein/1101,Iceland,Sweden,N
+388,2000000.0,Hördur Magnússon,panathinaikos-athen/startseite/verein/265,Iceland,Greece,N
+389,1500000.0,Alfons Sampsted,fc-twente-enschede/startseite/verein/317,Iceland,Netherlands,N
+390,400000.0,Aron Gunnarsson,al-arabi-sc/startseite/verein/1230,Iceland,Qatar,N
+391,1500000.0,Mikael Egill Ellertsson,venezia-fc/startseite/verein/607,Iceland,Italy,N
+392,800000.0,Thórir Jóhann Helgason,us-lecce/startseite/verein/1005,Iceland,Italy,N
+393,3500000.0,Arnór Sigurdsson,ifk-norrkoping/startseite/verein/2844,Iceland,Sweden,N
+394,750000.0,Kristian Hlynsson,ajax-amsterdam-ii/startseite/verein/8817,Iceland,Netherlands,N
+395,1000000.0,Mikael Anderson,aarhus-gf/startseite/verein/678,Iceland,Denmark,N
+396,3500000.0,Ísak Bergmann Jóhannesson,fc-kopenhagen/startseite/verein/190,Iceland,Denmark,N
+397,900000.0,Willum Thór Willumsson,go-ahead-eagles-deventer/startseite/verein/1435,Iceland,Netherlands,N
+398,350000.0,Saevar Atli Magnússon,lyngby-bk/startseite/verein/369,Iceland,Denmark,N
+399,700000.0,Elías Rafn Ólafsson,fc-midtjylland/startseite/verein/865,Iceland,Denmark,N
+400,4000000.0,Sverrir Ingi Ingason,paok-thessaloniki/startseite/verein/1091,Iceland,Greece,N
+401,350000.0,Daníel Leó Grétarsson,slask-wroclaw/startseite/verein/759,Iceland,Poland,N
+402,900000.0,Valgeir Lunddal Fridriksson,bk-hacken/startseite/verein/1109,Iceland,Sweden,N
+403,400000.0,Victor Pálsson,d-c-united/startseite/verein/2440,Iceland,United States,N
+404,1200000.0,Arnór Ingvi Traustason,ifk-norrkoping/startseite/verein/2844,Iceland,Sweden,N
+405,500000.0,Birkir Bjarnason,viking-stavanger/startseite/verein/239,Iceland,Norway,N
+406,2000000.0,Hákon Arnar Haraldsson,fc-kopenhagen/startseite/verein/190,Iceland,Denmark,N
+407,3500000.0,Jón Dagur Thorsteinsson,oud-heverlee-leuven/startseite/verein/2727,Iceland,Belgium,N
+408,4500000.0,Albert Gudmundsson,genua-cfc/startseite/verein/252,Iceland,Italy,N
+409,1200000.0,Jóhann Berg Gudmundsson,fc-burnley/startseite/verein/1132,Iceland,England,N
+410,400000.0,Alfred Finnbogason,lyngby-bk/startseite/verein/369,Iceland,Denmark,N
+411,1200000.0,Alireza Beiranvand,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
+412,750000.0,Payam Niazmand,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
+413,2000000.0,Hossein Kanaani,al-ahli-sc/startseite/verein/3612,Iran,Qatar,N
+414,1200000.0,Omid Noorafkan,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
+415,2000000.0,Sadegh Moharrami,gnk-dinamo-zagreb/startseite/verein/419,Iran,Croatia,N
+416,1200000.0,Reza Asadi,tractor-fc/startseite/verein/12935,Iran,Iran,Y
+417,600000.0,Roozbeh Cheshmi,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
+418,700000.0,Seyed Mohammad Karimi,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
+419,800000.0,Amirhossein Hosseinzadeh,rsc-charleroi/startseite/verein/172,Iran,Belgium,N
+420,1300000.0,Mehdi Torabi,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
+421,3000000.0,Alireza Jahanbakhsh,feyenoord-rotterdam/startseite/verein/234,Iran,Netherlands,N
+422,18000000.0,Mehdi Taremi,fc-porto/startseite/verein/720,Iran,Portugal,N
+423,750000.0,Shahab Zahedi,puskas-akademia-fc/startseite/verein/37169,Iran,Hungary,N
+424,800000.0,Hossein Pourhamidi,aluminium-arak-fc/startseite/verein/42894,Iran,Iran,Y
+425,3000000.0,Majid Hosseini,kayserispor/startseite/verein/3205,Iran,Turkey,N
+426,700000.0,Morteza Pouraliganji,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
+427,800000.0,Ehsan Hajsafi,aek-athen/startseite/verein/2441,Iran,Greece,N
+428,450000.0,Ramin Rezaeian,sepahan-fc/startseite/verein/4947,Iran,Iran,Y
+429,600000.0,Alireza Alizadeh,gol-gohar-sirjan-fc/startseite/verein/34744,Iran,Iran,Y
+430,400000.0,Saeid Ezatolahi,vejle-boldklub/startseite/verein/443,Iran,Denmark,N
+431,500000.0,Saeid Mehri,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
+432,1400000.0,Mehdi Ghayedi,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
+433,250000.0,Vahid Amiri,persepolis-fc/startseite/verein/6079,Iran,Iran,Y
+434,1200000.0,Mohammad Mohebi,esteghlal-fc/startseite/verein/1076,Iran,Iran,Y
+435,12000000.0,Sardar Azmoun,bayer-04-leverkusen/startseite/verein/15,Iran,Germany,N
+436,1500000.0,Daniel Schmidt,vv-st-truiden/startseite/verein/475,Japan,Belgium,N
+437,800000.0,Kosuke Nakamura,portimonense-sc/startseite/verein/7378,Japan,Portugal,N
+438,7500000.0,Hiroki Ito,vfb-stuttgart/startseite/verein/79,Japan,Germany,N
+439,1500000.0,Shogo Taniguchi,al-rayyan-sc/startseite/verein/3229,Japan,Qatar,N
+440,12000000.0,Hidemasa Morita,sporting-lissabon/startseite/verein/336,Japan,Portugal,N
+441,900000.0,Sota Kawasaki,kyoto-sanga/startseite/verein/593,Japan,Japan,Y
+442,6500000.0,Reo Hatate,celtic-glasgow/startseite/verein/371,Japan,Scotland,N
+443,700000.0,Ryoya Morishita,nagoya-grampus/startseite/verein/1066,Japan,Japan,Y
+444,22000000.0,Kaoru Mitoma,brighton-amp-hove-albion/startseite/verein/1237,Japan,England,N
+445,6000000.0,Daizen Maeda,celtic-glasgow/startseite/verein/371,Japan,Scotland,N
+446,25000000.0,Takefusa Kubo,real-sociedad-san-sebastian/startseite/verein/681,Japan,Spain,N
+447,10000000.0,Junya Ito,stade-reims/startseite/verein/1421,Japan,France,N
+448,9000000.0,Kyogo Furuhashi,celtic-glasgow/startseite/verein/371,Japan,Scotland,N
+449,1000000.0,Keisuke Osako,sanfrecce-hiroshima/startseite/verein/2697,Japan,Japan,Y
+450,12000000.0,Ko Itakura,borussia-monchengladbach/startseite/verein/18,Japan,Germany,N
+451,3000000.0,Ayumu Seko,grasshopper-club-zurich/startseite/verein/504,Japan,Switzerland,N
+452,6000000.0,Yukinari Sugawara,az-alkmaar/startseite/verein/1090,Japan,Netherlands,N
+453,6500000.0,Wataru Endo,vfb-stuttgart/startseite/verein/79,Japan,Germany,N
+454,850000.0,Atsuki Ito,urawa-red-diamonds/startseite/verein/828,Japan,Japan,Y
+455,2800000.0,Hayao Kawabe,grasshopper-club-zurich/startseite/verein/504,Japan,Switzerland,N
+456,30000000.0,Daichi Kamada,eintracht-frankfurt/startseite/verein/24,Japan,Germany,N
+457,8000000.0,Keito Nakamura,lask/startseite/verein/413,Japan,Austria,N
+458,1200000.0,Yuki Soma,casa-pia-ac/startseite/verein/3268,Japan,Portugal,N
+459,15000000.0,Ritsu Doan,sc-freiburg/startseite/verein/60,Japan,Germany,N
+460,4000000.0,Takuma Asano,vfl-bochum/startseite/verein/80,Japan,Germany,N
+461,6000000.0,Ayase Ueda,cercle-brugge/startseite/verein/520,Japan,Belgium,N
+462,5000000.0,Carlos Acevedo,santos-laguna/startseite/verein/1403,Mexico,Mexico,Y
+463,1500000.0,Guillermo Ochoa,us-salernitana-1919/startseite/verein/380,Mexico,Italy,N
+464,8000000.0,César Montes,espanyol-barcelona/startseite/verein/714,Mexico,Spain,N
+465,4500000.0,Israel Reyes,cf-america/startseite/verein/3631,Mexico,Mexico,Y
+466,7000000.0,Gerardo Arteaga,krc-genk/startseite/verein/1184,Mexico,Belgium,N
+467,6000000.0,Jorge Sánchez,ajax-amsterdam/startseite/verein/610,Mexico,Netherlands,N
+468,35000000.0,Edson Álvarez,ajax-amsterdam/startseite/verein/610,Mexico,Netherlands,N
+469,6500000.0,Luis Romo,cf-monterrey/startseite/verein/2407,Mexico,Mexico,Y
+470,8000000.0,Érick Sánchez,cf-pachuca/startseite/verein/4035,Mexico,Mexico,Y
+471,4500000.0,Sebastián Córdova,tigres-uanl/startseite/verein/7055,Mexico,Mexico,Y
+472,4000000.0,Uriel Antuna,cd-cruz-azul/startseite/verein/3711,Mexico,Mexico,Y
+473,9000000.0,Santiago Gimenez,feyenoord-rotterdam/startseite/verein/234,Mexico,Netherlands,N
+474,3500000.0,Luis Malagón,cf-america/startseite/verein/3631,Mexico,Mexico,Y
+475,1500000.0,Antonio Rodríguez,club-tijuana/startseite/verein/13353,Mexico,Mexico,Y
+476,5000000.0,Víctor Guzmán,cf-monterrey/startseite/verein/2407,Mexico,Mexico,Y
+477,3600000.0,Johan Vásquez,us-cremonese/startseite/verein/2239,Mexico,Italy,N
+478,4000000.0,Jesús Gallardo,cf-monterrey/startseite/verein/2407,Mexico,Mexico,Y
+479,4000000.0,Julián Araujo,fc-barcelona-b/startseite/verein/2464,Mexico,Spain,N
+480,8000000.0,Luis Chávez,cf-pachuca/startseite/verein/4035,Mexico,Mexico,Y
+481,8000000.0,Carlos Rodríguez,cd-cruz-azul/startseite/verein/3711,Mexico,Mexico,Y
+482,5000000.0,Orbelín Pineda,aek-athen/startseite/verein/2441,Mexico,Greece,N
+483,8000000.0,Alexis Vega,deportivo-guadalajara/startseite/verein/6711,Mexico,Mexico,Y
+484,2000000.0,Ozziel Herrera,atlas-guadalajara/startseite/verein/8590,Mexico,Mexico,Y
+485,6000000.0,Henry Martín,cf-america/startseite/verein/3631,Mexico,Mexico,Y
+486,12000000.0,Bono,fc-sevilla/startseite/verein/368,Morocco,Spain,N
+487,900000.0,El Mehdi Benabid,fus-rabat/startseite/verein/6371,Morocco,Morocco,Y
+488,32000000.0,Nayef Aguerd,west-ham-united/startseite/verein/379,Morocco,England,N
+489,3000000.0,Ismaël Kandouss,royale-union-saint-gilloise/startseite/verein/3948,Morocco,Belgium,N
+490,2000000.0,Jawad El Yamiq,real-valladolid/startseite/verein/366,Morocco,Spain,N
+491,2500000.0,Adam Masina,udinese-calcio/startseite/verein/410,Morocco,Italy,N
+492,28000000.0,Noussair Mazraoui,fc-bayern-munchen/startseite/verein/27,Morocco,Germany,N
+493,30000000.0,Sofyan Amrabat,ac-florenz/startseite/verein/430,Morocco,Italy,N
+494,4500000.0,Youssef Maleh,us-lecce/startseite/verein/1005,Morocco,Italy,N
+495,2500000.0,Abdelhamid Sabiri,sampdoria-genua/startseite/verein/1038,Morocco,Italy,N
+496,8000000.0,Sofiane Boufal,al-rayyan-sc/startseite/verein/3229,Morocco,Qatar,N
+497,18000000.0,Hakim Ziyech,fc-chelsea/startseite/verein/631,Morocco,England,N
+498,20000000.0,Youssef En-Nesyri,fc-sevilla/startseite/verein/368,Morocco,Spain,N
+499,6000000.0,Tarik Tissoudali,kaa-gent/startseite/verein/157,Morocco,Belgium,N
+500,1000000.0,Munir,al-wahda-mekka/startseite/verein/17209,Morocco,Saudi Arabia,N
+501,375000.0,Youssef El Motie,wydad-casablanca/startseite/verein/6603,Morocco,Morocco,Y
+502,5000000.0,Romain Saïss,besiktas-istanbul/startseite/verein/114,Morocco,Turkey,N
+503,2500000.0,Achraf Dari,stade-brest-29/startseite/verein/3911,Morocco,France,N
+504,1400000.0,Abdel Abqar,deportivo-alaves/startseite/verein/1108,Morocco,Spain,N
+505,70000000.0,Achraf Hakimi,fc-paris-saint-germain/startseite/verein/583,Morocco,France,N
+506,1500000.0,Fahd Moufi,portimonense-sc/startseite/verein/7378,Morocco,Portugal,N
+507,9000000.0,Imrân Louza,fc-watford/startseite/verein/1010,Morocco,England,N
+508,10000000.0,Ilias Chair,queens-park-rangers/startseite/verein/1039,Morocco,England,N
+509,12000000.0,Anass Zaroury,fc-burnley/startseite/verein/1132,Morocco,England,N
+510,4000000.0,Oussama Idrissi,feyenoord-rotterdam/startseite/verein/234,Morocco,Netherlands,N
+511,7000000.0,Zakaria Aboukhlal,fc-toulouse/startseite/verein/415,Morocco,France,N
+512,7500000.0,Walid Cheddira,ssc-bari/startseite/verein/332,Morocco,Italy,N
+513,3000000.0,Abderrazak Hamdallah,al-ittihad-dschidda/startseite/verein/8023,Morocco,Saudi Arabia,N
+514,13000000.0,Justin Bijlow,feyenoord-rotterdam/startseite/verein/234,Netherlands,Netherlands,Y
+515,5000000.0,Andries Noppert,sc-heerenveen/startseite/verein/306,Netherlands,Netherlands,Y
+516,45000000.0,Sven Botman,newcastle-united/startseite/verein/762,Netherlands,England,N
+517,35000000.0,Nathan Aké,manchester-city/startseite/verein/281,Netherlands,England,N
+518,6000000.0,Daley Blind,fc-bayern-munchen/startseite/verein/27,Netherlands,Germany,N
+519,30000000.0,Teun Koopmeiners,atalanta-bergamo/startseite/verein/800,Netherlands,Italy,N
+520,7000000.0,Mats Wieffer,feyenoord-rotterdam/startseite/verein/234,Netherlands,Netherlands,Y
+521,14000000.0,Joey Veerman,psv-eindhoven/startseite/verein/383,Netherlands,Netherlands,Y
+522,28000000.0,Denzel Dumfries,inter-mailand/startseite/verein/46,Netherlands,Italy,N
+523,60000000.0,Cody Gakpo,fc-liverpool/startseite/verein/31,Netherlands,England,N
+524,15000000.0,Noa Lang,fc-brugge/startseite/verein/2282,Netherlands,Belgium,N
+525,14000000.0,Wout Weghorst,manchester-united/startseite/verein/985,Netherlands,England,N
+526,7000000.0,Mark Flekken,sc-freiburg/startseite/verein/60,Netherlands,Germany,N
+527,45000000.0,Virgil van Dijk,fc-liverpool/startseite/verein/31,Netherlands,England,N
+528,42000000.0,Jurrien Timber,ajax-amsterdam/startseite/verein/610,Netherlands,Netherlands,Y
+529,22000000.0,Tyrell Malacia,manchester-united/startseite/verein/985,Netherlands,England,N
+530,18000000.0,Lutsharel Geertruida,feyenoord-rotterdam/startseite/verein/234,Netherlands,Netherlands,Y
+531,10000000.0,Marten de Roon,atalanta-bergamo/startseite/verein/800,Netherlands,Italy,N
+532,75000000.0,Frenkie de Jong,fc-barcelona/startseite/verein/131,Netherlands,Spain,N
+533,8000000.0,Georginio Wijnaldum,as-rom/startseite/verein/12,Netherlands,Italy,N
+534,30000000.0,Xavi Simons,psv-eindhoven/startseite/verein/383,Netherlands,Netherlands,Y
+535,24000000.0,Steven Bergwijn,ajax-amsterdam/startseite/verein/610,Netherlands,Netherlands,Y
+536,16000000.0,Donyell Malen,borussia-dortmund/startseite/verein/16,Netherlands,Germany,N
+537,400000.0,Adebayo Adeleye,hapoel-jerusalem/startseite/verein/43119,Nigeria,Israel,N
+538,0.0,Victor Sochima,rivers-united-fc/startseite/verein/53321,Nigeria,Nigeria,Y
+539,4000000.0,Kevin Akpoguma,tsg-1899-hoffenheim/startseite/verein/533,Nigeria,Germany,N
+540,2500000.0,Semi Ajayi,west-bromwich-albion/startseite/verein/984,Nigeria,England,N
+541,8000000.0,Zaidu,fc-porto/startseite/verein/720,Nigeria,Portugal,N
+542,7000000.0,Bright Osayi-Samuel,fenerbahce-istanbul/startseite/verein/36,Nigeria,Turkey,N
+543,9000000.0,Frank Onyeka,fc-brentford/startseite/verein/1148,Nigeria,England,N
+544,15000000.0,Joe Aribo,fc-southampton/startseite/verein/180,Nigeria,England,N
+545,9000000.0,Moses Simon,fc-nantes/startseite/verein/995,Nigeria,France,N
+546,1500000.0,Ahmed Musa,sivasspor/startseite/verein/2381,Nigeria,Turkey,N
+547,120000000.0,Victor Osimhen,ssc-neapel/startseite/verein/6195,Nigeria,Italy,N
+548,17000000.0,Kelechi Iheanacho,leicester-city/startseite/verein/1003,Nigeria,England,N
+549,0.0,Olorunleke Ojo,enyimba-aba/startseite/verein/645,Nigeria,Nigeria,Y
+550,18000000.0,Calvin Bassey,ajax-amsterdam/startseite/verein/610,Nigeria,Netherlands,N
+551,2500000.0,William Troost-Ekong,us-salernitana-1919/startseite/verein/380,Nigeria,Italy,N
+552,1500000.0,Kenneth Omeruo,cd-leganes/startseite/verein/1244,Nigeria,Spain,N
+553,0.0,Ebube Gideon Duru,rivers-united-fc/startseite/verein/53321,Nigeria,Nigeria,Y
+554,32000000.0,Wilfred Ndidi,leicester-city/startseite/verein/1003,Nigeria,England,N
+555,25000000.0,Alex Iwobi,fc-everton/startseite/verein/29,Nigeria,England,N
+556,0.0,Divine Nwachukwu,bendel-insurance/startseite/verein/2979,Nigeria,Nigeria,Y
+557,25000000.0,Samuel Chukwueze,fc-villarreal/startseite/verein/1050,Nigeria,Spain,N
+558,30000000.0,Ademola Lookman,atalanta-bergamo/startseite/verein/800,Nigeria,Italy,N
+559,20000000.0,Taiwo Awoniyi,nottingham-forest/startseite/verein/703,Nigeria,England,N
+560,500000.0,Orlando Mosquera,monagas-sc/startseite/verein/14596,Panama,Venezuela,N
+561,150000.0,César Samudio,cd-marathon/startseite/verein/4523,Panama,Honduras,N
+562,250000.0,Fidel Escobar,deportivo-saprissa/startseite/verein/4720,Panama,Costa Rica,N
+563,225000.0,Eduardo Anderson,ad-san-carlos/startseite/verein/18659,Panama,Costa Rica,N
+564,500000.0,Eric Davis,dac-dunajska-streda/startseite/verein/4529,Panama,Slovakia,N
+565,450000.0,César Blackman,dac-dunajska-streda/startseite/verein/4529,Panama,Slovakia,N
+566,300000.0,Aníbal Godoy,nashville-sc/startseite/verein/63966,Panama,United States,N
+567,2500000.0,Adalberto Carrasquilla,houston-dynamo-fc/startseite/verein/9168,Panama,United States,N
+568,300000.0,Freddy Góndola,ld-alajuelense/startseite/verein/6478,Panama,Costa Rica,N
+569,375000.0,Alberto Quintero,club-cienciano/startseite/verein/2729,Panama,Peru,N
+570,800000.0,Cecilio Waterman,cd-cobresal/startseite/verein/17482,Panama,Chile,N
+571,150000.0,Azarias Londoño,comunicaciones-fc/startseite/verein/9709,Panama,Guatemala,N
+572,400000.0,Luis Mejía,union-espanola/startseite/verein/4321,Panama,Chile,N
+573,1000000.0,Andrés Andrade,arminia-bielefeld/startseite/verein/10,Panama,Germany,N
+574,225000.0,Hárold Cummings,monagas-sc/startseite/verein/14596,Panama,Venezuela,N
+575,200000.0,Roderick Miller,turan-tovuz/startseite/verein/9526,Panama,Azerbaijan,N
+576,3000000.0,Michael Murillo,rsc-anderlecht/startseite/verein/58,Panama,Belgium,N
+577,250000.0,Christian Martínez,najran-sc/startseite/verein/26586,Panama,Saudi Arabia,N
+578,300000.0,Jovani Welch,academico-viseu-fc/startseite/verein/7788,Panama,Portugal,N
+579,1200000.0,Ismael Díaz,cd-universidad-catolica/startseite/verein/17584,Panama,Ecuador,N
+580,1000000.0,Yoel Bárcenas,mazatlan-fc/startseite/verein/82696,Panama,Mexico,N
+581,150000.0,César Yanis,costa-del-este-fc/startseite/verein/49970,Panama,Panama,Y
+582,750000.0,José Fajardo,cusco-fc/startseite/verein/28999,Panama,Peru,N
+583,2000000.0,Pedro Gallese,orlando-city-sc/startseite/verein/45604,Peru,United States,N
+584,225000.0,José Carvallo,universitario-de-deportes/startseite/verein/6593,Peru,Peru,Y
+585,2000000.0,Anderson Santamaría,atlas-guadalajara/startseite/verein/8590,Peru,Mexico,N
+586,750000.0,Miguel Araujo,fc-emmen/startseite/verein/1283,Peru,Netherlands,N
+587,2500000.0,Marcos López,feyenoord-rotterdam/startseite/verein/234,Peru,Netherlands,N
+588,850000.0,Jhilmar Lora,club-sporting-cristal/startseite/verein/1450,Peru,Peru,Y
+589,2000000.0,Sergio Peña,malmo-ff/startseite/verein/496,Peru,Sweden,N
+590,750000.0,Jesús Castillo,club-sporting-cristal/startseite/verein/1450,Peru,Peru,Y
+591,1300000.0,Christian Cueva,club-alianza-lima/startseite/verein/184,Peru,Peru,Y
+592,1800000.0,Edison Flores,universitario-de-deportes/startseite/verein/6593,Peru,Peru,Y
+593,2700000.0,Gianluca Lapadula,cagliari-calcio/startseite/verein/1390,Peru,Italy,N
+594,500000.0,Christopher Olivares,deportivo-municipal/startseite/verein/17974,Peru,Peru,Y
+595,475000.0,Carlos Cáceda,fbc-melgar/startseite/verein/2734,Peru,Peru,Y
+596,4000000.0,Luis Abram,atlanta-united-fc/startseite/verein/51663,Peru,United States,N
+597,1800000.0,Alexander Callens,fc-girona/startseite/verein/12321,Peru,Spain,N
+598,500000.0,Carlos Zambrano,club-alianza-lima/startseite/verein/184,Peru,Peru,Y
+599,1800000.0,Miguel Trauco,san-jose-earthquakes/startseite/verein/218,Peru,United States,N
+600,3500000.0,Pedro Aquino,cf-america/startseite/verein/3631,Peru,Mexico,N
+601,2000000.0,Wilder Cartagena,orlando-city-sc/startseite/verein/45604,Peru,United States,N
+602,1300000.0,Yoshimar Yotún,club-sporting-cristal/startseite/verein/1450,Peru,Peru,Y
+603,600000.0,Christofer Gonzales,al-adalah-fc/startseite/verein/55544,Peru,Saudi Arabia,N
+604,900000.0,Bryan Reyna,club-alianza-lima/startseite/verein/184,Peru,Peru,Y
+605,900000.0,Álex Valera,universitario-de-deportes/startseite/verein/6593,Peru,Peru,Y
+606,200000.0,Paolo Guerrero,racing-club/startseite/verein/1444,Peru,Argentina,N
+607,10000000.0,Wojciech Szczesny,juventus-turin/startseite/verein/506,Poland,Italy,N
+608,3500000.0,Lukasz Skorupski,fc-bologna/startseite/verein/1025,Poland,Italy,N
+609,14000000.0,Jan Bednarek,fc-southampton/startseite/verein/180,Poland,England,N
+610,3000000.0,Przemyslaw Wisniewski,spezia-calcio/startseite/verein/3522,Poland,Italy,N
+611,1600000.0,Bartosz Bereszynski,ssc-neapel/startseite/verein/6195,Poland,Italy,N
+612,2800000.0,Krystian Bielik,derby-county/startseite/verein/22,Poland,England,N
+613,1500000.0,Ben Lederman,rakow-czestochowa/startseite/verein/9644,Poland,Poland,Y
+614,3500000.0,Karol Linetty,fc-turin/startseite/verein/416,Poland,Italy,N
+615,7000000.0,Przemyslaw Frankowski,rc-lens/startseite/verein/826,Poland,France,N
+616,14000000.0,Sebastian Szymanski,feyenoord-rotterdam/startseite/verein/234,Poland,Netherlands,N
+617,6000000.0,Michal Skoras,lech-posen/startseite/verein/238,Poland,Poland,Y
+618,8000000.0,Arkadiusz Milik,juventus-turin/startseite/verein/506,Poland,Italy,N
+619,4500000.0,Bartlomiej Dragowski,spezia-calcio/startseite/verein/3522,Poland,Italy,N
+620,20000000.0,Jakub Kiwior,fc-arsenal/startseite/verein/11,Poland,England,N
+621,3000000.0,Mateusz Wieteska,clermont-foot-63/startseite/verein/3524,Poland,France,N
+622,3000000.0,Tomasz Kedziora,paok-thessaloniki/startseite/verein/1091,Poland,Greece,N
+623,4500000.0,Bartosz Slisz,legia-warschau/startseite/verein/255,Poland,Poland,Y
+624,2500000.0,Damian Szymanski,aek-athen/startseite/verein/2441,Poland,Greece,N
+625,35000000.0,Piotr Zielinski,ssc-neapel/startseite/verein/6195,Poland,Italy,N
+626,1800000.0,Mateusz Legowski,pogon-stettin/startseite/verein/324,Poland,Poland,Y
+627,20000000.0,Nicola Zalewski,as-rom/startseite/verein/12,Poland,Italy,N
+628,10000000.0,Jakub Kaminski,vfl-wolfsburg/startseite/verein/82,Poland,Germany,N
+629,30000000.0,Robert Lewandowski,fc-barcelona/startseite/verein/131,Poland,Spain,N
+630,5000000.0,Karol Swiderski,charlotte-fc/startseite/verein/78435,Poland,United States,N
+631,45000000.0,Diogo Costa,fc-porto/startseite/verein/720,Portugal,Portugal,Y
+632,5000000.0,Rui Patrício,as-rom/startseite/verein/12,Portugal,Italy,N
+633,45000000.0,António Silva,benfica-lissabon/startseite/verein/294,Portugal,Portugal,Y
+634,2500000.0,Toti,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
+635,20000000.0,Raphaël Guerreiro,borussia-dortmund/startseite/verein/16,Portugal,Germany,N
+636,35000000.0,Diogo Dalot,manchester-united/startseite/verein/985,Portugal,England,N
+637,40000000.0,Rúben Neves,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
+638,12000000.0,Danilo Pereira,fc-paris-saint-germain/startseite/verein/583,Portugal,France,N
+639,20000000.0,Renato Sanches,fc-paris-saint-germain/startseite/verein/583,Portugal,France,N
+640,75000000.0,Bruno Fernandes,manchester-united/startseite/verein/985,Portugal,England,N
+641,90000000.0,Rafael Leão,ac-mailand/startseite/verein/5,Portugal,Italy,N
+642,20000000.0,Ricardo Horta,sc-braga/startseite/verein/1075,Portugal,Portugal,Y
+643,50000000.0,Gonçalo Ramos,benfica-lissabon/startseite/verein/294,Portugal,Portugal,Y
+644,18000000.0,José Sá,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
+645,75000000.0,Rúben Dias,manchester-city/startseite/verein/281,Portugal,England,N
+646,30000000.0,Gonçalo Inácio,sporting-lissabon/startseite/verein/336,Portugal,Portugal,Y
+647,1000000.0,Pepe,fc-porto/startseite/verein/720,Portugal,Portugal,Y
+648,60000000.0,João Cancelo,fc-bayern-munchen/startseite/verein/27,Portugal,Germany,N
+649,15000000.0,Nélson Semedo,wolverhampton-wanderers/startseite/verein/543,Portugal,England,N
+650,35000000.0,João Palhinha,fc-fulham/startseite/verein/931,Portugal,England,N
+651,42000000.0,Vitinha,fc-paris-saint-germain/startseite/verein/583,Portugal,France,N
+652,80000000.0,Bernardo Silva,manchester-city/startseite/verein/281,Portugal,England,N
+653,35000000.0,Otávio,fc-porto/startseite/verein/720,Portugal,Portugal,Y
+654,55000000.0,Diogo Jota,fc-liverpool/startseite/verein/31,Portugal,England,N
+655,50000000.0,João Félix,fc-chelsea/startseite/verein/631,Portugal,England,N
+656,15000000.0,Cristiano Ronaldo,al-nasr-riad/startseite/verein/18544,Portugal,Saudi Arabia,N
+657,350000.0,Meshaal Barsham,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
+658,200000.0,Jasem Al-Hail,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
+659,450000.0,Bassam Al-Rawi,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+660,350000.0,Yousef Aymen,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+661,250000.0,Jassem Gaber Abdulsallam,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
+662,500000.0,Homam Ahmed,al-gharafa-sc/startseite/verein/6297,Qatar,Qatar,Y
+663,250000.0,Musab Khoder,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
+664,300000.0,Mohammed Waad,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
+665,225000.0,Mustafa Mashaal,al-shamal/startseite/verein/10775,Qatar,Qatar,Y
+666,250000.0,Ali Asad,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
+667,300000.0,Yusuf Abdurisag,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
+668,200000.0,Tameem Mansour Al-Abdullah,al-rayyan-sc/startseite/verein/3229,Qatar,Qatar,Y
+669,600000.0,Ahmed Alaaeldin,al-gharafa-sc/startseite/verein/6297,Qatar,Qatar,Y
+670,325000.0,Salah Zakaria,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+671,150000.0,Yousef Hassan,al-gharafa-sc/startseite/verein/6297,Qatar,Qatar,Y
+672,400000.0,Tarek Salman,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
+673,275000.0,Mohammed Al-Naimi,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+674,200000.0,Ahmed Suhail,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
+675,400000.0,Hazem Ahmed,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
+676,200000.0,Assim Madibo,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+677,250000.0,Ahmed Fathi,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
+678,125000.0,Abdullah Marafee,al-arabi-sc/startseite/verein/1230,Qatar,Qatar,Y
+679,25000.0,Mahdi Salem,al-sadd-sc/startseite/verein/656,Qatar,Qatar,Y
+680,300000.0,Khalid Muneer Mazeed,al-wakrah-sc/startseite/verein/13509,Qatar,Qatar,Y
+681,2000000.0,Almoez Ali,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+682,300000.0,Mohammed Muntari,al-duhail-sc/startseite/verein/26091,Qatar,Qatar,Y
+683,16000000.0,Matvey Safonov,fk-krasnodar/startseite/verein/16704,Russia,Russia,Y
+684,2000000.0,Ilya Pomazun,ural-ekaterinburg/startseite/verein/11127,Russia,Russia,Y
+685,5000000.0,Maksim Osipenko,fk-rostov/startseite/verein/1083,Russia,Russia,Y
+686,6000000.0,Vyacheslav Karavaev,zenit-st-petersburg/startseite/verein/964,Russia,Russia,Y
+687,4000000.0,Daniil Denisov,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+688,8000000.0,Daniil Fomin,dinamo-moskau/startseite/verein/121,Russia,Russia,Y
+689,5000000.0,Ruslan Litvinov,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+690,3500000.0,Danil Prutsev,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+691,15000000.0,Arsen Zakharyan,dinamo-moskau/startseite/verein/121,Russia,Russia,Y
+692,5000000.0,Anton Miranchuk,lokomotiv-moskau/startseite/verein/932,Russia,Russia,Y
+693,7000000.0,Sergey Pinyaev,lokomotiv-moskau/startseite/verein/932,Russia,Russia,Y
+694,9000000.0,Aleksandr Sobolev,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+695,5000000.0,Nikolay Komlichenko,fk-rostov/startseite/verein/1083,Russia,Russia,Y
+696,3000000.0,Aleksandr Selikhov,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+697,700000.0,Sergey Pesjakov,fk-rostov/startseite/verein/1083,Russia,Russia,Y
+698,2500000.0,Aleksandr Soldatenkov,krylya-sovetov-samara/startseite/verein/2696,Russia,Russia,Y
+699,5500000.0,Aleksandr Silyanov,fk-rostov/startseite/verein/1083,Russia,Russia,Y
+700,8000000.0,Dmitriy Barinov,lokomotiv-moskau/startseite/verein/932,Russia,Russia,Y
+701,8000000.0,Danil Glebov,fk-rostov/startseite/verein/1083,Russia,Russia,Y
+702,10000000.0,Daler Kuzyaev,zenit-st-petersburg/startseite/verein/964,Russia,Russia,Y
+703,5000000.0,Daniil Khlusevich,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+704,10000000.0,Ivan Oblyakov,zska-moskau/startseite/verein/2410,Russia,Russia,Y
+705,3000000.0,Ilzat Akhmetov,fk-krasnodar/startseite/verein/16704,Russia,Russia,Y
+706,4000000.0,Anton Zinkovskiy,spartak-moskau/startseite/verein/232,Russia,Russia,Y
+707,7000000.0,Konstantin Tyukavin,dinamo-moskau/startseite/verein/121,Russia,Russia,Y
+708,600000.0,Mohammed Al-Rubaie,al-ahli-dschidda/startseite/verein/18487,Saudi Arabia,Saudi Arabia,Y
+709,25000.0,Osama Al-Mermesh,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
+710,900000.0,Ahmed Sharahili,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
+711,750000.0,Moteb Al-Harbi,al-shabab-riad/startseite/verein/9840,Saudi Arabia,Saudi Arabia,Y
+712,2800000.0,Saud Abdulhamid,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+713,1000000.0,Fawaz Al-Sagour,al-shabab-riad/startseite/verein/9840,Saudi Arabia,Saudi Arabia,Y
+714,1000000.0,Mohamed Kanno,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+715,500000.0,Hussain Al-Monassar,al-shabab-riad/startseite/verein/9840,Saudi Arabia,Saudi Arabia,Y
+716,1700000.0,Salem Al-Dawsari,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+717,400000.0,Fahad Al-Rashidi,al-taawoun-fc/startseite/verein/28844,Saudi Arabia,Saudi Arabia,Y
+718,3000000.0,Firas Al-Buraikan,al-fateh/startseite/verein/27221,Saudi Arabia,Saudi Arabia,Y
+719,350000.0,Haroune Camara,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
+720,550000.0,Mohammed Al-Owais,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+721,1300000.0,Abdulelah Al-Amri,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
+722,400000.0,Ali Al-Boleahi,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+723,325000.0,Zakaria Hawsawi,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
+724,2000000.0,Sultan Al-Ghannam,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
+725,500000.0,Abdullah Al-Khaibari,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
+726,650000.0,Nasser Al-Dawsari,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+727,2500000.0,Abdulrahman Ghareeb,al-nasr-riad/startseite/verein/18544,Saudi Arabia,Saudi Arabia,Y
+728,1200000.0,Abdulaziz Al-Bishi,al-ittihad-dschidda/startseite/verein/8023,Saudi Arabia,Saudi Arabia,Y
+729,400000.0,Haitham Asiri,al-ahli-dschidda/startseite/verein/18487,Saudi Arabia,Saudi Arabia,Y
+730,650000.0,Saleh Al-Shehri,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+731,200000.0,Abdullah Al-Hamdan,al-hilal-riad/startseite/verein/1114,Saudi Arabia,Saudi Arabia,Y
+732,2200000.0,Alfred Gomis,como-1907/startseite/verein/1047,Senegal,Italy,N
+733,1200000.0,Seny Dieng,queens-park-rangers/startseite/verein/1039,Senegal,England,N
+734,18000000.0,Moussa Niakhaté,nottingham-forest/startseite/verein/703,Senegal,England,N
+735,3000000.0,Formose Mendy,amiens-sc/startseite/verein/1416,Senegal,France,N
+736,7000000.0,Ismail Jakobs,as-monaco/startseite/verein/162,Senegal,Monaco,N
+737,900000.0,Abdallah Ndour,fc-sochaux-montbeliard/startseite/verein/750,Senegal,France,N
+738,10000000.0,Pape Gueye,fc-sevilla/startseite/verein/368,Senegal,Spain,N
+739,3000000.0,Cheikhou Kouyaté,nottingham-forest/startseite/verein/703,Senegal,England,N
+740,15000000.0,Pape Matar Sarr,tottenham-hotspur/startseite/verein/148,Senegal,England,N
+741,3000000.0,Pathé Ciss,rayo-vallecano/startseite/verein/367,Senegal,Spain,N
+742,0.0,Pape Ousmane Sakho,simba-sc/startseite/verein/14191,Senegal,Tanzania,N
+743,15000000.0,Krépin Diatta,as-monaco/startseite/verein/162,Senegal,Monaco,N
+744,18000000.0,Iliman Ndiaye,sheffield-united/startseite/verein/350,Senegal,England,N
+745,1500000.0,Mory Diaw,clermont-foot-63/startseite/verein/3524,Senegal,France,N
+746,25000000.0,Kalidou Koulibaly,fc-chelsea/startseite/verein/631,Senegal,England,N
+747,15000000.0,Abdou Diallo,rasenballsport-leipzig/startseite/verein/23826,Senegal,Germany,N
+748,1500000.0,Abdoulaye Seck,maccabi-haifa/startseite/verein/1064,Senegal,Israel,N
+749,3500000.0,Fodé Ballo-Touré,ac-mailand/startseite/verein/5,Senegal,Italy,N
+750,5000000.0,Youssouf Sabaly,real-betis-sevilla/startseite/verein/150,Senegal,Spain,N
+751,3500000.0,Nampalys Mendy,leicester-city/startseite/verein/1003,Senegal,England,N
+752,3000000.0,Dion Lopy,stade-reims/startseite/verein/1421,Senegal,France,N
+753,8000000.0,Idrissa Gueye,fc-everton/startseite/verein/29,Senegal,England,N
+754,45000000.0,Sadio Mané,fc-bayern-munchen/startseite/verein/27,Senegal,Germany,N
+755,20000000.0,Ismaïla Sarr,fc-watford/startseite/verein/1010,Senegal,England,N
+756,30000000.0,Nicolas Jackson,fc-villarreal/startseite/verein/1050,Senegal,Spain,N
+757,14000000.0,Habib Diallo,rc-strassburg-alsace/startseite/verein/667,Senegal,France,N
+758,10000000.0,Predrag Rajkovic,rcd-mallorca/startseite/verein/237,Serbia,Spain,N
+759,3500000.0,Vanja Milinković-Savić,fc-turin/startseite/verein/416,Serbia,Italy,N
+760,800000.0,Veljko Ilic,fk-tsc-backa-topola/startseite/verein/3137,Serbia,Serbia,Y
+761,18000000.0,Nikola Milenkovic,ac-florenz/startseite/verein/430,Serbia,Italy,N
+762,5000000.0,Erhan Masovic,vfl-bochum/startseite/verein/80,Serbia,Germany,N
+763,900000.0,Filip Mladenovic,legia-warschau/startseite/verein/255,Serbia,Poland,N
+764,6500000.0,Uros Racic,sc-braga/startseite/verein/1075,Serbia,Portugal,N
+765,50000000.0,Sergej Milinković-Savić,lazio-rom/startseite/verein/398,Serbia,Italy,N
+766,13000000.0,Sasa Lukic,fc-fulham/startseite/verein/931,Serbia,England,N
+767,22000000.0,Filip Kostic,juventus-turin/startseite/verein/506,Serbia,Italy,N
+768,2500000.0,Darko Lazovic,hellas-verona/startseite/verein/276,Serbia,Italy,N
+769,1800000.0,Filip Djuricic,sampdoria-genua/startseite/verein/1038,Serbia,Italy,N
+770,5000000.0,Andrija Zivkovic,paok-thessaloniki/startseite/verein/1091,Serbia,Greece,N
+771,70000000.0,Dusan Vlahovic,juventus-turin/startseite/verein/506,Serbia,Italy,N
+772,4000000.0,Dejan Joveljic,los-angeles-galaxy/startseite/verein/1061,Serbia,United States,N
+773,3500000.0,Djordje Petrovic,new-england-revolution/startseite/verein/626,Serbia,United States,N
+774,1500000.0,Mile Svilar,as-rom/startseite/verein/12,Serbia,Italy,N
+775,25000000.0,Strahinja Pavlovic,red-bull-salzburg/startseite/verein/409,Serbia,Austria,N
+776,7000000.0,Strahinja Erakovic,roter-stern-belgrad/startseite/verein/159,Serbia,Serbia,Y
+777,3500000.0,Srdjan Babic,ud-almeria/startseite/verein/3302,Serbia,Spain,N
+778,9000000.0,Marko Grujic,fc-porto/startseite/verein/720,Serbia,Portugal,N
+779,4000000.0,Nemanja Gudelj,fc-sevilla/startseite/verein/368,Serbia,Spain,N
+780,19000000.0,Ivan Ilic,fc-turin/startseite/verein/416,Serbia,Italy,N
+781,6000000.0,Nemanja Maksimovic,fc-getafe/startseite/verein/3709,Serbia,Spain,N
+782,3500000.0,Mijat Gacinovic,aek-athen/startseite/verein/2441,Serbia,Greece,N
+783,14000000.0,Lazar Samardzic,udinese-calcio/startseite/verein/410,Serbia,Italy,N
+784,7000000.0,Dusan Tadic,ajax-amsterdam/startseite/verein/610,Serbia,Netherlands,N
+785,1200000.0,Nikola Cumic,fk-vojvodina-novi-sad/startseite/verein/448,Serbia,Serbia,Y
+786,8000000.0,Luka Jovic,ac-florenz/startseite/verein/430,Serbia,Italy,N
+787,3500000.0,Djordje Jovanovic,maccabi-tel-aviv/startseite/verein/119,Serbia,Israel,N
+788,1300000.0,Hyeon-woo Jo,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
+789,900000.0,Seung-gyu Kim,al-shabab-riad/startseite/verein/9840,South Korea,Saudi Arabia,N
+790,800000.0,Ji-su Park,portimonense-sc/startseite/verein/7378,South Korea,Portugal,N
+791,650000.0,Ki-je Lee,suwon-samsung-bluewings/startseite/verein/3301,South Korea,South Korea,Y
+792,250000.0,Kyu-hyun Park,sg-dynamo-dresden/startseite/verein/129,South Korea,Germany,N
+793,650000.0,Hyun-beom Ahn,jeju-united/startseite/verein/19684,South Korea,South Korea,Y
+794,1000000.0,Yong-woo Park,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
+795,5500000.0,Hyun-seok Hong,kaa-gent/startseite/verein/157,South Korea,Belgium,N
+796,22000000.0,Kang-in Lee,rcd-mallorca/startseite/verein/237,South Korea,Spain,N
+797,60000000.0,Heung-min Son,tottenham-hotspur/startseite/verein/148,South Korea,England,N
+798,675000.0,Seon-min Moon,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
+799,5000000.0,Ui-jo Hwang,fc-seoul/startseite/verein/6500,South Korea,South Korea,Y
+800,1800000.0,Hyeon-gyu Oh,celtic-glasgow/startseite/verein/371,South Korea,Scotland,N
+801,1100000.0,Bum-keun Song,shonan-bellmare/startseite/verein/8457,South Korea,Japan,N
+802,950000.0,Seung-hyun Jung,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
+803,600000.0,Ju-sung Kim,fc-seoul/startseite/verein/6500,South Korea,South Korea,Y
+804,600000.0,Jin-su Kim,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
+805,1000000.0,Young-woo Seol,ulsan-hyundai/startseite/verein/3535,South Korea,South Korea,Y
+806,3500000.0,Jun-ho Son,shandong-taishan/startseite/verein/3182,South Korea,China,N
+807,900000.0,Du-jae Won,gimcheon-sangmu/startseite/verein/6505,South Korea,South Korea,Y
+808,4500000.0,In-beom Hwang,olympiakos-piraus/startseite/verein/683,South Korea,Greece,N
+809,4000000.0,Jae-sung Lee,1-fsv-mainz-05/startseite/verein/39,South Korea,Germany,N
+810,900000.0,Sang-ho Na,fc-seoul/startseite/verein/6500,South Korea,South Korea,Y
+811,12000000.0,Hee-chan Hwang,wolverhampton-wanderers/startseite/verein/543,South Korea,England,N
+812,2500000.0,Gue-sung Cho,jeonbuk-hyundai-motors/startseite/verein/6502,South Korea,South Korea,Y
+813,25000000.0,David Raya,fc-brentford/startseite/verein/1148,Spain,England,N
+814,15000000.0,Kepa Arrizabalaga,fc-chelsea/startseite/verein/631,Spain,England,N
+815,30000000.0,Aymeric Laporte,manchester-city/startseite/verein/281,Spain,England,N
+816,12000000.0,Fran García,rayo-vallecano/startseite/verein/367,Spain,Spain,Y
+817,12000000.0,Daniel Carvajal,real-madrid/startseite/verein/418,Spain,Spain,Y
+818,80000000.0,Rodri,manchester-city/startseite/verein/281,Spain,England,N
+819,90000000.0,Gavi,fc-barcelona/startseite/verein/131,Spain,Spain,Y
+820,38000000.0,Fabián Ruiz,fc-paris-saint-germain/startseite/verein/583,Spain,France,N
+821,15000000.0,Sergio Canales,real-betis-sevilla/startseite/verein/150,Spain,Spain,Y
+822,40000000.0,Yéremy Pino,fc-villarreal/startseite/verein/1050,Spain,Spain,Y
+823,20000000.0,Álvaro Morata,atletico-madrid/startseite/verein/13,Spain,Spain,Y
+824,6000000.0,Joselu,espanyol-barcelona/startseite/verein/714,Spain,Spain,Y
+825,25000000.0,Unai Simón,athletic-bilbao/startseite/verein/621,Spain,Spain,Y
+826,35000000.0,Robin Le Normand,real-sociedad-san-sebastian/startseite/verein/681,Spain,Spain,Y
+827,6000000.0,Nacho Fernández,real-madrid/startseite/verein/418,Spain,Spain,Y
+828,5000000.0,Jordi Alba,fc-barcelona/startseite/verein/131,Spain,Spain,Y
+829,3000000.0,Jesús Navas,fc-sevilla/startseite/verein/368,Spain,Spain,Y
+830,40000000.0,Martín Zubimendi,real-sociedad-san-sebastian/startseite/verein/681,Spain,Spain,Y
+831,50000000.0,Mikel Merino,real-sociedad-san-sebastian/startseite/verein/681,Spain,Spain,Y
+832,40000000.0,Dani Olmo,rasenballsport-leipzig/startseite/verein/23826,Spain,Germany,N
+833,35000000.0,Ansu Fati,fc-barcelona/startseite/verein/131,Spain,Spain,Y
+834,25000000.0,Marco Asensio,real-madrid/startseite/verein/418,Spain,Spain,Y
+835,9000000.0,Rodrigo,leeds-united/startseite/verein/399,Spain,England,N
+836,3000000.0,Viktor Johansson,rotherham-united/startseite/verein/1194,Sweden,England,N
+837,600000.0,Kristoffer Nordfeldt,aik-solna/startseite/verein/272,Sweden,Sweden,Y
+838,8000000.0,Hjalmar Ekdal,fc-burnley/startseite/verein/1132,Sweden,England,N
+839,6000000.0,Carl Starfelt,celtic-glasgow/startseite/verein/371,Sweden,Scotland,N
+840,5000000.0,Gabriel Gudmundsson,losc-lille/startseite/verein/1082,Sweden,France,N
+841,300000.0,Martin Olsson,malmo-ff/startseite/verein/496,Sweden,Sweden,Y
+842,600000.0,Daniel Sundgren,maccabi-haifa/startseite/verein/1064,Sweden,Israel,N
+843,3000000.0,Jesper Karlström,lech-posen/startseite/verein/238,Sweden,Poland,N
+844,800000.0,Albin Ekdal,spezia-calcio/startseite/verein/3522,Sweden,Italy,N
+845,4000000.0,Hugo Larsson,malmo-ff/startseite/verein/496,Sweden,Sweden,Y
+846,1000000.0,Marcus Rohdén,frosinone-calcio/startseite/verein/8970,Sweden,Italy,N
+847,9000000.0,Emil Forsberg,rasenballsport-leipzig/startseite/verein/23826,Sweden,Germany,N
+848,16000000.0,Jesper Karlsson,az-alkmaar/startseite/verein/1090,Sweden,Netherlands,N
+849,55000000.0,Dejan Kulusevski,tottenham-hotspur/startseite/verein/148,Sweden,England,N
+850,13000000.0,Viktor Gyökeres,coventry-city/startseite/verein/990,Sweden,England,N
+851,2000000.0,Robin Olsen,aston-villa/startseite/verein/405,Sweden,England,N
+852,15000000.0,Victor Lindelöf,manchester-united/startseite/verein/985,Sweden,England,N
+853,6000000.0,Isak Hien,hellas-verona/startseite/verein/276,Sweden,Italy,N
+854,2000000.0,Edvin Kurtulus,hammarby-if/startseite/verein/1059,Sweden,Sweden,Y
+855,2500000.0,Ludwig Augustinsson,rcd-mallorca/startseite/verein/237,Sweden,Spain,N
+856,1200000.0,Linus Wahlqvist,pogon-stettin/startseite/verein/324,Sweden,Poland,N
+857,4500000.0,Jens Cajuste,stade-reims/startseite/verein/1421,Sweden,France,N
+858,1800000.0,Samuel Gustafson,bk-hacken/startseite/verein/1109,Sweden,Sweden,Y
+859,15000000.0,Mattias Svanberg,vfl-wolfsburg/startseite/verein/82,Sweden,Germany,N
+860,2500000.0,Kristoffer Olsson,fc-midtjylland/startseite/verein/865,Sweden,Denmark,N
+861,2500000.0,Ken Sema,fc-watford/startseite/verein/1010,Sweden,England,N
+862,25000000.0,Anthony Elanga,manchester-united/startseite/verein/985,Sweden,England,N
+863,7000000.0,Viktor Claesson,fc-kopenhagen/startseite/verein/190,Sweden,Denmark,N
+864,50000000.0,Alexander Isak,newcastle-united/startseite/verein/762,Sweden,England,N
+865,4500000.0,Robin Quaison,al-ettifaq/startseite/verein/7732,Sweden,Saudi Arabia,N
+866,35000000.0,Gregor Kobel,borussia-dortmund/startseite/verein/16,Switzerland,Germany,N
+867,3500000.0,Yvon Mvogo,fc-lorient/startseite/verein/1158,Switzerland,France,N
+868,20000000.0,Nico Elvedi,borussia-monchengladbach/startseite/verein/18,Switzerland,Germany,N
+869,5500000.0,Cédric Zesiger,bsc-young-boys/startseite/verein/452,Switzerland,Switzerland,Y
+870,3500000.0,Ricardo Rodríguez,fc-turin/startseite/verein/416,Switzerland,Italy,N
+871,6000000.0,Jordan Lotomba,ogc-nizza/startseite/verein/417,Switzerland,France,N
+872,28000000.0,Granit Xhaka,fc-arsenal/startseite/verein/11,Switzerland,England,N
+873,10000000.0,Remo Freuler,nottingham-forest/startseite/verein/703,Switzerland,England,N
+874,3000000.0,Edimilson Fernandes,1-fsv-mainz-05/startseite/verein/39,Switzerland,Germany,N
+875,4000000.0,Xherdan Shaqiri,chicago-fire-fc/startseite/verein/432,Switzerland,United States,N
+876,2500000.0,Steven Zuber,aek-athen/startseite/verein/2441,Switzerland,Greece,N
+877,10000000.0,Zeki Amdouni,fc-basel-1893/startseite/verein/26,Switzerland,Switzerland,Y
+878,3500000.0,Andi Zeqiri,fc-basel-1893/startseite/verein/26,Switzerland,Switzerland,Y
+879,5000000.0,Yann Sommer,fc-bayern-munchen/startseite/verein/27,Switzerland,Germany,N
+880,30000000.0,Manuel Akanji,manchester-city/startseite/verein/281,Switzerland,England,N
+881,10000000.0,Fabian Schär,newcastle-united/startseite/verein/762,Switzerland,England,N
+882,3500000.0,Eray Cömert,fc-valencia/startseite/verein/1049,Switzerland,Spain,N
+883,2700000.0,Ulisses Garcia,bsc-young-boys/startseite/verein/452,Switzerland,Switzerland,Y
+884,20000000.0,Denis Zakaria,fc-chelsea/startseite/verein/631,Switzerland,England,N
+885,22000000.0,Djibril Sow,eintracht-frankfurt/startseite/verein/24,Switzerland,Germany,N
+886,4000000.0,Michel Aebischer,fc-bologna/startseite/verein/1025,Switzerland,Italy,N
+887,800000.0,Uran Bislimi,fc-lugano/startseite/verein/2790,Switzerland,Switzerland,Y
+888,6000000.0,Rubén Vargas,fc-augsburg/startseite/verein/167,Switzerland,Germany,N
+889,1000000.0,Renato Steffen,fc-lugano/startseite/verein/2790,Switzerland,Switzerland,Y
+890,4000000.0,Haris Seferovic,celta-vigo/startseite/verein/940,Switzerland,Spain,N
+891,1000000.0,Aymen Dahmen,club-sportif-sfaxien/startseite/verein/581,Tunisia,Tunisia,Y
+892,500000.0,Mouez Hassen,club-africain-tunis/startseite/verein/819,Tunisia,Tunisia,Y
+893,5000000.0,Montassar Talbi,fc-lorient/startseite/verein/1158,Tunisia,France,N
+894,800000.0,Oussama Haddadi,spvgg-greuther-furth/startseite/verein/65,Tunisia,Germany,N
+895,1500000.0,Mortadha Ben Ouanes,kasimpasa/startseite/verein/10484,Tunisia,Turkey,N
+896,2500000.0,Yan Valery,sco-angers/startseite/verein/1420,Tunisia,France,N
+897,800000.0,Wajdi Kechrida,atromitos-athen/startseite/verein/3060,Tunisia,Greece,N
+898,4000000.0,Aïssa Laïdouni,1-fc-union-berlin/startseite/verein/89,Tunisia,Germany,N
+899,2700000.0,Mohamed Ali Ben Romdhane,esperance-tunis/startseite/verein/3342,Tunisia,Tunisia,Y
+900,1000000.0,Haykeul Chikhaoui,us-monastir/startseite/verein/9890,Tunisia,Tunisia,Y
+901,350000.0,Oussema Bouguerra,olympique-beja/startseite/verein/8117,Tunisia,Tunisia,Y
+902,350000.0,Elias Achouri,viborg-ff/startseite/verein/1063,Tunisia,Denmark,N
+903,550000.0,Haythem Jouini,stade-tunisien/startseite/verein/4812,Tunisia,Tunisia,Y
+904,900000.0,Bechir Ben Said,us-monastir/startseite/verein/9890,Tunisia,Tunisia,Y
+905,25000.0,Dries Arfaoui,kmsk-deinze-u21/startseite/verein/66379,Tunisia,Belgium,N
+906,2000000.0,Yassine Meriah,esperance-tunis/startseite/verein/3342,Tunisia,Tunisia,Y
+907,700000.0,Alaa Ghram,club-sportif-sfaxien/startseite/verein/581,Tunisia,Tunisia,Y
+908,1500000.0,Ali Abdi,sm-caen/startseite/verein/1162,Tunisia,France,N
+909,900000.0,Mohamed Dräger,fc-luzern/startseite/verein/434,Tunisia,Switzerland,N
+910,100000.0,Mohamed Wael Derbali,olympique-beja/startseite/verein/8117,Tunisia,Tunisia,Y
+911,3500000.0,Anis Slimane,brondby-if/startseite/verein/206,Tunisia,Denmark,N
+912,8000000.0,Hannibal,manchester-united/startseite/verein/985,Tunisia,England,N
+913,400000.0,Oussama Abid,etoile-sportive-du-sahel/startseite/verein/250,Tunisia,Tunisia,Y
+914,1000000.0,Mohamed Dhaoui,el-ahly-kairo/startseite/verein/7,Tunisia,Egypt,N
+915,500000.0,Issam Jebali,gamba-osaka/startseite/verein/596,Tunisia,Japan,N
+916,350000.0,Hamdi Labidi,club-africain-tunis/startseite/verein/819,Tunisia,Tunisia,Y
+917,8000000.0,Gabriel Slonina,fc-chelsea/startseite/verein/631,United States,England,N
+918,1500000.0,Sean Johnson,toronto-fc/startseite/verein/11141,United States,Canada,N
+919,3000000.0,Aaron Long,los-angeles-fc/startseite/verein/51828,United States,United States,Y
+920,2000000.0,Matt Miazga,fc-cincinnati/startseite/verein/51772,United States,United States,Y
+921,3500000.0,DeJuan Jones,new-england-revolution/startseite/verein/626,United States,United States,Y
+922,4000000.0,Bryan Reynolds,kvc-westerlo/startseite/verein/968,United States,Belgium,N
+923,6000000.0,Cristian Roldán,seattle-sounders-fc/startseite/verein/9636,United States,United States,Y
+924,2800000.0,Alan Soñora,fc-juarez/startseite/verein/49283,United States,Mexico,N
+925,2500000.0,Julian Gressel,vancouver-whitecaps-fc/startseite/verein/6321,United States,Canada,N
+926,5500000.0,Jordan Morris,seattle-sounders-fc/startseite/verein/9636,United States,United States,Y
+927,5000000.0,Álex Zendejas,cf-america/startseite/verein/3631,United States,Mexico,N
+928,7000000.0,Brandon Vazquez,fc-cincinnati/startseite/verein/51772,United States,United States,Y
+929,5000000.0,Matt Turner,fc-arsenal/startseite/verein/11,United States,England,N
+930,5000000.0,Miles Robinson,atlanta-united-fc/startseite/verein/51663,United States,United States,Y
+931,2500000.0,James Sands,new-york-city-fc/startseite/verein/40058,United States,United States,Y
+932,175000.0,Jalen Neal,los-angeles-galaxy/startseite/verein/1061,United States,United States,Y
+933,2500000.0,John Tolkin,new-york-red-bulls/startseite/verein/623,United States,United States,Y
+934,2000000.0,DeAndre Yedlin,inter-miami-cf/startseite/verein/69261,United States,United States,Y
+935,3700000.0,Gianluca Busio,venezia-fc/startseite/verein/607,United States,Italy,N
+936,1500000.0,Aidan Morris,columbus-crew-sc/startseite/verein/813,United States,United States,Y
+937,6000000.0,Djordje Mihailovic,az-alkmaar/startseite/verein/1090,United States,Netherlands,N
+938,5000000.0,Cade Cowell,san-jose-earthquakes/startseite/verein/218,United States,United States,Y
+939,8000000.0,Jesús Ferreira,fc-dallas/startseite/verein/8816,United States,United States,Y
+940,3500000.0,Sergio Rochet,club-nacional/startseite/verein/866,Uruguay,Uruguay,Y
+941,1200000.0,Santiago Mele,club-atletico-union/startseite/verein/7097,Uruguay,Argentina,N
+942,5000000.0,Bruno Méndez,corinthians-sao-paulo/startseite/verein/199,Uruguay,Brazil,N
+943,1000000.0,Facundo González,fc-valencia-b-mestalla-/startseite/verein/6182,Uruguay,Spain,N
+944,500000.0,Mauricio Lemos,clube-atletico-mineiro/startseite/verein/330,Uruguay,Brazil,N
+945,8000000.0,Joaquín Piquerez,se-palmeiras-sao-paulo/startseite/verein/1023,Uruguay,Brazil,N
+946,2500000.0,Lucas Olaza,real-valladolid/startseite/verein/366,Uruguay,Spain,N
+947,2000000.0,Guillermo Varela,flamengo-rio-de-janeiro/startseite/verein/614,Uruguay,Brazil,N
+948,5000000.0,Fabricio Díaz,liverpool-fc-montevideo/startseite/verein/10663,Uruguay,Uruguay,Y
+949,3000000.0,Felipe Carballo,gremio-porto-alegre/startseite/verein/210,Uruguay,Brazil,N
+950,9500000.0,Diego Rossi,fenerbahce-istanbul/startseite/verein/36,Uruguay,Turkey,N
+951,4000000.0,Brian Rodríguez,cf-america/startseite/verein/3631,Uruguay,Mexico,N
+952,10000000.0,Facundo Torres,orlando-city-sc/startseite/verein/45604,Uruguay,United States,N
+953,3000000.0,Facundo Pellistri,manchester-united/startseite/verein/985,Uruguay,England,N
+954,4000000.0,Thiago Borbas,red-bull-bragantino/startseite/verein/8793,Uruguay,Brazil,N
+955,1500000.0,Luciano Rodríguez,liverpool-fc-montevideo/startseite/verein/10663,Uruguay,Uruguay,Y
+956,2500000.0,Franco Israel,sporting-lissabon/startseite/verein/336,Uruguay,Portugal,N
+957,500000.0,Randall Rodríguez,ca-penarol/startseite/verein/861,Uruguay,Uruguay,Y
+958,4000000.0,Sebastián Cáceres,cf-america/startseite/verein/3631,Uruguay,Mexico,N
+959,900000.0,Sebastián Boselli,defensor-sc/startseite/verein/2619,Uruguay,Uruguay,Y
+960,500000.0,Santiago Mouriño,racing-club-de-montevideo/startseite/verein/14758,Uruguay,Uruguay,Y
+961,6000000.0,Matías Viña,afc-bournemouth/startseite/verein/989,Uruguay,England,N
+962,3000000.0,José Luis Rodríguez,vasco-da-gama-rio-de-janeiro/startseite/verein/978,Uruguay,Brazil,N
+963,500000.0,Mateo Ponte,danubio-fc/startseite/verein/1306,Uruguay,Uruguay,Y
+964,3500000.0,Emiliano Martínez,fc-midtjylland/startseite/verein/865,Uruguay,Denmark,N
+965,3500000.0,Rodrigo Zalazar,fc-schalke-04/startseite/verein/33,Uruguay,Germany,N
+966,7000000.0,Maximiliano Araújo,deportivo-toluca/startseite/verein/1804,Uruguay,Mexico,N
+967,250000.0,Anderson Duarte,defensor-sc/startseite/verein/2619,Uruguay,Uruguay,Y
+968,4000000.0,Agustín Canobbio,club-athletico-paranaense/startseite/verein/679,Uruguay,Brazil,N
+969,7000000.0,Matías Arezo,ca-penarol/startseite/verein/861,Uruguay,Uruguay,Y
+970,1800000.0,Federico Viñas,cf-america/startseite/verein/3631,Uruguay,Mexico,N
+971,8000000.0,Danny Ward,leicester-city/startseite/verein/1003,Wales,England,N
+972,500000.0,Adam Davies,sheffield-united/startseite/verein/350,Wales,England,N
+973,9000000.0,Ethan Ampadu,spezia-calcio/startseite/verein/3522,Wales,Italy,N
+974,6000000.0,Chris Mepham,afc-bournemouth/startseite/verein/989,Wales,England,N
+975,20000000.0,Ben Davies,tottenham-hotspur/startseite/verein/148,Wales,England,N
+976,18000000.0,Neco Williams,nottingham-forest/startseite/verein/703,Wales,England,N
+977,3000000.0,Aaron Ramsey,ogc-nizza/startseite/verein/417,Wales,France,N
+978,350000.0,Joe Morrell,fc-portsmouth/startseite/verein/1020,Wales,England,N
+979,3200000.0,Oliver Cooper,swansea-city/startseite/verein/2288,Wales,Wales,Y
+980,13000000.0,Harry Wilson,fc-fulham/startseite/verein/931,Wales,England,N
+981,12000000.0,David Brooks,afc-bournemouth/startseite/verein/989,Wales,England,N
+982,1200000.0,Liam Cullen,swansea-city/startseite/verein/2288,Wales,Wales,Y
+983,900000.0,Tom Bradshaw,fc-millwall/startseite/verein/1028,Wales,England,N
+984,500000.0,Wayne Hennessey,nottingham-forest/startseite/verein/703,Wales,England,N
+985,13000000.0,Ben Cabango,swansea-city/startseite/verein/2288,Wales,Wales,Y
+986,8000000.0,Joe Rodon,fc-stade-rennes/startseite/verein/273,Wales,France,N
+987,125000.0,Joe Low,bristol-city-u23/startseite/verein/39304,Wales,England,N
+988,700000.0,Morgan Fox,stoke-city/startseite/verein/512,Wales,England,N
+989,8000000.0,Connor Roberts,fc-burnley/startseite/verein/1132,Wales,England,N
+990,3000000.0,Jordan James,birmingham-city/startseite/verein/337,Wales,England,N
+991,30000000.0,Brennan Johnson,nottingham-forest/startseite/verein/703,Wales,England,N
+992,500000.0,Luke Harris,fc-fulham-u23/startseite/verein/9262,Wales,England,N
+993,13000000.0,Daniel James,leeds-united/startseite/verein/399,Wales,England,N
+994,4000000.0,Kieffer Moore,afc-bournemouth/startseite/verein/989,Wales,England,N
+995,1000000.0,Nathan Broadhead,ipswich-town/startseite/verein/677,Wales,England,N
